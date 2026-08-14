@@ -7,15 +7,15 @@
     "lastSuccess": "2026-08-14"
   },
   "roy-thomson-hall": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "koerner-hall": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "td-music-hall": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "danforth-music-hall": {
@@ -82,7 +82,7 @@
     "lastSuccess": "2026-08-14"
   },
   "coca-cola-coliseum": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "budweiser-stage": {
@@ -135,15 +135,15 @@
     "lastSuccess": "2026-08-14"
   },
   "baby-g": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "hughs-room-live": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "jazz-bistro": {
@@ -154,27 +154,34 @@
     "lastSuccess": "2026-08-14"
   },
   "rose-theatre-brampton": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "meridian-hall": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "living-arts-centre": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "burdock": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
   },
   "rec-room-roundhouse": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": []
+  },
+  "rogers-stadium": {
+    "consecutiveFailures": 0,
+    "notes": [],
+    "workingUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
+    "strategy": "jsonld",
+    "lastSuccess": "2026-08-14"
   }
 }
