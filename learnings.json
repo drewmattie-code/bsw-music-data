@@ -7,15 +7,15 @@
     "lastSuccess": "2026-08-14"
   },
   "roy-thomson-hall": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "koerner-hall": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "td-music-hall": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "danforth-music-hall": {
@@ -82,7 +82,7 @@
     "lastSuccess": "2026-08-14"
   },
   "coca-cola-coliseum": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "budweiser-stage": {
@@ -135,15 +135,15 @@
     "lastSuccess": "2026-08-14"
   },
   "baby-g": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "hughs-room-live": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "jazz-bistro": {
@@ -154,27 +154,27 @@
     "lastSuccess": "2026-08-14"
   },
   "rose-theatre-brampton": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "meridian-hall": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "living-arts-centre": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "burdock": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   },
   "rec-room-roundhouse": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "notes": []
   }
 }
