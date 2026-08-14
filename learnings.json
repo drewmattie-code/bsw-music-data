@@ -135,15 +135,15 @@
     "lastSuccess": "2026-08-14"
   },
   "baby-g": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "hughs-room-live": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "jazz-bistro": {
@@ -154,19 +154,24 @@
     "lastSuccess": "2026-08-14"
   },
   "rose-theatre-brampton": {
-    "consecutiveFailures": 4,
-    "notes": []
+    "consecutiveFailures": 0,
+    "notes": [],
+    "strategy": "camofox",
+    "lastSuccess": "2026-08-14"
   },
   "meridian-hall": {
-    "consecutiveFailures": 4,
-    "notes": []
+    "consecutiveFailures": 0,
+    "notes": [],
+    "workingUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
+    "strategy": "jsonld",
+    "lastSuccess": "2026-08-14"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "burdock": {
@@ -295,6 +300,10 @@
     "music bingo @ castros": "other",
     "the evan miles trio": "jazz/blues",
     "bts world tour 'arirang' in toronto": "pop",
-    "chris stapleton's all-american road show": "country/folk"
+    "chris stapleton's all-american road show": "country/folk",
+    "colin hunter the joe sealy quartet": "other",
+    "flower city bhangra 2026": "other",
+    "madhur sharma live in concert": "other",
+    "the wiggles - tree of wisdom spectacular!": "other"
   }
 }
