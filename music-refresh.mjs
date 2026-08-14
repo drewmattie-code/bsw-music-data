@@ -335,6 +335,41 @@ for (const [id, src] of Object.entries(sources)) {
   stats.push(`${id}: ${r.events.length} via ${r.strategy}`);
 }
 
+// ---------- Genre classification (editorial metadata, cached per artist) ----------
+// Fixed taxonomy; the model may answer "other" when unsure. Cached in learnings.json so
+// an artist is classified once, not every run.
+const GENRES = [
+  "rock", "pop", "hip-hop/r&b", "electronic", "country/folk", "jazz/blues",
+  "metal/punk", "world", "classical", "other",
+];
+const genreCache = (learnings.__genreCache ||= {});
+const allArtists = [...new Set(result.venues.flatMap((v) => v.events.map((e) => e.artist)))];
+const unclassified = allArtists.filter((a) => !genreCache[a.toLowerCase()]);
+log(`genre: ${allArtists.length} artists, ${unclassified.length} need classification`);
+for (let i = 0; i < unclassified.length; i += 40) {
+  const batch = unclassified.slice(i, i + 40);
+  try {
+    const out = await askModel(
+      `Classify each live act below into exactly one genre from this list: ${GENRES.join(", ")}.\n` +
+        `Use "other" if you are not confident. Respond with ONLY a JSON object mapping the exact act string to its genre, no prose.\n\n` +
+        batch.map((a) => `- ${a}`).join("\n"),
+      2048
+    );
+    const start = out.indexOf("{");
+    const end = out.lastIndexOf("}");
+    const map = start >= 0 && end > start ? JSON.parse(out.slice(start, end + 1)) : {};
+    for (const a of batch) {
+      const g = String(map[a] || "other").toLowerCase();
+      genreCache[a.toLowerCase()] = GENRES.includes(g) ? g : "other";
+    }
+  } catch (e) {
+    log(`genre batch ERROR ${String(e.message || e).slice(0, 120)}`);
+    for (const a of batch) genreCache[a.toLowerCase()] ||= "other";
+  }
+}
+for (const v of result.venues)
+  for (const e of v.events) e.genre = genreCache[e.artist.toLowerCase()] || "other";
+
 const totalShows = result.venues.reduce((s, v) => s + v.events.length, 0);
 const withShows = result.venues.filter((v) => v.events.length > 0).length;
 log(`TOTAL: ${totalShows} shows across ${withShows}/${result.venues.length} venues`);
