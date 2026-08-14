@@ -67,6 +67,41 @@ async function fetchPage(url, timeoutMs = 25000) {
   }
 }
 
+// ---------- Camofox fallback (JS-rendered / bot-blocked venues) ----------
+// Local Camofox on :9377 renders the page in a real Firefox and returns the a11y tree.
+// That text goes straight to the model-extraction path. Used only for venues flagged
+// "browserUrl" in sources.json, after plain fetch produced nothing.
+
+const CAMOFOX_URL = process.env.CAMOFOX_URL || "http://localhost:9377";
+
+async function camofoxFetchText(url) {
+  let tabId;
+  try {
+    const create = await fetch(`${CAMOFOX_URL}/tabs`, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ userId: "music", sessionKey: "daily", url }),
+    });
+    if (!create.ok) return { error: `camofox HTTP ${create.status}` };
+    tabId = (await create.json()).tabId;
+    await new Promise((r) => setTimeout(r, 12000));
+    const snap = await fetch(`${CAMOFOX_URL}/tabs/${tabId}/snapshot?userId=music`);
+    if (!snap.ok) return { error: `camofox snapshot HTTP ${snap.status}` };
+    const data = await snap.json();
+    const text = String(data.snapshot || "")
+      .replace(/\/url:[^\n]*/g, " ")
+      .replace(/\[e\d+\]/g, " ")
+      .replace(/[-*]\s*(link|button|heading|listitem|list|img|text|paragraph|banner|contentinfo|navigation|main|time|tab)\b[^\"]*\"?/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    return { text: text.slice(0, 16000) };
+  } catch (e) {
+    return { error: String(e.message || e).slice(0, 120) };
+  } finally {
+    if (tabId) fetch(`${CAMOFOX_URL}/tabs/${tabId}?userId=music`, { method: "DELETE" }).catch(() => {});
+  }
+}
+
 // ---------- JSON-LD extraction ----------
 
 function collectLdObjects(node, out) {
@@ -87,17 +122,107 @@ function formatTime(startDate) {
   return `${h}:${min} ${ampm}`;
 }
 
+// offerAvailability + offerPrice written by Qwen3.8-27B (no-think), reviewed + integrated 2026-08-14.
+function offerAvailability(offers) {
+  const raw = [].concat(offers || []);
+  const rank = { available: 4, limited: 3, presale: 2, soldout: 1 };
+  let best = "";
+  let bestRank = 0;
+
+  for (const of_ of raw) {
+    if (!of_ || typeof of_ !== "object") continue;
+    const val = of_.availability;
+    if (typeof val !== "string") continue;
+
+    const s = val.trim().toLowerCase();
+    if (!s) continue;
+
+    // Reject template junk
+    if (s.includes("{{") || s.includes("}}") || s.includes("api/")) continue;
+
+    let mapped = "";
+    if (s.includes("in stock") || s.endsWith("instock") || s === "instock") {
+      mapped = "available";
+    } else if (s.includes("limited") && s.includes("availability")) {
+      mapped = "limited";
+    } else if (s.includes("sold out") || s.includes("soldout") || s.includes("out of stock") || s.includes("outofstock")) {
+      mapped = "soldout";
+    } else if (s.includes("pre order") || s.includes("preorder") || s.includes("pre sale") || s.includes("presale")) {
+      mapped = "presale";
+    }
+
+    if (!mapped) continue;
+
+    const r = rank[mapped];
+    if (r > bestRank) {
+      bestRank = r;
+      best = mapped;
+    }
+  }
+
+  return best;
+}
+
+function offerPrice(offers) {
+  const raw = [].concat(offers || []);
+  let minPrice = Infinity;
+  let currency = "";
+
+  for (const of_ of raw) {
+    if (!of_ || typeof of_ !== "object") continue;
+
+    let priceVal = null;
+    let cur = "";
+
+    if (typeof of_.price === "number" && isFinite(of_.price) && of_.price > 0) {
+      priceVal = of_.price;
+    } else if (typeof of_.price === "string") {
+      const n = parseFloat(of_.price);
+      if (isFinite(n) && n > 0) priceVal = n;
+    }
+
+    if (priceVal === null && typeof of_.lowPrice === "number" && isFinite(of_.lowPrice) && of_.lowPrice > 0) {
+      priceVal = of_.lowPrice;
+    } else if (priceVal === null && typeof of_.lowPrice === "string") {
+      const n = parseFloat(of_.lowPrice);
+      if (isFinite(n) && n > 0) priceVal = n;
+    }
+
+    if (priceVal === null) continue;
+
+    if (typeof of_.priceCurrency === "string" && of_.priceCurrency.trim()) {
+      cur = of_.priceCurrency.trim().toUpperCase();
+    }
+
+    if (priceVal < minPrice) {
+      minPrice = priceVal;
+      currency = cur;
+    }
+  }
+
+  if (minPrice === Infinity) return "";
+
+  let prefix = "";
+  if (currency === "USD" || currency === "CAD") {
+    prefix = "$";
+  } else if (currency === "EUR") {
+    prefix = "EUR ";
+  } else if (currency === "GBP") {
+    prefix = "GBP ";
+  } else if (currency) {
+    prefix = currency + " ";
+  }
+
+  return "From " + prefix + minPrice.toFixed(2);
+}
+
 function extractJsonLd(html) {
   const events = [];
   const re = /<script[^>]*type\s*=\s*["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi;
   let m;
   while ((m = re.exec(html))) {
     let parsed;
-    try {
-      parsed = JSON.parse(m[1].trim());
-    } catch {
-      continue;
-    }
+    try { parsed = JSON.parse(m[1].trim()); } catch { continue; }
     const objs = [];
     collectLdObjects(parsed, objs);
     for (const o of objs) {
@@ -113,7 +238,7 @@ function extractJsonLd(html) {
       const offers = [].concat(o.offers || []);
       for (const of_ of offers) if (of_ && typeof of_.url === "string") ticketUrl = of_.url;
       if (!ticketUrl && typeof o.url === "string") ticketUrl = o.url;
-      events.push({ date, time: formatTime(start), artist: name, ticketUrl });
+      events.push({ date, time: formatTime(start), artist: name, ticketUrl, availability: offerAvailability(offers), price: offerPrice(offers) });
     }
   }
   return events;
@@ -223,10 +348,14 @@ function validateEvents(raw, venueSite) {
         ticketUrl = "";
       }
     }
+    const availability = ["available", "limited", "soldout", "presale"].includes(e.availability)
+      ? e.availability
+      : "";
+    const price = typeof e.price === "string" && e.price.startsWith("From ") ? e.price : "";
     const key = `${date}|${artist.toLowerCase()}`;
     if (seen.has(key)) continue;
     seen.add(key);
-    out.push({ date, time, artist, ticketUrl });
+    out.push({ date, time, artist, ticketUrl, availability, price });
   }
   return out.sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
 }
@@ -263,6 +392,24 @@ async function runVenue(id, src) {
     // Page fetched fine but no events — could genuinely be dark. Don't count as failure,
     // but only if this was the best-known URL; keep trying other candidates.
     log(`  ${id}: 0 events from ${url}`);
+  }
+
+  // Browser fallback for flagged venues: render via local Camofox, extract from the a11y text.
+  if (src.browserUrl) {
+    const { text, error } = await camofoxFetchText(src.browserUrl);
+    if (error) {
+      log(`  ${id}: camofox ${src.browserUrl} -> ${error}`);
+    } else if (text && text.length > 300) {
+      const events = validateEvents(await modelExtract(src.name, text, src.browserUrl), src.browserUrl);
+      if (events.length > 0) {
+        learn.strategy = "camofox";
+        learn.lastSuccess = windowStart;
+        learn.consecutiveFailures = 0;
+        log(`  ${id}: ${events.length} event(s) via camofox (${src.browserUrl})`);
+        return { events, strategy: "camofox", url: src.browserUrl };
+      }
+      log(`  ${id}: 0 events via camofox (${src.browserUrl})`);
+    }
   }
 
   learn.consecutiveFailures = (learn.consecutiveFailures || 0) + 1;

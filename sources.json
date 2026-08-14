@@ -7,17 +7,20 @@
   "roy-thomson-hall": {
     "name": "Roy Thomson Hall",
     "scheduleUrl": "https://www.ticketmaster.ca/roy-thomson-hall-tickets-toronto/venue/131112",
-    "fallbackUrl": "https://roythomsonhall.mhrth.com/tickets/events"
+    "fallbackUrl": "https://roythomsonhall.mhrth.com/tickets/events",
+    "browserUrl": "https://roythomsonhall.mhrth.com/whats-on"
   },
   "koerner-hall": {
     "name": "Koerner Hall",
     "scheduleUrl": "https://www.rcmusic.com/events",
-    "fallbackUrl": "https://www.rcmusic.com/performance"
+    "fallbackUrl": "https://www.rcmusic.com/performance",
+    "browserUrl": "https://www.rcmusic.com/events"
   },
   "td-music-hall": {
     "name": "TD Music Hall",
     "scheduleUrl": "https://www.ticketmaster.ca/td-music-hall-allied-music-centre-tickets-toronto/venue/132528",
-    "fallbackUrl": "https://tdmusichall.mhrth.com/tickets/events"
+    "fallbackUrl": "https://tdmusichall.mhrth.com/tickets/events",
+    "browserUrl": "https://tdmusichall.mhrth.com/whats-on"
   },
   "danforth-music-hall": {
     "name": "The Danforth Music Hall",
@@ -87,7 +90,8 @@
   "drake-underground": {
     "name": "Drake Underground",
     "scheduleUrl": "https://www.songkick.com/venues/14640-underground-the-drake-hotel",
-    "fallbackUrl": "https://thedrake.ca/thedrakehotel/drake-underground/"
+    "fallbackUrl": "https://thedrake.ca/thedrakehotel/drake-underground/",
+    "browserUrl": "https://www.songkick.com/venues/14640-underground-the-drake-hotel"
   },
   "great-hall": {
     "name": "The Great Hall",
@@ -112,7 +116,8 @@
   "monarch-tavern": {
     "name": "Monarch Tavern",
     "scheduleUrl": "https://www.themonarchtavern.com/",
-    "fallbackUrl": "https://www.songkick.com/venues/893266-monarch-tavern"
+    "fallbackUrl": "https://www.songkick.com/venues/893266-monarch-tavern",
+    "browserUrl": "https://www.songkick.com/venues/893266-monarch-tavern"
   },
   "hughs-room-live": {
     "name": "Hugh's Room Live",
@@ -127,27 +132,32 @@
   "rose-theatre-brampton": {
     "name": "Rose Theatre Brampton",
     "scheduleUrl": "https://tickets.brampton.ca/",
-    "fallbackUrl": "https://www.brampton.ca/EN/Arts-Culture-Tourism/Performing-Arts/Pages/Welcome.aspx"
+    "fallbackUrl": "https://www.brampton.ca/EN/Arts-Culture-Tourism/Performing-Arts/Pages/Welcome.aspx",
+    "browserUrl": "https://tickets.brampton.ca/"
   },
   "meridian-hall": {
     "name": "Meridian Hall",
-    "scheduleUrl": "https://tolive.com/Meridian-Hall",
-    "fallbackUrl": "https://tolive.com/events"
+    "scheduleUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
+    "fallbackUrl": "https://www.ticketmaster.ca/backstage-at-meridian-hall-tickets-toronto/venue/132505",
+    "browserUrl": "https://tolive.com/events"
   },
   "living-arts-centre": {
     "name": "Living Arts Centre",
     "scheduleUrl": "https://www.livingartscentre.ca/",
-    "fallbackUrl": "https://tickets.livingartscentre.ca/"
+    "fallbackUrl": "https://tickets.livingartscentre.ca/",
+    "browserUrl": "https://www.livingartscentre.ca/"
   },
   "adelaide-hall": {
     "name": "Adelaide Hall",
     "scheduleUrl": "https://www.adelaidehallto.com/events",
-    "fallbackUrl": "https://adelaidehallto.com/"
+    "fallbackUrl": "https://adelaidehallto.com/",
+    "browserUrl": "https://www.adelaidehallto.com/events"
   },
   "burdock": {
     "name": "Burdock Music Hall",
     "scheduleUrl": "https://burdockbrewery.com/pages/music-hall",
-    "fallbackUrl": "https://burdockbrewery.com/"
+    "fallbackUrl": "https://burdockbrewery.com/",
+    "browserUrl": "https://burdockbrewery.com/pages/music-hall"
   },
   "rec-room-roundhouse": {
     "name": "The Rec Room (Roundhouse)",
