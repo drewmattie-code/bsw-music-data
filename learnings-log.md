@@ -16,3 +16,9 @@ Improvement: Audit the "none" status venues to determine if a new JSON-LD schema
 Overall health: Moderate; 121 shows captured, but 13 of 32 venues (41%) returned zero results.
 Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, rose-theatre-brampton, meridian-hall, living-arts-centre, adelaide-hall, burdock, and rec-room-roundhouse.
 Improvement: Audit the "none" source venues to determine if a new JSON-LD path or a custom model parser is required.
+
+## 2026-08-14T21:51:19.288Z
+121 shows / 19 venues with listings
+Overall health: Moderate; 121 shows captured, but 13 of 32 venues (41%) returned zero results.
+Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, rose-theatre-brampton, meridian-hall, living-arts-centre, adelaide-hall, burdock, and rec-room-roundhouse.
+Improvement: Audit the "none" source venues to determine if a new JSON-LD path or a custom model parser is required.

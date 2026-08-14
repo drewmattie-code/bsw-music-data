@@ -7,15 +7,15 @@
     "lastSuccess": "2026-08-14"
   },
   "roy-thomson-hall": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "koerner-hall": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "td-music-hall": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "danforth-music-hall": {
@@ -82,7 +82,7 @@
     "lastSuccess": "2026-08-14"
   },
   "coca-cola-coliseum": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "budweiser-stage": {
@@ -135,15 +135,15 @@
     "lastSuccess": "2026-08-14"
   },
   "baby-g": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "hughs-room-live": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "jazz-bistro": {
@@ -154,27 +154,27 @@
     "lastSuccess": "2026-08-14"
   },
   "rose-theatre-brampton": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "meridian-hall": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "living-arts-centre": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "burdock": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "rec-room-roundhouse": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": []
   },
   "rogers-stadium": {
@@ -183,5 +183,118 @@
     "workingUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
     "strategy": "jsonld",
     "lastSuccess": "2026-08-14"
+  },
+  "__genreCache": {
+    "bonnie raitt: live 2026 with special guest maia sharp": "jazz/blues",
+    "masego: fix your face tour": "hip-hop/r&b",
+    "eagles of death metal - death by sexy 20th anniversary tour": "rock",
+    "faouzia - the film noir tour": "pop",
+    "jutes - smile you're on tour": "country/folk",
+    "the wallflowers": "rock",
+    "twrp": "rock",
+    "citizen - halcyon blues": "rock",
+    "gurkha events presents: swar - badal sari tour": "world",
+    "hablando huevadas": "other",
+    "cameron whitcomb - fragile egos tour": "country/folk",
+    "will wood - the self-ish tour 2026": "pop",
+    "chance the rapper - coloring book 10 year anniversary tour": "hip-hop/r&b",
+    "chance peña": "country/folk",
+    "jack harlow - monica tour": "hip-hop/r&b",
+    "atliens - destruction of a ufo tour": "electronic",
+    "charles wesley godwin - the christian name tour": "country/folk",
+    "down: strap it down tour '26": "metal/punk",
+    "peter hook & the light - north american tour 2026": "rock",
+    "isoxo presents: hardcore diva": "electronic",
+    "elevation rhythm - washed tour": "pop",
+    "arlo parks - desire tour": "hip-hop/r&b",
+    "tiffany day - halo tour - moved to opera house": "pop",
+    "tiffany day - halo tour": "pop",
+    "wooden wisdom": "electronic",
+    "jackson dean": "country/folk",
+    "asal - kiss the sun tour": "world",
+    "hoang": "other",
+    "boom 97.3 boombox live! w/ china crisis, big country, the icicle works, the vapors": "rock",
+    "swervedriver": "rock",
+    "the red jumpsuit apparatus": "rock",
+    "rhett miller of old 97's": "country/folk",
+    "josh tatofi": "pop",
+    "toque": "other",
+    "fern lindzon": "jazz/blues",
+    "artie roth quartet \"resonants\" album release celebration": "jazz/blues",
+    "diane roblin’s life force": "other",
+    "sam broverman": "jazz/blues",
+    "acidtrip.ca": "electronic",
+    "tailgate": "other",
+    "lucid hours": "electronic",
+    "avicii night @ lee's palace toronto": "electronic",
+    "quotedto presents: soundclash + vintage market": "hip-hop/r&b",
+    "satin jackets with special guests": "electronic",
+    "the cybertronic spree with danimal cannon and wordburglar": "electronic",
+    "nino paid - somewhere over the rainbow tour": "hip-hop/r&b",
+    "mustard service": "other",
+    "myles castello": "other",
+    "cindy craig": "other",
+    "rick campanelli": "other",
+    "asake in god we trust world tour": "world",
+    "kacey musgraves middle of nowhere tour": "country/folk",
+    "iron maiden run for your lives world tour 2026": "metal/punk",
+    "don toliver nitrous - octane world tour leg 2": "hip-hop/r&b",
+    "alexisonfire": "metal/punk",
+    "the kehlani world tour: north america": "hip-hop/r&b",
+    "deep purple with special guest kansas": "rock",
+    "simple plan - the bigger than you think tour": "metal/punk",
+    "hugel presents: make the girls dance": "electronic",
+    "jimmy eat world & pup": "rock",
+    "empire of the sun - ask that god: afterlife north american tour": "electronic",
+    "the fray - summer of light tour with dashboard confessional": "rock",
+    "sean paul x farruko": "world",
+    "patrick brealey": "other",
+    "paul reddick": "other",
+    "colonel tom": "other",
+    "corin raymond": "other",
+    "the odd country": "country/folk",
+    "cameron family singers": "country/folk",
+    "ritchie hummins duo": "jazz/blues",
+    "lori yates & the velvetinas": "jazz/blues",
+    "quality building supplies": "other",
+    "run with the kittens": "rock",
+    "freeman dre & the kitchen party": "country/folk",
+    "beggars waltz": "country/folk",
+    "riff raff": "hip-hop/r&b",
+    "chlorine ep release party": "electronic",
+    "the band memo": "rock",
+    "tablao flamenco - reencuentros": "world",
+    "beoga": "world",
+    "moka only": "hip-hop/r&b",
+    "ghost rocket 15th anniversary tour - toronto": "rock",
+    "sam casey - $5 all ages show": "jazz/blues",
+    "tony moore s awake": "other",
+    "emo night with eyes like static, expendable youth & better luck": "metal/punk",
+    "breaking sound": "other",
+    "akila & the wonder machine": "pop",
+    "pluko @ underground, the drake hotel": "electronic",
+    "gaeln @ underground, the drake hotel": "electronic",
+    "dean johnson @ underground, the drake hotel": "electronic",
+    "vacation manor @ underground, the drake hotel": "rock",
+    "chxrry @ underground, the drake hotel": "electronic",
+    "emily steinwall album release -with hanorah": "pop",
+    "alex lukashevsky with friends": "jazz/blues",
+    "dirty sweet band": "rock",
+    "the happy pals": "country/folk",
+    "rae melvin blues band": "jazz/blues",
+    "new orleans connection all star jazz band": "jazz/blues",
+    "sunday jam night hosted by the charter blues band": "jazz/blues",
+    "sugar rush": "pop",
+    "yukon cigar": "rock",
+    "gypsy rebels": "world",
+    "the 501 east": "rock",
+    "bring your own vinyl night": "other",
+    "reverend lau max &#038; the healers": "world",
+    "danny marks": "jazz/blues",
+    "the gary kendall trio": "jazz/blues",
+    "music bingo @ castros": "other",
+    "the evan miles trio": "jazz/blues",
+    "bts world tour 'arirang' in toronto": "pop",
+    "chris stapleton's all-american road show": "country/folk"
   }
 }

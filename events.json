@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:37:34.547Z",
+  "generatedAt": "2026-08-14T21:51:19.288Z",
   "windowStart": "2026-08-14",
   "windowEnd": "2026-09-04",
   "venues": [
@@ -10,13 +10,15 @@
           "date": "2026-08-15",
           "time": "7:30 PM",
           "artist": "Bonnie Raitt: Live 2026 with Special Guest Maia Sharp",
-          "ticketUrl": "https://www.ticketmaster.ca/bonnie-raitt-live-2026-with-special-toronto-ontario-08-15-2026/event/10006434852B67FE"
+          "ticketUrl": "https://www.ticketmaster.ca/bonnie-raitt-live-2026-with-special-toronto-ontario-08-15-2026/event/10006434852B67FE",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-29",
           "time": "8:00 PM",
           "artist": "Masego: Fix Your Face Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/masego-fix-your-face-tour-toronto-ontario-08-29-2026/event/100064B982AA7B19"
+          "ticketUrl": "https://www.ticketmaster.ca/masego-fix-your-face-tour-toronto-ontario-08-29-2026/event/100064B982AA7B19",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -39,55 +41,64 @@
           "date": "2026-08-18",
           "time": "7:00 PM",
           "artist": "Eagles Of Death Metal - Death By Sexy 20th Anniversary Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/eagles-of-death-metal-death-by-toronto-ontario-08-18-2026/event/10006473C4A9D46A"
+          "ticketUrl": "https://www.ticketmaster.ca/eagles-of-death-metal-death-by-toronto-ontario-08-18-2026/event/10006473C4A9D46A",
+          "genre": "rock"
         },
         {
           "date": "2026-08-19",
           "time": "7:00 PM",
           "artist": "Faouzia - The Film Noir Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/faouzia-the-film-noir-tour-toronto-ontario-08-19-2026/event/10006490B882EAEA"
+          "ticketUrl": "https://www.ticketmaster.ca/faouzia-the-film-noir-tour-toronto-ontario-08-19-2026/event/10006490B882EAEA",
+          "genre": "pop"
         },
         {
           "date": "2026-08-20",
           "time": "6:00 PM",
           "artist": "JUTES - Smile You're on Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/jutes-smile-youre-on-tour-toronto-ontario-08-20-2026/event/1000648FEA41C956"
+          "ticketUrl": "https://www.ticketmaster.ca/jutes-smile-youre-on-tour-toronto-ontario-08-20-2026/event/1000648FEA41C956",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-21",
           "time": "7:00 PM",
           "artist": "The Wallflowers",
-          "ticketUrl": "https://www.ticketmaster.ca/the-wallflowers-toronto-ontario-08-21-2026/event/10006474E9936A5B"
+          "ticketUrl": "https://www.ticketmaster.ca/the-wallflowers-toronto-ontario-08-21-2026/event/10006474E9936A5B",
+          "genre": "rock"
         },
         {
           "date": "2026-08-22",
           "time": "7:00 PM",
           "artist": "TWRP",
-          "ticketUrl": "https://www.ticketmaster.ca/twrp-toronto-ontario-08-22-2026/event/1000647E3713E0FC"
+          "ticketUrl": "https://www.ticketmaster.ca/twrp-toronto-ontario-08-22-2026/event/1000647E3713E0FC",
+          "genre": "rock"
         },
         {
           "date": "2026-08-25",
           "time": "6:00 PM",
           "artist": "Citizen - Halcyon Blues",
-          "ticketUrl": "https://www.ticketmaster.ca/citizen-halcyon-blues-toronto-ontario-08-25-2026/event/100064978B906D02"
+          "ticketUrl": "https://www.ticketmaster.ca/citizen-halcyon-blues-toronto-ontario-08-25-2026/event/100064978B906D02",
+          "genre": "rock"
         },
         {
           "date": "2026-08-29",
           "time": "7:00 PM",
           "artist": "Gurkha Events Presents: SWAR - Badal Sari Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/gurkha-events-presents-swar-badal-sari-toronto-ontario-08-29-2026/event/1000648FC4B35BC5"
+          "ticketUrl": "https://www.ticketmaster.ca/gurkha-events-presents-swar-badal-sari-toronto-ontario-08-29-2026/event/1000648FC4B35BC5",
+          "genre": "world"
         },
         {
           "date": "2026-08-30",
           "time": "6:00 PM",
           "artist": "Hablando Huevadas",
-          "ticketUrl": "https://www.ticketmaster.ca/hablando-huevadas-toronto-ontario-08-30-2026/event/100064A7CF2FADAE"
+          "ticketUrl": "https://www.ticketmaster.ca/hablando-huevadas-toronto-ontario-08-30-2026/event/100064A7CF2FADAE",
+          "genre": "other"
         },
         {
           "date": "2026-08-31",
           "time": "6:00 PM",
           "artist": "Hablando Huevadas",
-          "ticketUrl": "https://www.ticketmaster.ca/hablando-huevadas-toronto-ontario-08-31-2026/event/100064AEC598F5D3"
+          "ticketUrl": "https://www.ticketmaster.ca/hablando-huevadas-toronto-ontario-08-31-2026/event/100064AEC598F5D3",
+          "genre": "other"
         }
       ]
     },
@@ -98,85 +109,99 @@
           "date": "2026-08-14",
           "time": "7:00 PM",
           "artist": "Cameron Whitcomb - Fragile Egos Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/cameron-whitcomb-fragile-egos-tour-toronto-ontario-08-14-2026/event/10006479C447D71D"
+          "ticketUrl": "https://www.ticketmaster.ca/cameron-whitcomb-fragile-egos-tour-toronto-ontario-08-14-2026/event/10006479C447D71D",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-15",
           "time": "7:00 PM",
           "artist": "Will Wood - The SELF-iSH Tour 2026",
-          "ticketUrl": "https://www.ticketmaster.ca/will-wood-the-selfish-tour-2026-toronto-ontario-08-15-2026/event/10006481E5BD5A11"
+          "ticketUrl": "https://www.ticketmaster.ca/will-wood-the-selfish-tour-2026-toronto-ontario-08-15-2026/event/10006481E5BD5A11",
+          "genre": "pop"
         },
         {
           "date": "2026-08-16",
           "time": "7:00 PM",
           "artist": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/chance-the-rapper-coloring-book-10-toronto-ontario-08-16-2026/event/100064ABA15FAFAE"
+          "ticketUrl": "https://www.ticketmaster.ca/chance-the-rapper-coloring-book-10-toronto-ontario-08-16-2026/event/100064ABA15FAFAE",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-08-17",
           "time": "7:00 PM",
           "artist": "Chance Peña",
-          "ticketUrl": "https://www.ticketmaster.ca/chance-pena-toronto-ontario-08-17-2026/event/100063840B55F4FE"
+          "ticketUrl": "https://www.ticketmaster.ca/chance-pena-toronto-ontario-08-17-2026/event/100063840B55F4FE",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-18",
           "time": "6:30 PM",
           "artist": "Jack Harlow - Monica Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/jack-harlow-monica-tour-toronto-ontario-08-18-2026/event/100064707C403398"
+          "ticketUrl": "https://www.ticketmaster.ca/jack-harlow-monica-tour-toronto-ontario-08-18-2026/event/100064707C403398",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-08-21",
           "time": "8:00 PM",
           "artist": "Atliens - Destruction of a Ufo Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/atliens-destruction-of-a-ufo-tour-toronto-ontario-08-21-2026/event/100064F0F3248560"
+          "ticketUrl": "https://www.ticketmaster.ca/atliens-destruction-of-a-ufo-tour-toronto-ontario-08-21-2026/event/100064F0F3248560",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-22",
           "time": "7:00 PM",
           "artist": "Charles Wesley Godwin - The Christian Name Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/charles-wesley-godwin-the-christian-name-toronto-ontario-08-22-2026/event/100064AEE0AD604C"
+          "ticketUrl": "https://www.ticketmaster.ca/charles-wesley-godwin-the-christian-name-toronto-ontario-08-22-2026/event/100064AEE0AD604C",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-23",
           "time": "6:30 PM",
           "artist": "DOWN: Strap It DOWN Tour '26",
-          "ticketUrl": "https://www.ticketmaster.ca/down-strap-it-down-tour-26-toronto-ontario-08-23-2026/event/100064B6E3D2EA84"
+          "ticketUrl": "https://www.ticketmaster.ca/down-strap-it-down-tour-26-toronto-ontario-08-23-2026/event/100064B6E3D2EA84",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-08-27",
           "time": "7:00 PM",
           "artist": "Peter Hook & The Light - North American Tour 2026",
-          "ticketUrl": "https://www.ticketmaster.ca/peter-hook-the-light-north-american-toronto-ontario-08-27-2026/event/1000630FC37F3A2C"
+          "ticketUrl": "https://www.ticketmaster.ca/peter-hook-the-light-north-american-toronto-ontario-08-27-2026/event/1000630FC37F3A2C",
+          "genre": "rock"
         },
         {
           "date": "2026-08-28",
           "time": "7:00 PM",
           "artist": "ISOxo presents: Hardcore Diva",
-          "ticketUrl": "https://www.ticketmaster.ca/isoxo-presents-hardcore-diva-toronto-ontario-08-28-2026/event/100064ACE7F975D9"
+          "ticketUrl": "https://www.ticketmaster.ca/isoxo-presents-hardcore-diva-toronto-ontario-08-28-2026/event/100064ACE7F975D9",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-29",
           "time": "7:00 PM",
           "artist": "ISOxo presents: Hardcore Diva",
-          "ticketUrl": "https://www.ticketmaster.ca/isoxo-presents-hardcore-diva-toronto-ontario-08-29-2026/event/100064ACE7FC75DF"
+          "ticketUrl": "https://www.ticketmaster.ca/isoxo-presents-hardcore-diva-toronto-ontario-08-29-2026/event/100064ACE7FC75DF",
+          "genre": "electronic"
         },
         {
           "date": "2026-09-02",
           "time": "6:00 PM",
           "artist": "Elevation Rhythm - Washed Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/elevation-rhythm-washed-tour-toronto-ontario-09-02-2026/event/100064CFE591574B"
+          "ticketUrl": "https://www.ticketmaster.ca/elevation-rhythm-washed-tour-toronto-ontario-09-02-2026/event/100064CFE591574B",
+          "genre": "pop"
         },
         {
           "date": "2026-09-03",
           "time": "6:00 PM",
           "artist": "Elevation Rhythm - Washed Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/elevation-rhythm-washed-tour-toronto-ontario-09-03-2026/event/100064CFE58E5742"
+          "ticketUrl": "https://www.ticketmaster.ca/elevation-rhythm-washed-tour-toronto-ontario-09-03-2026/event/100064CFE58E5742",
+          "genre": "pop"
         },
         {
           "date": "2026-09-04",
           "time": "7:00 PM",
           "artist": "ARLO PARKS - DESIRE TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/arlo-parks-desire-tour-toronto-ontario-09-04-2026/event/10006463818D498D"
+          "ticketUrl": "https://www.ticketmaster.ca/arlo-parks-desire-tour-toronto-ontario-09-04-2026/event/10006463818D498D",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -187,37 +212,43 @@
           "date": "2026-08-28",
           "time": "7:00 PM",
           "artist": "Tiffany Day - HALO TOUR - MOVED TO OPERA HOUSE",
-          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-moved-to-toronto-ontario-08-28-2026/event/100064A47E1D4E9D"
+          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-moved-to-toronto-ontario-08-28-2026/event/100064A47E1D4E9D",
+          "genre": "pop"
         },
         {
           "date": "2026-08-28",
           "time": "7:00 PM",
           "artist": "Tiffany Day - HALO TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-toronto-ontario-08-28-2026/event/100064A6C9C51DFD"
+          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-toronto-ontario-08-28-2026/event/100064A6C9C51DFD",
+          "genre": "pop"
         },
         {
           "date": "2026-08-29",
           "time": "7:00 PM",
           "artist": "WOODEN WISDOM",
-          "ticketUrl": "https://www.ticketmaster.ca/wooden-wisdom-toronto-ontario-08-29-2026/event/10006452049BA4D8"
+          "ticketUrl": "https://www.ticketmaster.ca/wooden-wisdom-toronto-ontario-08-29-2026/event/10006452049BA4D8",
+          "genre": "electronic"
         },
         {
           "date": "2026-09-02",
           "time": "7:00 PM",
           "artist": "Jackson Dean",
-          "ticketUrl": "https://www.ticketmaster.ca/jackson-dean-toronto-ontario-09-02-2026/event/100064E77D2C2E28"
+          "ticketUrl": "https://www.ticketmaster.ca/jackson-dean-toronto-ontario-09-02-2026/event/100064E77D2C2E28",
+          "genre": "country/folk"
         },
         {
           "date": "2026-09-03",
           "time": "7:00 PM",
           "artist": "Asal - Kiss the Sun Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/asal-kiss-the-sun-tour-toronto-ontario-09-03-2026/event/100064ACC846FBEA"
+          "ticketUrl": "https://www.ticketmaster.ca/asal-kiss-the-sun-tour-toronto-ontario-09-03-2026/event/100064ACC846FBEA",
+          "genre": "world"
         },
         {
           "date": "2026-09-04",
           "time": "8:00 PM",
           "artist": "Hoang",
-          "ticketUrl": "https://www.ticketmaster.ca/hoang-toronto-ontario-09-04-2026/event/100064E6DEE0D678"
+          "ticketUrl": "https://www.ticketmaster.ca/hoang-toronto-ontario-09-04-2026/event/100064E6DEE0D678",
+          "genre": "other"
         }
       ]
     },
@@ -228,19 +259,22 @@
           "date": "2026-08-20",
           "time": "7:00pm",
           "artist": "boom 97.3 Boombox Live! w/ China Crisis, Big Country, The Icicle Works, The Vapors",
-          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/"
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/",
+          "genre": "rock"
         },
         {
           "date": "2026-08-21",
           "time": "7:00pm",
           "artist": "Swervedriver",
-          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/swervedriver/"
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/swervedriver/",
+          "genre": "rock"
         },
         {
           "date": "2026-08-30",
           "time": "7:00pm",
           "artist": "The Red Jumpsuit Apparatus",
-          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/"
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/",
+          "genre": "rock"
         }
       ]
     },
@@ -251,19 +285,22 @@
           "date": "2026-08-16",
           "time": "7:00 PM",
           "artist": "Rhett Miller Of Old 97's",
-          "ticketUrl": "https://www.ticketmaster.ca/rhett-miller-of-old-97s-toronto-ontario-08-16-2026/event/100064DA97A6B534"
+          "ticketUrl": "https://www.ticketmaster.ca/rhett-miller-of-old-97s-toronto-ontario-08-16-2026/event/100064DA97A6B534",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-19",
           "time": "7:00 PM",
           "artist": "Josh Tatofi",
-          "ticketUrl": "https://www.ticketmaster.ca/josh-tatofi-toronto-ontario-08-19-2026/event/100064ACBEA3E674"
+          "ticketUrl": "https://www.ticketmaster.ca/josh-tatofi-toronto-ontario-08-19-2026/event/100064ACBEA3E674",
+          "genre": "pop"
         },
         {
           "date": "2026-09-02",
           "time": "7:00 PM",
           "artist": "Toque",
-          "ticketUrl": "https://www.ticketweb.ca/event/toque-the-horseshoe-tavern-tickets/14933303"
+          "ticketUrl": "https://www.ticketweb.ca/event/toque-the-horseshoe-tavern-tickets/14933303",
+          "genre": "other"
         }
       ]
     },
@@ -274,37 +311,43 @@
           "date": "2026-08-14",
           "time": "5:00 p.m.",
           "artist": "Fern Lindzon",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-14",
           "time": "8:00 p.m.",
           "artist": "Artie Roth Quartet \"Resonants\" Album release celebration",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-15",
           "time": "2:00 p.m.",
           "artist": "Diane Roblin’s Life Force",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-15",
           "time": "5:00 p.m.",
           "artist": "SAM BROVERMAN",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-15",
           "time": "8:00 p.m.",
           "artist": "Artie Roth Quartet \"Resonants\" Album release celebration",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-15",
           "time": "11:00 p.m.",
           "artist": "Acidtrip.ca",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -315,49 +358,57 @@
           "date": "2026-08-14",
           "time": "9:00 PM",
           "artist": "Tailgate",
-          "ticketUrl": "https://www.ticketweb.ca/event/tailgate-lees-palace-tickets/14208924"
+          "ticketUrl": "https://www.ticketweb.ca/event/tailgate-lees-palace-tickets/14208924",
+          "genre": "other"
         },
         {
           "date": "2026-08-15",
           "time": "9:00 PM",
           "artist": "Lucid Hours",
-          "ticketUrl": "https://www.ticketweb.ca/event/lucid-hours-lees-palace-tickets/14235744"
+          "ticketUrl": "https://www.ticketweb.ca/event/lucid-hours-lees-palace-tickets/14235744",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-21",
           "time": "10:00 PM",
           "artist": "Avicii Night @ Lee's Palace Toronto",
-          "ticketUrl": "https://www.ticketweb.ca/event/avicii-night-lees-palace-lees-palace-tickets/15017593"
+          "ticketUrl": "https://www.ticketweb.ca/event/avicii-night-lees-palace-lees-palace-tickets/15017593",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-22",
           "time": "8:00 PM",
           "artist": "QuotedTO Presents: SOUNDCLASH + Vintage Market",
-          "ticketUrl": "https://www.ticketweb.ca/event/quotedto-presents-soundclash-vintage-lees-palace-tickets/14997383"
+          "ticketUrl": "https://www.ticketweb.ca/event/quotedto-presents-soundclash-vintage-lees-palace-tickets/14997383",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-08-28",
           "time": "9:00 PM",
           "artist": "Satin Jackets with Special Guests",
-          "ticketUrl": "https://www.ticketweb.ca/event/satin-jackets-with-special-guests-lees-palace-tickets/14811323"
+          "ticketUrl": "https://www.ticketweb.ca/event/satin-jackets-with-special-guests-lees-palace-tickets/14811323",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-29",
           "time": "7:00 PM",
           "artist": "The Cybertronic Spree with Danimal Cannon and Wordburglar",
-          "ticketUrl": "https://www.ticketweb.ca/event/the-cybertronic-spree-with-danimal-lees-palace-tickets/14956673"
+          "ticketUrl": "https://www.ticketweb.ca/event/the-cybertronic-spree-with-danimal-lees-palace-tickets/14956673",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-30",
           "time": "8:00 PM",
           "artist": "Nino Paid - Somewhere Over the Rainbow Tour",
-          "ticketUrl": "https://www.ticketweb.ca/event/nino-paid-somewhere-lees-palace-tickets/14235594"
+          "ticketUrl": "https://www.ticketweb.ca/event/nino-paid-somewhere-lees-palace-tickets/14235594",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-09-01",
           "time": "8:00 PM",
           "artist": "Mustard Service",
-          "ticketUrl": "https://www.ticketweb.ca/event/mustard-service-lees-palace-tickets/14752713"
+          "ticketUrl": "https://www.ticketweb.ca/event/mustard-service-lees-palace-tickets/14752713",
+          "genre": "other"
         }
       ]
     },
@@ -368,19 +419,22 @@
           "date": "2026-08-21",
           "time": "",
           "artist": "MYLES CASTELLO",
-          "ticketUrl": "https://www.eventbrite.ca/e/myles-castello-live-show-tickets-1994945923961"
+          "ticketUrl": "https://www.eventbrite.ca/e/myles-castello-live-show-tickets-1994945923961",
+          "genre": "other"
         },
         {
           "date": "2026-08-28",
           "time": "",
           "artist": "CINDY CRAIG",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-09-02",
           "time": "",
           "artist": "RICK CAMPANELLI",
-          "ticketUrl": "https://ticketscene.ca/events/64374"
+          "ticketUrl": "https://ticketscene.ca/events/64374",
+          "genre": "other"
         }
       ]
     },
@@ -391,31 +445,36 @@
           "date": "2026-08-22",
           "time": "8:30 PM",
           "artist": "ASAKE IN GOD WE TRUST WORLD TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064A7BEFF7233?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ASAKE-08/22_5262026"
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A7BEFF7233?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ASAKE-08/22_5262026",
+          "genre": "world"
         },
         {
           "date": "2026-08-24",
           "time": "7:30 PM",
           "artist": "Kacey Musgraves Middle of Nowhere Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/event/10006495FF578D29?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_KACEYMUSGRAVES-08/24_4292026"
+          "ticketUrl": "https://www.ticketmaster.ca/event/10006495FF578D29?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_KACEYMUSGRAVES-08/24_4292026",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-29",
           "time": "",
           "artist": "Iron Maiden Run For Your Lives World Tour 2026",
-          "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157"
+          "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-08-30",
           "time": "",
           "artist": "Iron Maiden Run For Your Lives World Tour 2026",
-          "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157"
+          "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-08-31",
           "time": "7:30 PM",
           "artist": "DON TOLIVER NITROUS - OCTANE WORLD TOUR LEG 2",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064CBEF30F543?brand=SBA&camefrom=CFC_SBA_WEB_INTERSCROLLER_LINK_DONTOLIVER-08/31_6232026"
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064CBEF30F543?brand=SBA&camefrom=CFC_SBA_WEB_INTERSCROLLER_LINK_DONTOLIVER-08/31_6232026",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -430,61 +489,71 @@
           "date": "2026-08-14",
           "time": "7:00 PM",
           "artist": "Alexisonfire",
-          "ticketUrl": "https://www.ticketmaster.ca/alexisonfire-toronto-ontario-08-14-2026/event/1000643BBC86C313"
+          "ticketUrl": "https://www.ticketmaster.ca/alexisonfire-toronto-ontario-08-14-2026/event/1000643BBC86C313",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-08-15",
           "time": "7:00 PM",
           "artist": "Alexisonfire",
-          "ticketUrl": "https://www.ticketmaster.ca/alexisonfire-toronto-ontario-08-15-2026/event/10006443FBE416B8"
+          "ticketUrl": "https://www.ticketmaster.ca/alexisonfire-toronto-ontario-08-15-2026/event/10006443FBE416B8",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-08-16",
           "time": "6:30 PM",
           "artist": "THE KEHLANI WORLD TOUR: North America",
-          "ticketUrl": "https://www.ticketmaster.ca/the-kehlani-world-tour-north-america-toronto-ontario-08-16-2026/event/100064B6CD629415"
+          "ticketUrl": "https://www.ticketmaster.ca/the-kehlani-world-tour-north-america-toronto-ontario-08-16-2026/event/100064B6CD629415",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-08-18",
           "time": "6:45 PM",
           "artist": "Deep Purple with Special Guest Kansas",
-          "ticketUrl": "https://www.ticketmaster.ca/deep-purple-with-special-guest-kansas-toronto-ontario-08-18-2026/event/10006477FE7A5206"
+          "ticketUrl": "https://www.ticketmaster.ca/deep-purple-with-special-guest-kansas-toronto-ontario-08-18-2026/event/10006477FE7A5206",
+          "genre": "rock"
         },
         {
           "date": "2026-08-20",
           "time": "6:00 PM",
           "artist": "Simple Plan - The Bigger Than You Think Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/simple-plan-the-bigger-than-you-toronto-ontario-08-20-2026/event/10006442F0A9DF1B"
+          "ticketUrl": "https://www.ticketmaster.ca/simple-plan-the-bigger-than-you-toronto-ontario-08-20-2026/event/10006442F0A9DF1B",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-08-22",
           "time": "6:00 PM",
           "artist": "Hugel presents: Make The Girls Dance",
-          "ticketUrl": "https://www.ticketmaster.ca/hugel-presents-make-the-girls-dance-toronto-ontario-08-22-2026/event/100064ABD388582B"
+          "ticketUrl": "https://www.ticketmaster.ca/hugel-presents-make-the-girls-dance-toronto-ontario-08-22-2026/event/100064ABD388582B",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-23",
           "time": "6:00 PM",
           "artist": "Jimmy Eat World & PUP",
-          "ticketUrl": "https://www.ticketmaster.ca/jimmy-eat-world-pup-toronto-ontario-08-23-2026/event/1000642EE567CAC6"
+          "ticketUrl": "https://www.ticketmaster.ca/jimmy-eat-world-pup-toronto-ontario-08-23-2026/event/1000642EE567CAC6",
+          "genre": "rock"
         },
         {
           "date": "2026-08-25",
           "time": "7:30 PM",
           "artist": "Empire of the Sun - Ask That God: Afterlife North American Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/empire-of-the-sun-ask-that-toronto-ontario-08-25-2026/event/10006465CD6950A0"
+          "ticketUrl": "https://www.ticketmaster.ca/empire-of-the-sun-ask-that-toronto-ontario-08-25-2026/event/10006465CD6950A0",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-26",
           "time": "7:00 PM",
           "artist": "The Fray - Summer of Light Tour with Dashboard Confessional",
-          "ticketUrl": "https://www.ticketmaster.ca/the-fray-summer-of-light-tour-toronto-ontario-08-26-2026/event/100064369B00A3B3"
+          "ticketUrl": "https://www.ticketmaster.ca/the-fray-summer-of-light-tour-toronto-ontario-08-26-2026/event/100064369B00A3B3",
+          "genre": "rock"
         },
         {
           "date": "2026-08-28",
           "time": "6:00 PM",
           "artist": "Sean Paul x Farruko",
-          "ticketUrl": "https://www.ticketmaster.ca/sean-paul-x-farruko-toronto-ontario-08-28-2026/event/1000642F9A8A9B8E"
+          "ticketUrl": "https://www.ticketmaster.ca/sean-paul-x-farruko-toronto-ontario-08-28-2026/event/1000642F9A8A9B8E",
+          "genre": "world"
         }
       ]
     },
@@ -495,85 +564,99 @@
           "date": "2026-08-14",
           "time": "6:00 p.m.",
           "artist": "Patrick Brealey",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-15",
           "time": "6:00 p.m.",
           "artist": "Paul Reddick",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-16",
           "time": "6:00 p.m.",
           "artist": "Colonel Tom",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-20",
           "time": "6:00 p.m.",
           "artist": "Corin Raymond",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-21",
           "time": "6:00 p.m.",
           "artist": "The Odd Country",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-22",
           "time": "6:00 p.m.",
           "artist": "Cameron Family Singers",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-23",
           "time": "6:00 p.m.",
           "artist": "Colonel Tom",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-27",
           "time": "6:00 p.m.",
           "artist": "Corin Raymond",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-08-28",
           "time": "6:00 p.m.",
           "artist": "Ritchie Hummins Duo",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-29",
           "time": "6:00 p.m.",
           "artist": "Lori Yates & the Velvetinas",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-30",
           "time": "6:00 p.m.",
           "artist": "Colonel Tom",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-09-01",
           "time": "9:00 p.m.",
           "artist": "Quality Building Supplies",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "other"
         },
         {
           "date": "2026-09-03",
           "time": "10:00 p.m.",
           "artist": "Run With The Kittens",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "rock"
         },
         {
           "date": "2026-09-04",
           "time": "8:30 p.m.",
           "artist": "Freeman Dre & the Kitchen Party",
-          "ticketUrl": ""
+          "ticketUrl": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -584,79 +667,92 @@
           "date": "2026-08-15",
           "time": "",
           "artist": "Beggars Waltz",
-          "ticketUrl": "https://www.eventbrite.ca/e/beggars-waltz-live-at-the-rivoli-81526-tickets-1991574794823?aff=oddtdtcreator"
+          "ticketUrl": "https://www.eventbrite.ca/e/beggars-waltz-live-at-the-rivoli-81526-tickets-1991574794823?aff=oddtdtcreator",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-16",
           "time": "",
           "artist": "Riff Raff",
-          "ticketUrl": "https://aftontickets.com/event/buyticket/3rx70m6mj1?aff=venue"
+          "ticketUrl": "https://aftontickets.com/event/buyticket/3rx70m6mj1?aff=venue",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-08-21",
           "time": "",
           "artist": "Chlorine EP Release Party",
-          "ticketUrl": "https://www.tixtree.com/e/chlorine-ep-release-show-at-the-rivoli-ft-meteor-heist-38bd95173bbf"
+          "ticketUrl": "https://www.tixtree.com/e/chlorine-ep-release-show-at-the-rivoli-ft-meteor-heist-38bd95173bbf",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-22",
           "time": "",
           "artist": "The Band Memo",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064AFEAAD27C3"
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064AFEAAD27C3",
+          "genre": "rock"
         },
         {
           "date": "2026-08-23",
           "time": "",
           "artist": "Tablao Flamenco - Reencuentros",
-          "ticketUrl": "https://www.eventbrite.ca/e/reencuentros-august-tablao-2026-tickets-1993975055066?aff=ebdssbdestsearch"
+          "ticketUrl": "https://www.eventbrite.ca/e/reencuentros-august-tablao-2026-tickets-1993975055066?aff=ebdssbdestsearch",
+          "genre": "world"
         },
         {
           "date": "2026-08-23",
           "time": "",
           "artist": "Beoga",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064A6E5FF9449"
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A6E5FF9449",
+          "genre": "world"
         },
         {
           "date": "2026-08-25",
           "time": "",
           "artist": "Moka Only",
-          "ticketUrl": "https://tixert.com/events/handsolo-records-30th-anniversary-tour-1782649793"
+          "ticketUrl": "https://tixert.com/events/handsolo-records-30th-anniversary-tour-1782649793",
+          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-08-26",
           "time": "",
           "artist": "Ghost Rocket 15th Anniversary Tour - Toronto",
-          "ticketUrl": "https://www.ghostrocketmusic.com/torontoshow"
+          "ticketUrl": "https://www.ghostrocketmusic.com/torontoshow",
+          "genre": "rock"
         },
         {
           "date": "2026-08-27",
           "time": "",
           "artist": "Sam Casey - $5 All Ages Show",
-          "ticketUrl": "https://www.eventbrite.ca/e/sam-casey-friends-all-ages-show-tickets-1994230190182?aff=RivoliToronto"
+          "ticketUrl": "https://www.eventbrite.ca/e/sam-casey-friends-all-ages-show-tickets-1994230190182?aff=RivoliToronto",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-28",
           "time": "",
           "artist": "Tony Moore s AWAKE",
-          "ticketUrl": "https://www.eventbrite.ca/e/tony-moores-awake-at-the-rivoli-tickets-1980868924276"
+          "ticketUrl": "https://www.eventbrite.ca/e/tony-moores-awake-at-the-rivoli-tickets-1980868924276",
+          "genre": "other"
         },
         {
           "date": "2026-08-29",
           "time": "",
           "artist": "Emo Night with Eyes Like Static, Expendable Youth & Better Luck",
-          "ticketUrl": "https://www.eventbrite.ca/e/emo-night-rivoli-tickets-1984636190270?aff=ebdsoporgprofile"
+          "ticketUrl": "https://www.eventbrite.ca/e/emo-night-rivoli-tickets-1984636190270?aff=ebdsoporgprofile",
+          "genre": "metal/punk"
         },
         {
           "date": "2026-09-03",
           "time": "",
           "artist": "Breaking Sound",
-          "ticketUrl": "https://www.tixr.com/groups/breakingsoundcanada/events/breaking-sound-canada-at-rivoli-09-03-200495"
+          "ticketUrl": "https://www.tixr.com/groups/breakingsoundcanada/events/breaking-sound-canada-at-rivoli-09-03-200495",
+          "genre": "other"
         },
         {
           "date": "2026-09-04",
           "time": "",
           "artist": "AKILA & The Wonder Machine",
-          "ticketUrl": "https://www.eventbrite.com/e/the-lucky-tour-toronto-the-rivoli-tickets-1994517752288?aff=oddtdtcreator"
+          "ticketUrl": "https://www.eventbrite.com/e/the-lucky-tour-toronto-the-rivoli-tickets-1994517752288?aff=oddtdtcreator",
+          "genre": "pop"
         }
       ]
     },
@@ -667,31 +763,36 @@
           "date": "2026-08-14",
           "time": "7:00 PM",
           "artist": "pluko @ Underground, The Drake Hotel",
-          "ticketUrl": "http://www.songkick.com/concerts/43275051-pluko-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat"
+          "ticketUrl": "http://www.songkick.com/concerts/43275051-pluko-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-15",
           "time": "7:30 PM",
           "artist": "GAELN @ Underground, The Drake Hotel",
-          "ticketUrl": "http://www.songkick.com/concerts/43329290-gaeln-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat"
+          "ticketUrl": "http://www.songkick.com/concerts/43329290-gaeln-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-16",
           "time": "6:00 PM",
           "artist": "Dean Johnson @ Underground, The Drake Hotel",
-          "ticketUrl": "http://www.songkick.com/concerts/43171156-dean-johnson-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat"
+          "ticketUrl": "http://www.songkick.com/concerts/43171156-dean-johnson-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat",
+          "genre": "electronic"
         },
         {
           "date": "2026-08-23",
           "time": "7:00 PM",
           "artist": "Vacation Manor @ Underground, The Drake Hotel",
-          "ticketUrl": "http://www.songkick.com/concerts/43155209-vacation-manor-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat"
+          "ticketUrl": "http://www.songkick.com/concerts/43155209-vacation-manor-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat",
+          "genre": "rock"
         },
         {
           "date": "2026-08-31",
           "time": "7:00 PM",
           "artist": "CHXRRY @ Underground, The Drake Hotel",
-          "ticketUrl": "http://www.songkick.com/concerts/43248237-chxrry-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat"
+          "ticketUrl": "http://www.songkick.com/concerts/43248237-chxrry-at-underground-the-drake-hotel?utm_medium=organic&utm_source=microformat",
+          "genre": "electronic"
         }
       ]
     },
@@ -702,7 +803,8 @@
           "date": "2026-08-23",
           "time": "7:00 pm",
           "artist": "Emily Steinwall Album Release -with HANORAH",
-          "ticketUrl": "https://thegreathall.ca/event/emily-steinwall-album-release-with-hanorah/"
+          "ticketUrl": "https://thegreathall.ca/event/emily-steinwall-album-release-with-hanorah/",
+          "genre": "pop"
         }
       ]
     },
@@ -713,37 +815,43 @@
           "date": "2026-08-14",
           "time": "6:30 PM",
           "artist": "Alex Lukashevsky with Friends",
-          "ticketUrl": "https://grossmanstavern.com/event/alex-luskasons-with-friends/"
+          "ticketUrl": "https://grossmanstavern.com/event/alex-luskasons-with-friends/",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-14",
           "time": "10:00 PM",
           "artist": "Dirty Sweet Band",
-          "ticketUrl": "https://grossmanstavern.com/event/sound-one-27/"
+          "ticketUrl": "https://grossmanstavern.com/event/sound-one-27/",
+          "genre": "rock"
         },
         {
           "date": "2026-08-15",
           "time": "3:30 PM",
           "artist": "The Happy Pals",
-          "ticketUrl": "https://grossmanstavern.com/event/the-happy-pals-123/"
+          "ticketUrl": "https://grossmanstavern.com/event/the-happy-pals-123/",
+          "genre": "country/folk"
         },
         {
           "date": "2026-08-15",
           "time": "9:00 PM",
           "artist": "Rae Melvin Blues Band",
-          "ticketUrl": "https://grossmanstavern.com/event/rae-melvin-blues-band-6/"
+          "ticketUrl": "https://grossmanstavern.com/event/rae-melvin-blues-band-6/",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-16",
           "time": "3:00 PM",
           "artist": "New Orleans Connection All Star Jazz Band",
-          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-121/"
+          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-121/",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-16",
           "time": "9:00 PM",
           "artist": "Sunday Jam Night Hosted by The Charter Blues Band",
-          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-the-charter-blues-band-19/"
+          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-the-charter-blues-band-19/",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -754,55 +862,64 @@
           "date": "2026-08-14",
           "time": "5:30 PM",
           "artist": "Sugar Rush",
-          "ticketUrl": "https://castroslounge.com/event/sugar-rush-84/"
+          "ticketUrl": "https://castroslounge.com/event/sugar-rush-84/",
+          "genre": "pop"
         },
         {
           "date": "2026-08-15",
           "time": "4:00 PM",
           "artist": "Yukon Cigar",
-          "ticketUrl": "https://castroslounge.com/event/yukon-cigar-25/"
+          "ticketUrl": "https://castroslounge.com/event/yukon-cigar-25/",
+          "genre": "rock"
         },
         {
           "date": "2026-08-16",
           "time": "3:00 PM",
           "artist": "Gypsy Rebels",
-          "ticketUrl": "https://castroslounge.com/event/gypsy-rebels-8/"
+          "ticketUrl": "https://castroslounge.com/event/gypsy-rebels-8/",
+          "genre": "world"
         },
         {
           "date": "2026-08-17",
           "time": "8:00 PM",
           "artist": "The 501 East",
-          "ticketUrl": "https://castroslounge.com/event/the-501-east-36/"
+          "ticketUrl": "https://castroslounge.com/event/the-501-east-36/",
+          "genre": "rock"
         },
         {
           "date": "2026-08-18",
           "time": "7:00 PM",
           "artist": "Bring Your Own Vinyl Night",
-          "ticketUrl": "https://castroslounge.com/event/bring-your-own-vinyl-night-8/"
+          "ticketUrl": "https://castroslounge.com/event/bring-your-own-vinyl-night-8/",
+          "genre": "other"
         },
         {
           "date": "2026-08-20",
           "time": "5:00 PM",
           "artist": "Reverend Lau Max &#038; The Healers",
-          "ticketUrl": "https://castroslounge.com/event/reverend-lau-max-the-healers-5/"
+          "ticketUrl": "https://castroslounge.com/event/reverend-lau-max-the-healers-5/",
+          "genre": "world"
         },
         {
           "date": "2026-08-22",
           "time": "5:00 PM",
           "artist": "Danny Marks",
-          "ticketUrl": "https://castroslounge.com/event/danny-marks-53/"
+          "ticketUrl": "https://castroslounge.com/event/danny-marks-53/",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-23",
           "time": "3:00 PM",
           "artist": "The Gary Kendall Trio",
-          "ticketUrl": "https://castroslounge.com/event/the-gary-kendall-trio-11/"
+          "ticketUrl": "https://castroslounge.com/event/the-gary-kendall-trio-11/",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-25",
           "time": "7:00 PM",
           "artist": "Music Bingo @ Castros",
-          "ticketUrl": "https://castroslounge.com/event/music-bingo-castros-18/"
+          "ticketUrl": "https://castroslounge.com/event/music-bingo-castros-18/",
+          "genre": "other"
         }
       ]
     },
@@ -825,7 +942,8 @@
           "date": "2026-08-14",
           "time": "",
           "artist": "The Evan Miles Trio",
-          "ticketUrl": "https://jazzbistro.ca/event/the-evan-miles-trio-8/"
+          "ticketUrl": "https://jazzbistro.ca/event/the-evan-miles-trio-8/",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -860,19 +978,22 @@
           "date": "2026-08-22",
           "time": "8:00 PM",
           "artist": "BTS WORLD TOUR 'ARIRANG' IN TORONTO",
-          "ticketUrl": "https://www.ticketmaster.ca/bts-world-tour-arirang-in-toronto-toronto-ontario-08-22-2026/event/1000642B2CB3BB4D"
+          "ticketUrl": "https://www.ticketmaster.ca/bts-world-tour-arirang-in-toronto-toronto-ontario-08-22-2026/event/1000642B2CB3BB4D",
+          "genre": "pop"
         },
         {
           "date": "2026-08-23",
           "time": "8:00 PM",
           "artist": "BTS WORLD TOUR 'ARIRANG' IN TORONTO",
-          "ticketUrl": "https://www.ticketmaster.ca/bts-world-tour-arirang-in-toronto-toronto-ontario-08-23-2026/event/1000642B2D4EBBDE"
+          "ticketUrl": "https://www.ticketmaster.ca/bts-world-tour-arirang-in-toronto-toronto-ontario-08-23-2026/event/1000642B2D4EBBDE",
+          "genre": "pop"
         },
         {
           "date": "2026-09-01",
           "time": "6:00 PM",
           "artist": "Chris Stapleton's All-American Road Show",
-          "ticketUrl": "https://www.ticketmaster.ca/chris-stapletons-allamerican-road-show-toronto-ontario-09-01-2026/event/1000642EF7BC3B4A"
+          "ticketUrl": "https://www.ticketmaster.ca/chris-stapletons-allamerican-road-show-toronto-ontario-09-01-2026/event/1000642EF7BC3B4A",
+          "genre": "country/folk"
         }
       ]
     }
