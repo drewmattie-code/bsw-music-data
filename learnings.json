@@ -7,15 +7,15 @@
     "lastSuccess": "2026-08-14"
   },
   "roy-thomson-hall": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "koerner-hall": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "td-music-hall": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "danforth-music-hall": {
@@ -82,7 +82,7 @@
     "lastSuccess": "2026-08-14"
   },
   "coca-cola-coliseum": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "budweiser-stage": {
@@ -109,8 +109,8 @@
   "drake-underground": {
     "consecutiveFailures": 0,
     "notes": [],
-    "workingUrl": "https://www.songkick.com/venues/14640-underground-the-drake-hotel",
-    "strategy": "jsonld",
+    "workingUrl": "https://thedrake.ca/thedrakehotel/drake-underground/",
+    "strategy": "model",
     "lastSuccess": "2026-08-14"
   },
   "great-hall": {
@@ -135,15 +135,15 @@
     "lastSuccess": "2026-08-14"
   },
   "baby-g": {
-    "consecutiveFailures": 5,
+    "consecutiveFailures": 6,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 5,
+    "consecutiveFailures": 6,
     "notes": []
   },
   "hughs-room-live": {
-    "consecutiveFailures": 5,
+    "consecutiveFailures": 6,
     "notes": []
   },
   "jazz-bistro": {
@@ -167,19 +167,21 @@
     "lastSuccess": "2026-08-14"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 5,
+    "consecutiveFailures": 6,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 5,
+    "consecutiveFailures": 6,
     "notes": []
   },
   "burdock": {
-    "consecutiveFailures": 4,
-    "notes": []
+    "consecutiveFailures": 0,
+    "notes": [],
+    "strategy": "camofox",
+    "lastSuccess": "2026-08-14"
   },
   "rec-room-roundhouse": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "notes": []
   },
   "rogers-stadium": {
@@ -304,6 +306,20 @@
     "colin hunter the joe sealy quartet": "other",
     "flower city bhangra 2026": "other",
     "madhur sharma live in concert": "other",
-    "the wiggles - tree of wisdom spectacular!": "other"
+    "the wiggles - tree of wisdom spectacular!": "other",
+    "asake": "world",
+    "kacey musgraves": "country/folk",
+    "iron maiden": "metal/punk",
+    "don toliver": "hip-hop/r&b",
+    "gaeln": "other",
+    "dean johnson": "other",
+    "headsend": "electronic",
+    "elmjack & justend": "electronic",
+    "signed in the sand: wingspeak with special guests leon & sam brown": "other",
+    "the breathless tour": "other",
+    "makuch & co. w/ michael peterson": "other",
+    "dane pedersen w/ york street thought process": "jazz/blues",
+    "jake mckelvie with christo graham and lilydipper": "rock",
+    "album release party: priyana with clara smallman and bianca espino": "other"
   }
 }

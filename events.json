@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:27:53.024Z",
+  "generatedAt": "2026-08-14T23:51:22.151Z",
   "windowStart": "2026-08-14",
   "windowEnd": "2026-09-04",
   "venues": [
@@ -213,7 +213,7 @@
           "time": "7:00 PM",
           "artist": "ISOxo presents: Hardcore Diva",
           "ticketUrl": "https://www.ticketmaster.ca/isoxo-presents-hardcore-diva-toronto-ontario-08-28-2026/event/100064ACE7F975D9",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "electronic"
         },
@@ -316,7 +316,35 @@
     },
     {
       "id": "phoenix-concert-theatre",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-20",
+          "time": "7:00pm",
+          "artist": "boom 97.3 Boombox Live! w/ China Crisis, Big Country, The Icicle Works, The Vapors",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "7:00pm",
+          "artist": "Swervedriver",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/swervedriver/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "7:00pm",
+          "artist": "The Red Jumpsuit Apparatus",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        }
+      ]
     },
     {
       "id": "horseshoe-tavern",
@@ -352,7 +380,62 @@
     },
     {
       "id": "the-rex",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-14",
+          "time": "5:00 p.m.",
+          "artist": "Fern Lindzon",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "8:00 p.m.",
+          "artist": "Artie Roth Quartet \"Resonants\" Album release celebration",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "2:00 p.m.",
+          "artist": "Diane Roblin’s Life Force",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "5:00 p.m.",
+          "artist": "SAM BROVERMAN",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "8:00 p.m.",
+          "artist": "Artie Roth Quartet \"Resonants\" Album release celebration",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "11:00 p.m.",
+          "artist": "Acidtrip.ca",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        }
+      ]
     },
     {
       "id": "lees-palace",
@@ -433,11 +516,85 @@
     },
     {
       "id": "el-mocambo",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-21",
+          "time": "",
+          "artist": "MYLES CASTELLO",
+          "ticketUrl": "https://www.eventbrite.ca/e/myles-castello-live-show-tickets-1994945923961",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "",
+          "artist": "CINDY CRAIG",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-02",
+          "time": "",
+          "artist": "RICK CAMPANELLI",
+          "ticketUrl": "https://ticketscene.ca/events/64374",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        }
+      ]
     },
     {
       "id": "scotiabank-arena",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-22",
+          "time": "8:30 PM",
+          "artist": "ASAKE",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A7BEFF7233?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ASAKE-08/22_5262026",
+          "availability": "",
+          "price": "",
+          "genre": "world"
+        },
+        {
+          "date": "2026-08-24",
+          "time": "7:30 PM",
+          "artist": "Kacey Musgraves",
+          "ticketUrl": "https://www.ticketmaster.ca/event/10006495FF578D29?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_KACEYMUSGRAVES-08/24_4292026",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "",
+          "artist": "Iron Maiden",
+          "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
+          "availability": "",
+          "price": "",
+          "genre": "metal/punk"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "",
+          "artist": "Iron Maiden",
+          "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
+          "availability": "",
+          "price": "",
+          "genre": "metal/punk"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "7:30 PM",
+          "artist": "DON TOLIVER",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064CBEF30F543?brand=SBA&camefrom=CFC_SBA_WEB_INTERSCROLLER_LINK_DONTOLIVER-08/31_6232026",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        }
+      ]
     },
     {
       "id": "coca-cola-coliseum",
@@ -540,19 +697,311 @@
     },
     {
       "id": "cameron-house",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-14",
+          "time": "6:00 p.m.",
+          "artist": "Patrick Brealey",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "6:00 p.m.",
+          "artist": "Paul Reddick",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "6:00 p.m.",
+          "artist": "Corin Raymond",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "6:00 p.m.",
+          "artist": "The Odd Country",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "6:00 p.m.",
+          "artist": "Cameron Family Singers",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "6:00 p.m.",
+          "artist": "Corin Raymond",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "6:00 p.m.",
+          "artist": "Ritchie Hummins Duo",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "6:00 p.m.",
+          "artist": "Lori Yates & the Velvetinas",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "9:00 p.m.",
+          "artist": "Quality Building Supplies",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "10:00 p.m.",
+          "artist": "Run With The Kittens",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "8:30 p.m.",
+          "artist": "Freeman Dre & the Kitchen Party",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        }
+      ]
     },
     {
       "id": "the-rivoli",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-15",
+          "time": "",
+          "artist": "Beggars Waltz",
+          "ticketUrl": "https://www.eventbrite.ca/e/beggars-waltz-live-at-the-rivoli-81526-tickets-1991574794823?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "",
+          "artist": "Riff Raff",
+          "ticketUrl": "https://aftontickets.com/event/buyticket/3rx70m6mj1?aff=venue",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "",
+          "artist": "Chlorine EP Release Party",
+          "ticketUrl": "https://www.tixtree.com/e/chlorine-ep-release-show-at-the-rivoli-ft-meteor-heist-38bd95173bbf",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "",
+          "artist": "The Band Memo",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064AFEAAD27C3",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "",
+          "artist": "Tablao Flamenco - Reencuentros",
+          "ticketUrl": "https://www.eventbrite.ca/e/reencuentros-august-tablao-2026-tickets-1993975055066?aff=ebdssbdestsearch",
+          "availability": "",
+          "price": "",
+          "genre": "world"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "",
+          "artist": "Beoga",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A6E5FF9449",
+          "availability": "",
+          "price": "",
+          "genre": "world"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "",
+          "artist": "Moka Only",
+          "ticketUrl": "https://tixert.com/events/handsolo-records-30th-anniversary-tour-1782649793",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "",
+          "artist": "Ghost Rocket 15th Anniversary Tour - Toronto",
+          "ticketUrl": "https://www.ghostrocketmusic.com/torontoshow",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "",
+          "artist": "Sam Casey - $5 All Ages Show",
+          "ticketUrl": "https://www.eventbrite.ca/e/sam-casey-friends-all-ages-show-tickets-1994230190182?aff=RivoliToronto",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "",
+          "artist": "Tony Moore s AWAKE",
+          "ticketUrl": "https://www.eventbrite.ca/e/tony-moores-awake-at-the-rivoli-tickets-1980868924276",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "",
+          "artist": "Emo Night with Eyes Like Static, Expendable Youth & Better Luck",
+          "ticketUrl": "https://www.eventbrite.ca/e/emo-night-rivoli-tickets-1984636190270?aff=ebdsoporgprofile",
+          "availability": "",
+          "price": "",
+          "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "",
+          "artist": "Breaking Sound",
+          "ticketUrl": "https://www.tixr.com/groups/breakingsoundcanada/events/breaking-sound-canada-at-rivoli-09-03-200495",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "",
+          "artist": "AKILA & The Wonder Machine",
+          "ticketUrl": "https://www.eventbrite.com/e/the-lucky-tour-toronto-the-rivoli-tickets-1994517752288?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        }
+      ]
     },
     {
       "id": "drake-underground",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-15",
+          "time": "",
+          "artist": "GAELN",
+          "ticketUrl": "https://thedrake.ca/event/gaeln/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "",
+          "artist": "Dean Johnson",
+          "ticketUrl": "https://thedrake.ca/event/dean-johnson/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "",
+          "artist": "HEADSEND",
+          "ticketUrl": "https://thedrake.ca/event/headsend/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "",
+          "artist": "Elmjack & Justend",
+          "ticketUrl": "https://thedrake.ca/event/elmjack-justend/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        }
+      ]
     },
     {
       "id": "great-hall",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-23",
+          "time": "7:00 pm",
+          "artist": "Emily Steinwall Album Release -with HANORAH",
+          "ticketUrl": "https://thegreathall.ca/event/emily-steinwall-album-release-with-hanorah/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        }
+      ]
     },
     {
       "id": "grossmans-tavern",
@@ -772,7 +1221,62 @@
     },
     {
       "id": "burdock",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-14",
+          "time": "6:30 PM",
+          "artist": "SIGNED IN THE SAND: WINGSPEAK WITH SPECIAL GUESTS LEON & SAM BROWN",
+          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "6:30 PM",
+          "artist": "The Breathless Tour",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "9:00 PM",
+          "artist": "MAKUCH & Co. w/ Michael Peterson",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "8:00 PM",
+          "artist": "Dane Pedersen w/ York Street Thought Process",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "8:00 PM",
+          "artist": "Jake McKelvie with Christo Graham and Lilydipper",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "8:00 PM",
+          "artist": "Album Release Party: priyana with Clara Smallman and Bianca Espino",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        }
+      ]
     },
     {
       "id": "rec-room-roundhouse",

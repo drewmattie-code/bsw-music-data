@@ -26,3 +26,9 @@ Improvement: Audit the "none" source venues to determine if a new JSON-LD path o
 ## 2026-08-14T23:27:53.024Z
 74 shows / 13 venues with listings
 (model note unavailable this run)
+
+## 2026-08-14T23:51:22.151Z
+129 shows / 22 venues with listings
+Health: Stable, capturing 129 shows across 22 active venues (68% coverage).
+Attention: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, rec-room-roundhouse.
+Improvement: Investigate if jsonld or camofox can be implemented for the 10 venues currently returning "none".
