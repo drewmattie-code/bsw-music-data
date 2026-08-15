@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T23:51:22.151Z",
-  "windowStart": "2026-08-14",
-  "windowEnd": "2026-09-04",
+  "generatedAt": "2026-08-15T16:00:03.032Z",
+  "windowStart": "2026-08-15",
+  "windowEnd": "2026-09-05",
   "venues": [
     {
       "id": "massey-hall",
@@ -128,15 +128,6 @@
       "id": "history",
       "events": [
         {
-          "date": "2026-08-14",
-          "time": "7:00 PM",
-          "artist": "Cameron Whitcomb - Fragile Egos Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/cameron-whitcomb-fragile-egos-tour-toronto-ontario-08-14-2026/event/10006479C447D71D",
-          "availability": "limited",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-08-15",
           "time": "7:00 PM",
           "artist": "Will Wood - The SELF-iSH Tour 2026",
@@ -252,6 +243,15 @@
           "availability": "available",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "7:00 PM",
+          "artist": "Houndmouth: The Lordy Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/houndmouth-the-lordy-tour-toronto-ontario-09-05-2026/event/1000649887C3A649",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -311,6 +311,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "8:30 PM",
+          "artist": "Bop To the Top",
+          "ticketUrl": "https://www.ticketweb.ca/event/bop-to-the-top-the-opera-house-tickets/14875493?REFERRAL_ID=tmfeed",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -382,24 +391,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-08-14",
-          "time": "5:00 p.m.",
-          "artist": "Fern Lindzon",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "8:00 p.m.",
-          "artist": "Artie Roth Quartet \"Resonants\" Album release celebration",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-08-15",
           "time": "2:00 p.m.",
           "artist": "Diane Roblin’s Life Force",
@@ -420,7 +411,7 @@
         {
           "date": "2026-08-15",
           "time": "8:00 p.m.",
-          "artist": "Artie Roth Quartet \"Resonants\" Album release celebration",
+          "artist": "Artie Roth Quartet \"Resonants\" Album release celebration.",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -440,15 +431,6 @@
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-08-14",
-          "time": "9:00 PM",
-          "artist": "Tailgate",
-          "ticketUrl": "https://www.ticketweb.ca/event/tailgate-lees-palace-tickets/14208924",
-          "availability": "available",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-08-15",
           "time": "9:00 PM",
@@ -536,13 +518,13 @@
           "genre": "other"
         },
         {
-          "date": "2026-09-02",
-          "time": "",
-          "artist": "RICK CAMPANELLI",
-          "ticketUrl": "https://ticketscene.ca/events/64374",
+          "date": "2026-09-05",
+          "time": "8:00 PM",
+          "artist": "CINEMA FACE",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "electronic"
         }
       ]
     },
@@ -552,7 +534,7 @@
         {
           "date": "2026-08-22",
           "time": "8:30 PM",
-          "artist": "ASAKE",
+          "artist": "ASAKE IN GOD WE TRUST WORLD TOUR",
           "ticketUrl": "https://www.ticketmaster.ca/event/100064A7BEFF7233?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ASAKE-08/22_5262026",
           "availability": "",
           "price": "",
@@ -561,7 +543,7 @@
         {
           "date": "2026-08-24",
           "time": "7:30 PM",
-          "artist": "Kacey Musgraves",
+          "artist": "Kacey Musgraves Middle of Nowhere Tour",
           "ticketUrl": "https://www.ticketmaster.ca/event/10006495FF578D29?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_KACEYMUSGRAVES-08/24_4292026",
           "availability": "",
           "price": "",
@@ -570,7 +552,7 @@
         {
           "date": "2026-08-29",
           "time": "",
-          "artist": "Iron Maiden",
+          "artist": "Iron Maiden Run For Your Lives World Tour 2026",
           "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
           "availability": "",
           "price": "",
@@ -579,7 +561,7 @@
         {
           "date": "2026-08-30",
           "time": "",
-          "artist": "Iron Maiden",
+          "artist": "Iron Maiden Run For Your Lives World Tour 2026",
           "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
           "availability": "",
           "price": "",
@@ -588,11 +570,20 @@
         {
           "date": "2026-08-31",
           "time": "7:30 PM",
-          "artist": "DON TOLIVER",
+          "artist": "DON TOLIVER NITROUS - OCTANE WORLD TOUR LEG 2",
           "ticketUrl": "https://www.ticketmaster.ca/event/100064CBEF30F543?brand=SBA&camefrom=CFC_SBA_WEB_INTERSCROLLER_LINK_DONTOLIVER-08/31_6232026",
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "6:30 PM",
+          "artist": "ANIRUDH XV TOUR Live in Toronto",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A18F9C80B4?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ANIRUDH-09/05_5272026",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -603,15 +594,6 @@
     {
       "id": "budweiser-stage",
       "events": [
-        {
-          "date": "2026-08-14",
-          "time": "7:00 PM",
-          "artist": "Alexisonfire",
-          "ticketUrl": "https://www.ticketmaster.ca/alexisonfire-toronto-ontario-08-14-2026/event/1000643BBC86C313",
-          "availability": "",
-          "price": "",
-          "genre": "metal/punk"
-        },
         {
           "date": "2026-08-15",
           "time": "7:00 PM",
@@ -692,21 +674,21 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "6:45 PM",
+          "artist": "Blue Rodeo with special guests William Prince and Billianne",
+          "ticketUrl": "https://www.ticketmaster.ca/blue-rodeo-with-special-guests-william-toronto-ontario-08-29-2026/event/1000646DF0499A1F",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-08-14",
-          "time": "6:00 p.m.",
-          "artist": "Patrick Brealey",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-08-15",
           "time": "6:00 p.m.",
@@ -823,6 +805,15 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "6:00 p.m.",
+          "artist": "John Borra Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -945,6 +936,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "",
+          "artist": "Las Malinches presents: La Telenovela",
+          "ticketUrl": "https://www.eventbrite.com/e/las-malinches-presents-la-telenovela-tickets-1997529032107?aff=ebdssbdestsearch",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -1007,24 +1007,6 @@
       "id": "grossmans-tavern",
       "events": [
         {
-          "date": "2026-08-14",
-          "time": "6:30 PM",
-          "artist": "Alex Lukashevsky with Friends",
-          "ticketUrl": "https://grossmanstavern.com/event/alex-luskasons-with-friends/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "10:00 PM",
-          "artist": "Dirty Sweet Band",
-          "ticketUrl": "https://grossmanstavern.com/event/sound-one-27/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-08-15",
           "time": "3:30 PM",
           "artist": "The Happy Pals",
@@ -1059,6 +1041,24 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "9:00 PM",
+          "artist": "Action Sound Band",
+          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-117/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "9:00 PM",
+          "artist": "Tyler Norton&#8217;s Band",
+          "ticketUrl": "https://grossmanstavern.com/event/tyler-nortons-band-2/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1155,13 +1155,13 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-08-14",
+          "date": "2026-08-15",
           "time": "",
-          "artist": "Colin Hunter The Joe Sealy Quartet",
-          "ticketUrl": "https://jazzbistro.ca/event/colin-hunter-the-joe-sealy-quartet-night-1-of-2-28/",
+          "artist": "The Tim Hamel Quartet",
+          "ticketUrl": "https://jazzbistro.ca/event/the-tim-hamel-quartets-all-request-power-hour-146/",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1223,15 +1223,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-08-14",
-          "time": "6:30 PM",
-          "artist": "SIGNED IN THE SAND: WINGSPEAK WITH SPECIAL GUESTS LEON & SAM BROWN",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-08-15",
           "time": "6:30 PM",
           "artist": "The Breathless Tour",
@@ -1270,11 +1261,20 @@
         {
           "date": "2026-08-18",
           "time": "8:00 PM",
-          "artist": "Album Release Party: priyana with Clara Smallman and Bianca Espino",
+          "artist": "priyana with Clara Smallman and Bianca Espino",
           "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "world"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "8:00 PM",
+          "artist": "Emma Campbell (w/ Kayla Hritzuk)",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
