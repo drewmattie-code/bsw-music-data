@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-15T16:00:03.032Z",
-  "windowStart": "2026-08-15",
-  "windowEnd": "2026-09-05",
+  "generatedAt": "2026-08-16T16:00:04.364Z",
+  "windowStart": "2026-08-16",
+  "windowEnd": "2026-09-06",
   "venues": [
     {
       "id": "massey-hall",
       "events": [
-        {
-          "date": "2026-08-15",
-          "time": "7:30 PM",
-          "artist": "Bonnie Raitt: Live 2026 with Special Guest Maia Sharp",
-          "ticketUrl": "https://www.ticketmaster.ca/bonnie-raitt-live-2026-with-special-toronto-ontario-08-15-2026/event/10006434852B67FE",
-          "availability": "available",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-08-29",
           "time": "8:00 PM",
@@ -128,20 +119,11 @@
       "id": "history",
       "events": [
         {
-          "date": "2026-08-15",
-          "time": "7:00 PM",
-          "artist": "Will Wood - The SELF-iSH Tour 2026",
-          "ticketUrl": "https://www.ticketmaster.ca/will-wood-the-selfish-tour-2026-toronto-ontario-08-15-2026/event/10006481E5BD5A11",
-          "availability": "available",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-08-16",
           "time": "7:00 PM",
           "artist": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
           "ticketUrl": "https://www.ticketmaster.ca/chance-the-rapper-coloring-book-10-toronto-ontario-08-16-2026/event/100064ABA15FAFAE",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "hip-hop/r&b"
         },
@@ -389,57 +371,11 @@
     },
     {
       "id": "the-rex",
-      "events": [
-        {
-          "date": "2026-08-15",
-          "time": "2:00 p.m.",
-          "artist": "Diane Roblin’s Life Force",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "5:00 p.m.",
-          "artist": "SAM BROVERMAN",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "8:00 p.m.",
-          "artist": "Artie Roth Quartet \"Resonants\" Album release celebration.",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "11:00 p.m.",
-          "artist": "Acidtrip.ca",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        }
-      ]
+      "events": []
     },
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-08-15",
-          "time": "9:00 PM",
-          "artist": "Lucid Hours",
-          "ticketUrl": "https://www.ticketweb.ca/event/lucid-hours-lees-palace-tickets/14235744",
-          "availability": "available",
-          "price": "",
-          "genre": "electronic"
-        },
         {
           "date": "2026-08-21",
           "time": "10:00 PM",
@@ -595,15 +531,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-08-15",
-          "time": "7:00 PM",
-          "artist": "Alexisonfire",
-          "ticketUrl": "https://www.ticketmaster.ca/alexisonfire-toronto-ontario-08-15-2026/event/10006443FBE416B8",
-          "availability": "",
-          "price": "",
-          "genre": "metal/punk"
-        },
-        {
           "date": "2026-08-16",
           "time": "6:30 PM",
           "artist": "THE KEHLANI WORLD TOUR: North America",
@@ -683,21 +610,21 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "6:45 PM",
+          "artist": "TOTO + Christopher Cross + The Romantics",
+          "ticketUrl": "https://www.ticketmaster.ca/toto-christopher-cross-the-romantics-toronto-ontario-08-30-2026/event/100063850565D8E0",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-08-15",
-          "time": "6:00 p.m.",
-          "artist": "Paul Reddick",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-08-16",
           "time": "6:00 p.m.",
@@ -821,15 +748,6 @@
       "id": "the-rivoli",
       "events": [
         {
-          "date": "2026-08-15",
-          "time": "",
-          "artist": "Beggars Waltz",
-          "ticketUrl": "https://www.eventbrite.ca/e/beggars-waltz-live-at-the-rivoli-81526-tickets-1991574794823?aff=oddtdtcreator",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-08-16",
           "time": "",
           "artist": "Riff Raff",
@@ -952,15 +870,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-08-15",
-          "time": "",
-          "artist": "GAELN",
-          "ticketUrl": "https://thedrake.ca/event/gaeln/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-08-16",
           "time": "",
           "artist": "Dean Johnson",
@@ -986,6 +895,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "",
+          "artist": "Show Love",
+          "ticketUrl": "https://thedrake.ca/event/show-love-2/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1006,24 +924,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-08-15",
-          "time": "3:30 PM",
-          "artist": "The Happy Pals",
-          "ticketUrl": "https://grossmanstavern.com/event/the-happy-pals-123/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "9:00 PM",
-          "artist": "Rae Melvin Blues Band",
-          "ticketUrl": "https://grossmanstavern.com/event/rae-melvin-blues-band-6/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-08-16",
           "time": "3:00 PM",
@@ -1059,21 +959,30 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "6:00 PM",
+          "artist": "Hold the Bus",
+          "ticketUrl": "https://grossmanstavern.com/event/hold-the-bus-14/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "3:30 PM",
+          "artist": "The Happy Pals",
+          "ticketUrl": "https://grossmanstavern.com/event/the-happy-pals-124/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-08-15",
-          "time": "4:00 PM",
-          "artist": "Yukon Cigar",
-          "ticketUrl": "https://castroslounge.com/event/yukon-cigar-25/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-08-16",
           "time": "3:00 PM",
@@ -1155,10 +1064,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-08-15",
+          "date": "2026-08-16",
           "time": "",
-          "artist": "The Tim Hamel Quartet",
-          "ticketUrl": "https://jazzbistro.ca/event/the-tim-hamel-quartets-all-request-power-hour-146/",
+          "artist": "Butcher's Porterhouse: A Tribute to Cole Porter w/ Shannon Butcher Mark Eisenman",
+          "ticketUrl": "https://jazzbistro.ca/event/butchers-porterhouse-a-tribute-to-cole-porter-w-shannon-butcher-mark-eisenman/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1168,15 +1077,6 @@
     {
       "id": "rose-theatre-brampton",
       "events": [
-        {
-          "date": "2026-08-15",
-          "time": "1:00 p.m.",
-          "artist": "FLOWER CITY BHANGRA 2026",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-08-30",
           "time": "7:00 p.m.",
@@ -1223,24 +1123,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-08-15",
-          "time": "6:30 PM",
-          "artist": "The Breathless Tour",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "9:00 PM",
-          "artist": "MAKUCH & Co. w/ Michael Peterson",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-08-16",
           "time": "8:00 PM",
           "artist": "Dane Pedersen w/ York Street Thought Process",
@@ -1275,6 +1157,24 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "8:30 PM",
+          "artist": "The Last Waltz Beer Launch",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "8:00 PM",
+          "artist": "Luke Borchelt",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },

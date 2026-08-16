@@ -38,3 +38,9 @@ Improvement: Investigate if jsonld or camofox can be implemented for the 10 venu
 Health: Fair; 129 shows captured, but 10/32 venues returned zero results.
 Attention: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, rec-room-roundhouse.
 Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for better stability.
+
+## 2026-08-16T16:00:04.364Z
+118 shows / 21 venues with listings
+Health: Fair; 118 shows captured, but 11/32 venues (34%) failed to return data.
+Attention: roy-thomson-hall, koerner-hall, td-music-hall, the-rex, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
+Improvement: Investigate if the "none" failures are due to site structure changes or empty schedules to determine if new selectors are needed.
