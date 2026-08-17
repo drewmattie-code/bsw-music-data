@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-16T16:00:04.364Z",
-  "windowStart": "2026-08-16",
-  "windowEnd": "2026-09-06",
+  "generatedAt": "2026-08-17T16:00:02.884Z",
+  "windowStart": "2026-08-17",
+  "windowEnd": "2026-09-07",
   "venues": [
     {
       "id": "massey-hall",
@@ -118,15 +118,6 @@
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-08-16",
-          "time": "7:00 PM",
-          "artist": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/chance-the-rapper-coloring-book-10-toronto-ontario-08-16-2026/event/100064ABA15FAFAE",
-          "availability": "available",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-08-17",
           "time": "7:00 PM",
@@ -341,15 +332,6 @@
       "id": "horseshoe-tavern",
       "events": [
         {
-          "date": "2026-08-16",
-          "time": "7:00 PM",
-          "artist": "Rhett Miller Of Old 97's",
-          "ticketUrl": "https://www.ticketmaster.ca/rhett-miller-of-old-97s-toronto-ontario-08-16-2026/event/100064DA97A6B534",
-          "availability": "available",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-08-19",
           "time": "7:00 PM",
           "artist": "Josh Tatofi",
@@ -429,6 +411,24 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "7:00 PM",
+          "artist": "Hall Pass with Doorstep Fire, Triton. Deer Fang and More",
+          "ticketUrl": "https://www.ticketweb.ca/event/hall-pass-with-doorstep-fire-lees-palace-tickets/15038613",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "8:00 PM",
+          "artist": "Black Marble with Public Circuit",
+          "ticketUrl": "https://www.ticketweb.ca/event/black-marble-with-public-circuit-lees-palace-tickets/14187724",
+          "availability": "available",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -449,6 +449,15 @@
           "time": "",
           "artist": "CINDY CRAIG",
           "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-02",
+          "time": "",
+          "artist": "RICK CAMPANELLI",
+          "ticketUrl": "https://ticketscene.ca/events/64374",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -531,15 +540,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-08-16",
-          "time": "6:30 PM",
-          "artist": "THE KEHLANI WORLD TOUR: North America",
-          "ticketUrl": "https://www.ticketmaster.ca/the-kehlani-world-tour-north-america-toronto-ontario-08-16-2026/event/100064B6CD629415",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-08-18",
           "time": "6:45 PM",
           "artist": "Deep Purple with Special Guest Kansas",
@@ -619,21 +619,21 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "7:00 PM",
+          "artist": "SQUEEZE - TRIED, TESTED AND TRIXIES w/ Adam Ant and Haircut 100",
+          "ticketUrl": "https://www.ticketmaster.ca/squeeze-tried-tested-and-trixies-w-toronto-ontario-08-31-2026/event/1000649EA85BCBF7",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-08-16",
-          "time": "6:00 p.m.",
-          "artist": "Colonel Tom",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-08-20",
           "time": "6:00 p.m.",
@@ -748,15 +748,6 @@
       "id": "the-rivoli",
       "events": [
         {
-          "date": "2026-08-16",
-          "time": "",
-          "artist": "Riff Raff",
-          "ticketUrl": "https://aftontickets.com/event/buyticket/3rx70m6mj1?aff=venue",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-08-21",
           "time": "",
           "artist": "Chlorine EP Release Party",
@@ -870,15 +861,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-08-16",
-          "time": "",
-          "artist": "Dean Johnson",
-          "ticketUrl": "https://thedrake.ca/event/dean-johnson/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-08-17",
           "time": "",
           "artist": "HEADSEND",
@@ -925,24 +907,6 @@
       "id": "grossmans-tavern",
       "events": [
         {
-          "date": "2026-08-16",
-          "time": "3:00 PM",
-          "artist": "New Orleans Connection All Star Jazz Band",
-          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-121/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-16",
-          "time": "9:00 PM",
-          "artist": "Sunday Jam Night Hosted by The Charter Blues Band",
-          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-the-charter-blues-band-19/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-08-19",
           "time": "9:00 PM",
           "artist": "Action Sound Band",
@@ -977,21 +941,30 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "9:30 PM",
+          "artist": "The Moving Violations",
+          "ticketUrl": "https://grossmanstavern.com/event/the-moving-violations-4/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "3:00 PM",
+          "artist": "New Orleans Connection All Star Jazz Band",
+          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-122/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-08-16",
-          "time": "3:00 PM",
-          "artist": "Gypsy Rebels",
-          "ticketUrl": "https://castroslounge.com/event/gypsy-rebels-8/",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
         {
           "date": "2026-08-17",
           "time": "8:00 PM",
@@ -1064,13 +1037,13 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-08-16",
+          "date": "2026-08-18",
           "time": "",
-          "artist": "Butcher's Porterhouse: A Tribute to Cole Porter w/ Shannon Butcher Mark Eisenman",
-          "ticketUrl": "https://jazzbistro.ca/event/butchers-porterhouse-a-tribute-to-cole-porter-w-shannon-butcher-mark-eisenman/",
+          "artist": "Julian Belray",
+          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-julian-belray-4/",
           "availability": "",
           "price": "",
-          "genre": "jazz/blues"
+          "genre": "other"
         }
       ]
     },
@@ -1123,15 +1096,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-08-16",
-          "time": "8:00 PM",
-          "artist": "Dane Pedersen w/ York Street Thought Process",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-08-17",
           "time": "8:00 PM",
           "artist": "Jake McKelvie with Christo Graham and Lilydipper",
@@ -1157,15 +1121,6 @@
           "availability": "",
           "price": "",
           "genre": "pop"
-        },
-        {
-          "date": "2026-08-22",
-          "time": "8:30 PM",
-          "artist": "The Last Waltz Beer Launch",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
         },
         {
           "date": "2026-08-23",

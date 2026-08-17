@@ -44,3 +44,9 @@ Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for be
 Health: Fair; 118 shows captured, but 11/32 venues (34%) failed to return data.
 Attention: roy-thomson-hall, koerner-hall, td-music-hall, the-rex, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
 Improvement: Investigate if the "none" failures are due to site structure changes or empty schedules to determine if new selectors are needed.
+
+## 2026-08-17T16:00:02.884Z
+113 shows / 21 venues with listings
+Overall health: Fair; 113 shows captured, but 11 of 32 venues (34%) returned zero results.
+Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, the-rex, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
+Improvement: Investigate if the "camofox" or "jsonld" methods can be applied to the failing venues to replace "none" sources.
