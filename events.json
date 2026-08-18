@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T16:00:02.884Z",
-  "windowStart": "2026-08-17",
-  "windowEnd": "2026-09-07",
+  "generatedAt": "2026-08-18T16:00:06.823Z",
+  "windowStart": "2026-08-18",
+  "windowEnd": "2026-09-08",
   "venues": [
     {
       "id": "massey-hall",
@@ -112,21 +112,30 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "7:00 PM",
+          "artist": "Hazlett",
+          "ticketUrl": "https://www.ticketmaster.ca/hazlett-toronto-ontario-09-08-2026/event/100064CCD8FB585F",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "7:00 PM",
+          "artist": "The Pre-Show Speakeasy with Hazlett - NOT A CONCERT TICKET",
+          "ticketUrl": "https://www.ticketmaster.ca/the-preshow-speakeasy-with-hazlett-not-toronto-ontario-09-08-2026/event/100064F641F26BA7",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-08-17",
-          "time": "7:00 PM",
-          "artist": "Chance Peña",
-          "ticketUrl": "https://www.ticketmaster.ca/chance-pena-toronto-ontario-08-17-2026/event/100063840B55F4FE",
-          "availability": "limited",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-08-18",
           "time": "6:30 PM",
@@ -293,6 +302,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "6:30 PM",
+          "artist": "The Rasmus w/ Saint Agnes and Death Valley Dreams",
+          "ticketUrl": "https://www.ticketmaster.ca/the-rasmus-w-saint-agnes-and-toronto-ontario-09-08-2026/event/100064E6A7706D2B",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -318,6 +336,15 @@
           "genre": "rock"
         },
         {
+          "date": "2026-08-22",
+          "time": "7:00pm",
+          "artist": "UNVEILED: ON DECK ~ The Spotlight Awaits",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/unveiled-on-deck-the-spotlight-awaits/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
           "date": "2026-08-30",
           "time": "7:00pm",
           "artist": "The Red Jumpsuit Apparatus",
@@ -325,6 +352,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "10:30pm",
+          "artist": "The Official Anirudh XV Tour Afterparty",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/the-official-xv-tour-afterparty/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -353,7 +389,62 @@
     },
     {
       "id": "the-rex",
-      "events": []
+      "events": [
+        {
+          "date": "2026-08-18",
+          "time": "5:00 p.m.",
+          "artist": "Serena Maddalena",
+          "ticketUrl": "https://www.therex.ca/events/2xct4lfkj7j279g",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "8:00 p.m.",
+          "artist": "CLASSIC REX JAZZ JAM",
+          "ticketUrl": "https://www.therex.ca/events/classic-rex-jazz-jam-gglhk-4mwsb-pfmeh-c3ckt-f9ylm-2cha4-gmbtn-lbzcc-c2kgt-mhnf3-rma7p-c36jw-84sfm-wd5ep-ftsdt-3662n-9d5kg-yyx86-6tay5-jgtfd-wn3ej-z9rmp-m7tgm-axxky-nhld9-chcsd-y6nlk-tgncd-36ftl-m4ghd",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "5:00 p.m.",
+          "artist": "Mattaus Gretzinger",
+          "ticketUrl": "https://www.therex.ca/events/allison-au-alyry",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "8:00 p.m.",
+          "artist": "Allison Au",
+          "ticketUrl": "https://www.therex.ca/events/allison-au",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "5:00 p.m.",
+          "artist": "Anise Russow",
+          "ticketUrl": "https://www.therex.ca/events/allison-au-6hapm-4m92h",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-20",
+          "time": "8:00 p.m.",
+          "artist": "Allison Au",
+          "ticketUrl": "https://www.therex.ca/events/allison-au-6hapm",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        }
+      ]
     },
     {
       "id": "lees-palace",
@@ -429,6 +520,15 @@
           "availability": "available",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "8:00 PM",
+          "artist": "Sun Kil Moon with Special Guests",
+          "ticketUrl": "https://www.ticketweb.ca/event/sun-kil-moon-with-special-lees-palace-tickets/14815023",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -793,15 +893,6 @@
           "genre": "hip-hop/r&b"
         },
         {
-          "date": "2026-08-26",
-          "time": "",
-          "artist": "Ghost Rocket 15th Anniversary Tour - Toronto",
-          "ticketUrl": "https://www.ghostrocketmusic.com/torontoshow",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-08-27",
           "time": "",
           "artist": "Sam Casey - $5 All Ages Show",
@@ -854,21 +945,21 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "",
+          "artist": "Yayfung: Moving Still Live in Toronto",
+          "ticketUrl": "https://www.eventbrite.ca/e/moving-still-live-2026-toronto-tickets-1997285022267?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
     {
       "id": "drake-underground",
       "events": [
-        {
-          "date": "2026-08-17",
-          "time": "",
-          "artist": "HEADSEND",
-          "ticketUrl": "https://thedrake.ca/event/headsend/",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
         {
           "date": "2026-08-18",
           "time": "",
@@ -886,6 +977,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "",
+          "artist": "Vacation Manor",
+          "ticketUrl": "https://thedrake.ca/event/vacation-manor/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -966,15 +1066,6 @@
       "id": "castros-lounge",
       "events": [
         {
-          "date": "2026-08-17",
-          "time": "8:00 PM",
-          "artist": "The 501 East",
-          "ticketUrl": "https://castroslounge.com/event/the-501-east-36/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-08-18",
           "time": "7:00 PM",
           "artist": "Bring Your Own Vinyl Night",
@@ -985,12 +1076,21 @@
         },
         {
           "date": "2026-08-20",
-          "time": "5:00 PM",
+          "time": "6:00 PM",
           "artist": "Reverend Lau Max &#038; The Healers",
           "ticketUrl": "https://castroslounge.com/event/reverend-lau-max-the-healers-5/",
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-08-21",
+          "time": "6:00 PM",
+          "artist": "Gary Lee Hill featuring Stacie Tabb",
+          "ticketUrl": "https://castroslounge.com/event/gary-lee-hill-featuring-stacie-tabb-15/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-08-22",
@@ -1015,6 +1115,33 @@
           "time": "7:00 PM",
           "artist": "Music Bingo @ Castros",
           "ticketUrl": "https://castroslounge.com/event/music-bingo-castros-18/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "6:00 PM",
+          "artist": "Charlotte McAfee-Brunner",
+          "ticketUrl": "https://castroslounge.com/event/charlotte-mcafee-brunner-5/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "5:30 PM",
+          "artist": "Sugar Rush",
+          "ticketUrl": "https://castroslounge.com/event/sugar-rush-85/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "5:00 PM",
+          "artist": "BUCKO",
+          "ticketUrl": "https://castroslounge.com/event/bucko/",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -1096,15 +1223,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-08-17",
-          "time": "8:00 PM",
-          "artist": "Jake McKelvie with Christo Graham and Lilydipper",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-08-18",
           "time": "8:00 PM",
           "artist": "priyana with Clara Smallman and Bianca Espino",
@@ -1130,6 +1248,24 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "8:00 PM",
+          "artist": "Marshall Veroni with Jake Feeney",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "8:00 PM",
+          "artist": "Jazz of Arabia with Illarra and Hikaya Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },

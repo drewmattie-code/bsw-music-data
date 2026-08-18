@@ -50,3 +50,9 @@ Improvement: Investigate if the "none" failures are due to site structure change
 Overall health: Fair; 113 shows captured, but 11 of 32 venues (34%) returned zero results.
 Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, the-rex, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
 Improvement: Investigate if the "camofox" or "jsonld" methods can be applied to the failing venues to replace "none" sources.
+
+## 2026-08-18T16:00:06.823Z
+128 shows / 22 venues with listings
+Health: Fair; 128 shows captured, but 10/32 venues failed to return data.
+Attention: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
+Improvement: Audit the "none" status venues to determine if a custom selector or camofox implementation is required.
