@@ -56,3 +56,9 @@ Improvement: Investigate if the "camofox" or "jsonld" methods can be applied to 
 Health: Fair; 128 shows captured, but 10/32 venues failed to return data.
 Attention: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, baby-g, monarch-tavern, hughs-room-live, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
 Improvement: Audit the "none" status venues to determine if a custom selector or camofox implementation is required.
+
+## 2026-08-19T16:00:03.907Z
+126 shows / 22 venues with listings
+Health: 126 shows captured across 22/32 venues (68% coverage).
+Attention: Roy Thomson Hall, Koerner Hall, TD Music Hall, Coca-Cola Coliseum, Baby G, Monarch Tavern, Hugh's Room, Living Arts Centre, Adelaide Hall, Rec Room.
+Improvement: Investigate why JSON-LD is failing for the larger halls (Roy Thomson, Koerner, TD) to standardize extraction.
