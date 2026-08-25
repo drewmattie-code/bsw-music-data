@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T16:00:02.800Z",
-  "windowStart": "2026-08-24",
-  "windowEnd": "2026-09-14",
+  "generatedAt": "2026-08-25T16:00:05.699Z",
+  "windowStart": "2026-08-25",
+  "windowEnd": "2026-09-15",
   "venues": [
     {
       "id": "massey-hall",
@@ -14,6 +14,15 @@
           "availability": "available",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "8:00 PM",
+          "artist": "Sara Bareilles: The Good Grief Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/sara-bareilles-the-good-grief-tour-toronto-ontario-09-15-2026/event/100064C1F5648CE6",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -145,6 +154,24 @@
           "availability": "available",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "5:30 PM",
+          "artist": "Atonement",
+          "ticketUrl": "https://www.ticketmaster.ca/atonement-toronto-ontario-09-15-2026/event/1000650ED5F456AD",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "9:30 PM",
+          "artist": "Tenzing",
+          "ticketUrl": "https://www.ticketmaster.ca/tenzing-toronto-ontario-09-15-2026/event/1000650ED5F856C2",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -182,7 +209,7 @@
           "time": "6:00 PM",
           "artist": "Hablando Huevadas",
           "ticketUrl": "https://www.ticketmaster.ca/hablando-huevadas-toronto-ontario-08-30-2026/event/100064A7CF2FADAE",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -239,6 +266,15 @@
           "availability": "available",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "7:00 PM",
+          "artist": "The Australian Pink Floyd Show: The Happiest Days Of Our Lives",
+          "ticketUrl": "https://www.ticketmaster.ca/the-australian-pink-floyd-show-the-toronto-ontario-09-15-2026/event/10006444CC7E6B91",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -340,6 +376,15 @@
           "time": "6:30 PM",
           "artist": "Social Distortion",
           "ticketUrl": "https://www.ticketmaster.ca/social-distortion-toronto-ontario-09-14-2026/event/10006453DFFB2678",
+          "availability": "available",
+          "price": "",
+          "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "6:30 PM",
+          "artist": "Social Distortion",
+          "ticketUrl": "https://www.ticketmaster.ca/social-distortion-toronto-ontario-09-15-2026/event/10006454AFB3D9B8",
           "availability": "available",
           "price": "",
           "genre": "metal/punk"
@@ -465,6 +510,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "7:00 PM",
+          "artist": "anees",
+          "ticketUrl": "https://www.ticketmaster.ca/anees-toronto-ontario-09-15-2026/event/100064A7D36FB99A",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -538,30 +592,21 @@
           "availability": "available",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "7:00 PM",
+          "artist": "Chaparelle",
+          "ticketUrl": "https://www.ticketweb.ca/event/chaparelle-the-horseshoe-tavern-tickets/15014013",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "the-rex",
       "events": [
-        {
-          "date": "2026-08-24",
-          "time": "5:00 p.m.",
-          "artist": "Jacob Gorzhaltsan Quartet",
-          "ticketUrl": "https://www.therex.ca/events/yvette-tollar-sings-joni-mitchell-4tygm-plp53-w4wn3",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "8:00 p.m.",
-          "artist": "Yvette Tollar sings Joni Mitchell",
-          "ticketUrl": "https://www.therex.ca/events/yvette-tollar-sings-joni-mitchell-6t684",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-08-25",
           "time": "5:00 p.m.",
@@ -597,6 +642,69 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "5:00 p.m.",
+          "artist": "Laura Dubin Trio",
+          "ticketUrl": "https://www.therex.ca/events/mark-kelsos-mystic-isle-project-99ada-ng6pp",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "8:00 p.m.",
+          "artist": "MARK KELSO'S MYSTIC ISLE PROJECT",
+          "ticketUrl": "https://www.therex.ca/events/mark-kelsos-mystic-isle-project-9name",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "5:00 p.m.",
+          "artist": "Melissa Stylianou Trio",
+          "ticketUrl": "https://www.therex.ca/events/melissa-stylianou-august-therex",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "8:00 p.m.",
+          "artist": "MARK KELSO'S MYSTIC ISLE PROJECT",
+          "ticketUrl": "https://www.therex.ca/events/mark-kelsos-mystic-isle-project-9name-kc96s",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "2:00 p.m.",
+          "artist": "Sean Stanley Quartet",
+          "ticketUrl": "https://www.therex.ca/events/mark-kelsos-mystic-isle-project-99ada-ng6pp-bfbnw-8glwn",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "5:00 p.m.",
+          "artist": "Jakob Durst",
+          "ticketUrl": "https://www.therex.ca/events/mark-kelsos-mystic-isle-project-99ada-ng6pp-bfbnw-8glwn-pwc2j",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "8:00 p.m.",
+          "artist": "MARK KELSO'S MYSTIC ISLE PROJECT",
+          "ticketUrl": "https://www.therex.ca/events/mark-kelsos-mystic-isle-project-9name-kc96s-h2b8j",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -605,7 +713,7 @@
       "events": [
         {
           "date": "2026-08-28",
-          "time": "9:00 PM",
+          "time": "10:00 PM",
           "artist": "Satin Jackets with Special Guests",
           "ticketUrl": "https://www.ticketweb.ca/event/satin-jackets-with-special-guests-lees-palace-tickets/14811323",
           "availability": "available",
@@ -715,15 +823,6 @@
           "availability": "",
           "price": "",
           "genre": "other"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "8:00 PM",
-          "artist": "CINEMA FACE",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
         }
       ]
     },
@@ -731,18 +830,9 @@
       "id": "scotiabank-arena",
       "events": [
         {
-          "date": "2026-08-24",
-          "time": "7:30 PM",
-          "artist": "Kacey Musgraves",
-          "ticketUrl": "https://www.ticketmaster.ca/event/10006495FF578D29?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_KACEYMUSGRAVES-08/24_4292026",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-08-29",
           "time": "",
-          "artist": "Iron Maiden",
+          "artist": "Iron Maiden Run For Your Lives World Tour 2026",
           "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
           "availability": "",
           "price": "",
@@ -751,7 +841,7 @@
         {
           "date": "2026-08-30",
           "time": "",
-          "artist": "Iron Maiden",
+          "artist": "Iron Maiden Run For Your Lives World Tour 2026",
           "ticketUrl": "https://www.ticketmaster.ca/artist/735341?venueId=131157",
           "availability": "",
           "price": "",
@@ -760,7 +850,7 @@
         {
           "date": "2026-08-31",
           "time": "7:30 PM",
-          "artist": "DON TOLIVER",
+          "artist": "DON TOLIVER NITROUS - OCTANE WORLD TOUR LEG 2",
           "ticketUrl": "https://www.ticketmaster.ca/event/100064CBEF30F543?brand=SBA&camefrom=CFC_SBA_WEB_INTERSCROLLER_LINK_DONTOLIVER-08/31_6232026",
           "availability": "",
           "price": "",
@@ -769,7 +859,7 @@
         {
           "date": "2026-09-05",
           "time": "6:30 PM",
-          "artist": "ANIRUDH",
+          "artist": "ANIRUDH XV TOUR Live in Toronto",
           "ticketUrl": "https://www.ticketmaster.ca/event/100064A18F9C80B4?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ANIRUDH-09/05_5272026",
           "availability": "",
           "price": "",
@@ -778,7 +868,7 @@
         {
           "date": "2026-09-12",
           "time": "8:00 PM",
-          "artist": "Jungle",
+          "artist": "Jungle World Tour 2026",
           "ticketUrl": "https://www.ticketmaster.ca/event/1000647396F27D90?camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_JUNGLE-09/12_3242026",
           "availability": "",
           "price": "",
@@ -787,11 +877,20 @@
         {
           "date": "2026-09-13",
           "time": "7:00 PM",
-          "artist": "Shreya Ghoshal",
+          "artist": "Shreya Ghoshal The Unstoppable Tour",
           "ticketUrl": "https://www.ticketmaster.ca/event/10006489C43FE5B9?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_SHREYAGHOSHAL-09/13_4132026",
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "8:00 PM",
+          "artist": "Robyn The Sexistential Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/event/1000644495CE9FD9?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ROBYN-09/15_262026",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1041,6 +1140,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "6:00 p.m.",
+          "artist": "Paul Reddick",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1077,7 +1185,7 @@
         {
           "date": "2026-08-29",
           "time": "",
-          "artist": "Emo Night with Eyes Like Static, Expendable Youth & Better Luck",
+          "artist": "Eyes Like Static, Expendable Youth & Better Luck",
           "ticketUrl": "https://www.eventbrite.ca/e/emo-night-rivoli-tickets-1984636190270?aff=ebdsoporgprofile",
           "availability": "",
           "price": "",
@@ -1127,6 +1235,15 @@
           "availability": "",
           "price": "",
           "genre": "classical"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "",
+          "artist": "DUALIDAD - September Tablao 2026",
+          "ticketUrl": "https://www.eventbrite.ca/e/dualidad-september-tablao-2026-tickets-1998659574590?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         },
         {
           "date": "2026-09-14",
@@ -1268,7 +1385,7 @@
         {
           "date": "2026-08-27",
           "time": "6:00 PM",
-          "artist": "Charlotte McAfee-Brunner",
+          "artist": "Charlotte Brunner",
           "ticketUrl": "https://castroslounge.com/event/charlotte-mcafee-brunner-5/",
           "availability": "",
           "price": "",
@@ -1345,6 +1462,15 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "3:00 PM",
+          "artist": "The Shivs",
+          "ticketUrl": "https://castroslounge.com/event/the-shivs-7/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1404,7 +1530,17 @@
     },
     {
       "id": "rose-theatre-brampton",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-06",
+          "time": "6:00 p.m.",
+          "artist": "Under the Sea: Aspire's 2026 Summer Recital",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
+        }
+      ]
     },
     {
       "id": "meridian-hall",
@@ -1461,7 +1597,7 @@
         {
           "date": "2026-08-25",
           "time": "8:00 PM",
-          "artist": "Marshall Veroni with Jake Feeney",
+          "artist": "Marshall Veroni with Jake Feeney & Alex Mason",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1484,6 +1620,15 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "9:00 PM",
+          "artist": "Sam Krüger + Sarah Hiltz",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
         }
       ]
     },

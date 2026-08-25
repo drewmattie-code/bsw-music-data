@@ -92,3 +92,9 @@ Improvement: Transition "model" based venues to "jsonld" where possible to incre
 Health: Fair; 150 shows captured from 75% of venues, though 8 sites returned zero results.
 Attention: koerner-hall, td-music-hall, baby-g, monarch-tavern, rose-theatre-brampton, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
 Improvement: Investigate why jsonld is failing for the 8 empty venues to see if a model or camofox approach is more reliable.
+
+## 2026-08-25T16:00:05.699Z
+166 shows / 25 venues with listings
+Overall health: 166 shows captured from 25/32 venues (78% venue success rate).
+Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, rec-room-roundhouse.
+Improvement: Investigate why 8 venues are returning "none" to determine if selectors are broken or if the venues are currently empty.
