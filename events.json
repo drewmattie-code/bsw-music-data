@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T16:00:05.699Z",
-  "windowStart": "2026-08-25",
-  "windowEnd": "2026-09-15",
+  "generatedAt": "2026-08-26T16:00:09.436Z",
+  "windowStart": "2026-08-26",
+  "windowEnd": "2026-09-16",
   "venues": [
     {
       "id": "massey-hall",
@@ -20,6 +20,15 @@
           "time": "8:00 PM",
           "artist": "Sara Bareilles: The Good Grief Tour",
           "ticketUrl": "https://www.ticketmaster.ca/sara-bareilles-the-good-grief-tour-toronto-ontario-09-15-2026/event/100064C1F5648CE6",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "8:00 PM",
+          "artist": "Sara Bareilles: The Good Grief Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/sara-bareilles-the-good-grief-tour-toronto-ontario-09-16-2026/event/100064C5F4BAA863",
           "availability": "available",
           "price": "",
           "genre": "pop"
@@ -172,6 +181,24 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "5:30 PM",
+          "artist": "The Only Living Pickpocket In New York",
+          "ticketUrl": "https://www.ticketmaster.ca/the-only-living-pickpocket-in-new-toronto-ontario-09-16-2026/event/1000650ED5FD56CF",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "9:30 PM",
+          "artist": "The Assassin(S)",
+          "ticketUrl": "https://www.ticketmaster.ca/the-assassins-toronto-ontario-09-16-2026/event/1000650ED60656E3",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -186,15 +213,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-08-25",
-          "time": "6:00 PM",
-          "artist": "Citizen - Halcyon Blues",
-          "ticketUrl": "https://www.ticketmaster.ca/citizen-halcyon-blues-toronto-ontario-08-25-2026/event/100064978B906D02",
-          "availability": "available",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-08-29",
           "time": "7:00 PM",
@@ -275,6 +293,15 @@
           "availability": "available",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:00 PM",
+          "artist": "Aldous Harding",
+          "ticketUrl": "https://www.ticketmaster.ca/aldous-harding-toronto-ontario-09-16-2026/event/10006426C3676E4C",
+          "availability": "available",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -354,15 +381,6 @@
           "genre": "classical"
         },
         {
-          "date": "2026-09-12",
-          "time": "7:00 PM",
-          "artist": "Seedhe Maut - 10 Years of Seedhe Maut",
-          "ticketUrl": "https://www.ticketmaster.ca/seedhe-maut-10-years-of-seedhe-toronto-ontario-09-12-2026/event/100064C10213B265",
-          "availability": "available",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-09-13",
           "time": "6:00 PM",
           "artist": "Bilmuri - Kinda Hard Tour",
@@ -388,6 +406,15 @@
           "availability": "available",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:00 PM",
+          "artist": "SAINT LEVANT - AFANDI WORLD TOUR",
+          "ticketUrl": "https://www.ticketmaster.ca/saint-levant-afandi-world-tour-toronto-ontario-09-16-2026/event/100064E9EEB1DA59",
+          "availability": "limited",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -397,8 +424,8 @@
         {
           "date": "2026-08-28",
           "time": "7:00 PM",
-          "artist": "Tiffany Day - HALO TOUR - MOVED TO OPERA HOUSE",
-          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-moved-to-toronto-ontario-08-28-2026/event/100064A47E1D4E9D",
+          "artist": "Tiffany Day - HALO TOUR",
+          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-toronto-ontario-08-28-2026/event/100064A6C9C51DFD",
           "availability": "",
           "price": "",
           "genre": "pop"
@@ -406,8 +433,8 @@
         {
           "date": "2026-08-28",
           "time": "7:00 PM",
-          "artist": "Tiffany Day - HALO TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-toronto-ontario-08-28-2026/event/100064A6C9C51DFD",
+          "artist": "Tiffany Day - HALO TOUR - MOVED TO OPERA HOUSE",
+          "ticketUrl": "https://www.ticketmaster.ca/tiffany-day-halo-tour-moved-to-toronto-ontario-08-28-2026/event/100064A47E1D4E9D",
           "availability": "",
           "price": "",
           "genre": "pop"
@@ -519,6 +546,15 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:00 PM",
+          "artist": "Gibran Alcocer",
+          "ticketUrl": "https://www.ticketmaster.ca/gibran-alcocer-toronto-ontario-09-16-2026/event/100064E2A312A6A7",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
         }
       ]
     },
@@ -608,24 +644,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-08-25",
-          "time": "5:00 p.m.",
-          "artist": "Trombone Charlotte & Jared Higgins Present: GRAPEVINE QUARTET",
-          "ticketUrl": "https://www.therex.ca/events/charlie-ballantine-bhkk3-8m8wp-jfltn-rwgrb-65zby-hwctw-4tx9b-emyp4-ntfaw-b6hr5",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "8:00 p.m.",
-          "artist": "CLASSIC REX JAZZ JAM",
-          "ticketUrl": "https://www.therex.ca/events/jpnbwxrr5lddk8l",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-08-26",
           "time": "5:00 p.m.",
           "artist": "Fction",
@@ -705,6 +723,24 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "11:00 p.m.",
+          "artist": "CCP",
+          "ticketUrl": "https://www.therex.ca/events/ccp",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "2:00 p.m.",
+          "artist": "Al Qahwa",
+          "ticketUrl": "https://www.therex.ca/events/al-qahwa",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -722,7 +758,7 @@
         },
         {
           "date": "2026-08-29",
-          "time": "7:00 PM",
+          "time": "9:00 PM",
           "artist": "The Cybertronic Spree with Danimal Cannon and Wordburglar",
           "ticketUrl": "https://www.ticketweb.ca/event/the-cybertronic-spree-with-danimal-lees-palace-tickets/14956673",
           "availability": "available",
@@ -782,6 +818,15 @@
           "availability": "available",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "10:00 PM",
+          "artist": "BIEBER FEVER: A JUSTIN BIEBER THEMED DANCE PARTY",
+          "ticketUrl": "https://www.ticketweb.ca/event/bieber-fever-a-justin-bieber-lees-palace-tickets/14286124",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         },
         {
           "date": "2026-09-12",
@@ -921,15 +966,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-08-25",
-          "time": "7:30 PM",
-          "artist": "Empire of the Sun - Ask That God: Afterlife North American Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/empire-of-the-sun-ask-that-toronto-ontario-08-25-2026/event/10006465CD6950A0",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
           "date": "2026-08-26",
           "time": "7:00 PM",
           "artist": "The Fray - Summer of Light Tour with Dashboard Confessional",
@@ -1009,6 +1045,15 @@
           "availability": "",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "7:30 PM",
+          "artist": "Wu-Tang Forever: The Final Chamber",
+          "ticketUrl": "https://www.ticketmaster.ca/wutang-forever-the-final-chamber-toronto-ontario-09-08-2026/event/10006473B4F4B86A",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -1149,6 +1194,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1156,18 +1210,9 @@
       "id": "the-rivoli",
       "events": [
         {
-          "date": "2026-08-25",
-          "time": "",
-          "artist": "Moka Only",
-          "ticketUrl": "https://tixert.com/events/handsolo-records-30th-anniversary-tour-1782649793",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-08-27",
           "time": "",
-          "artist": "Sam Casey",
+          "artist": "Sam Casey, Double Experience & The Satisfactory",
           "ticketUrl": "https://www.eventbrite.ca/e/sam-casey-friends-all-ages-show-tickets-1994230190182?aff=RivoliToronto",
           "availability": "",
           "price": "",
@@ -1185,7 +1230,7 @@
         {
           "date": "2026-08-29",
           "time": "",
-          "artist": "Eyes Like Static, Expendable Youth & Better Luck",
+          "artist": "Emo Night with Eyes Like Static, Expendable Youth & Better Luck",
           "ticketUrl": "https://www.eventbrite.ca/e/emo-night-rivoli-tickets-1984636190270?aff=ebdsoporgprofile",
           "availability": "",
           "price": "",
@@ -1208,6 +1253,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "",
+          "artist": "Las Malinches presents: La Telenovela",
+          "ticketUrl": "https://www.eventbrite.com/e/las-malinches-presents-la-telenovela-tickets-1997529032107?aff=ebdssbdestsearch",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         },
         {
           "date": "2026-09-06",
@@ -1237,15 +1291,6 @@
           "genre": "classical"
         },
         {
-          "date": "2026-09-13",
-          "time": "",
-          "artist": "DUALIDAD - September Tablao 2026",
-          "ticketUrl": "https://www.eventbrite.ca/e/dualidad-september-tablao-2026-tickets-1998659574590?aff=oddtdtcreator",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
-        {
           "date": "2026-09-14",
           "time": "",
           "artist": "Neon Dreams and Booshle G.",
@@ -1253,6 +1298,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "",
+          "artist": "An Evening with Kreesha Turner",
+          "ticketUrl": "https://www.eventbrite.ca/e/an-evening-with-kreesha-turner-tickets-1998514562856?aff=RivoliWebsite",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1373,15 +1427,6 @@
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-08-25",
-          "time": "7:00 PM",
-          "artist": "Music Bingo @ Castros",
-          "ticketUrl": "https://castroslounge.com/event/music-bingo-castros-18/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-08-27",
           "time": "6:00 PM",
@@ -1518,10 +1563,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-08-25",
+          "date": "2026-08-26",
           "time": "",
-          "artist": "Julian Belray",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-julian-belray-5/",
+          "artist": "Alex Bird Ewen Farncombe",
+          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-alex-bird-ewen-farncombe-4/",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -1580,6 +1625,15 @@
           "availability": "available",
           "price": "",
           "genre": "classical"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:30 PM",
+          "artist": "UJA Annual Campaign 2026 - The Launch",
+          "ticketUrl": "https://www.ticketmaster.ca/uja-annual-campaign-2026-the-launch-toronto-ontario-09-16-2026/event/100064FFB3BAD5CD",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1594,15 +1648,6 @@
     {
       "id": "burdock",
       "events": [
-        {
-          "date": "2026-08-25",
-          "time": "8:00 PM",
-          "artist": "Marshall Veroni with Jake Feeney & Alex Mason",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-08-26",
           "time": "8:00 PM",
@@ -1629,6 +1674,15 @@
           "availability": "",
           "price": "",
           "genre": "classical"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "9:00 PM",
+          "artist": "Ladybug, Sam the Living, Mimi Dominique",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -1647,6 +1701,15 @@
           "availability": "available",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:00 PM",
+          "artist": "AC/DC - POWER UP TOUR 2026",
+          "ticketUrl": "https://www.ticketmaster.ca/acdc-power-up-tour-2026-toronto-ontario-09-16-2026/event/10006359C47EAEB4",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     }
