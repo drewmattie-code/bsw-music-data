@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T16:00:07.970Z",
-  "windowStart": "2026-08-31",
-  "windowEnd": "2026-09-21",
+  "generatedAt": "2026-09-01T16:00:12.305Z",
+  "windowStart": "2026-09-01",
+  "windowEnd": "2026-09-22",
   "venues": [
     {
       "id": "massey-hall",
@@ -70,7 +70,7 @@
           "time": "5:30 PM",
           "artist": "Girl Group",
           "ticketUrl": "https://www.ticketmaster.ca/girl-group-toronto-ontario-09-11-2026/event/1000650ED5A75532",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -79,7 +79,7 @@
           "time": "9:30 PM",
           "artist": "Always Lalisa",
           "ticketUrl": "https://www.ticketmaster.ca/always-lalisa-toronto-ontario-09-11-2026/event/1000650ED5AA553D",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -97,7 +97,7 @@
           "time": "2:00 PM",
           "artist": "Evil Genius",
           "ticketUrl": "https://www.ticketmaster.ca/evil-genius-toronto-ontario-09-12-2026/event/1000650ED5B3556D",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "electronic"
         },
@@ -106,7 +106,7 @@
           "time": "5:30 PM",
           "artist": "Babies",
           "ticketUrl": "https://www.ticketmaster.ca/babies-toronto-ontario-09-12-2026/event/1000650ED5B6557A",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "rock"
         },
@@ -115,7 +115,7 @@
           "time": "9:30 PM",
           "artist": "Misty Green",
           "ticketUrl": "https://www.ticketmaster.ca/misty-green-toronto-ontario-09-12-2026/event/1000650ED5BB559F",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -142,7 +142,7 @@
           "time": "5:45 PM",
           "artist": "Prima Facie",
           "ticketUrl": "https://www.ticketmaster.ca/prima-facie-toronto-ontario-09-13-2026/event/1000650ED5CE55F3",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -178,7 +178,7 @@
           "time": "9:30 PM",
           "artist": "Bunker",
           "ticketUrl": "https://www.ticketmaster.ca/bunker-toronto-ontario-09-14-2026/event/1000650ED5EA5687",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "rock"
         },
@@ -196,7 +196,7 @@
           "time": "9:30 PM",
           "artist": "Tenzing",
           "ticketUrl": "https://www.ticketmaster.ca/tenzing-toronto-ontario-09-15-2026/event/1000650ED5F856C2",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -205,7 +205,7 @@
           "time": "5:30 PM",
           "artist": "The Only Living Pickpocket In New York",
           "ticketUrl": "https://www.ticketmaster.ca/the-only-living-pickpocket-in-new-toronto-ontario-09-16-2026/event/1000650ED5FD56CF",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -249,15 +249,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-08-31",
-          "time": "6:00 PM",
-          "artist": "Hablando Huevadas",
-          "ticketUrl": "https://www.ticketmaster.ca/hablando-huevadas-toronto-ontario-08-31-2026/event/100064AEC598F5D3",
-          "availability": "available",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-10",
           "time": "6:00 PM",
@@ -347,6 +338,15 @@
           "availability": "limited",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "7:00 PM",
+          "artist": "Amigo the Devil w/ support from Liam St. John",
+          "ticketUrl": "https://www.ticketmaster.ca/amigo-the-devil-w-support-from-toronto-ontario-09-22-2026/event/100064F0BB2DC661",
+          "availability": "available",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -426,24 +426,6 @@
           "genre": "metal/punk"
         },
         {
-          "date": "2026-09-16",
-          "time": "7:00 PM",
-          "artist": "SAINT LEVANT - AFANDI WORLD TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/saint-levant-afandi-world-tour-toronto-ontario-09-16-2026/event/100064E9EEB1DA59",
-          "availability": "limited",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
-          "date": "2026-09-17",
-          "time": "7:00 PM",
-          "artist": "SAINT LEVANT - AFANDI WORLD TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/saint-levant-afandi-world-tour-toronto-ontario-09-17-2026/event/100064E9EEB4DA5D",
-          "availability": "limited",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-09-18",
           "time": "8:00 PM",
           "artist": "Tinlicker North America 2026",
@@ -478,6 +460,15 @@
           "availability": "available",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "7:00 PM",
+          "artist": "Kany Garcia: Puerta Abierta Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/kany-garcia-puerta-abierta-tour-toronto-ontario-09-22-2026/event/10006489DF642E2F",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -537,15 +528,6 @@
           "availability": "",
           "price": "",
           "genre": "rock"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "7:00 PM",
-          "artist": "Colin Stetson & Brighde Chaimbeul",
-          "ticketUrl": "https://www.ticketmaster.ca/colin-stetson-brighde-chaimbeul-toronto-ontario-09-09-2026/event/100064ACE3936704",
-          "availability": "",
-          "price": "",
-          "genre": "other"
         },
         {
           "date": "2026-09-10",
@@ -636,6 +618,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "7:00 PM",
+          "artist": "Yard Act",
+          "ticketUrl": "https://www.ticketmaster.ca/yard-act-toronto-ontario-09-22-2026/event/100064D2B342EF0D",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -689,7 +680,7 @@
         },
         {
           "date": "2026-09-19",
-          "time": "",
+          "time": "6:00pm",
           "artist": "KAMELOT",
           "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/kamelot-3/",
           "availability": "",
@@ -763,6 +754,15 @@
           "availability": "limited",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "7:00 PM",
+          "artist": "Bad Nerves",
+          "ticketUrl": "https://www.ticketmaster.ca/bad-nerves-toronto-ontario-09-22-2026/event/100064D1DF97872E",
+          "availability": "available",
+          "price": "",
+          "genre": "metal/punk"
         }
       ]
     },
@@ -770,28 +770,10 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-08-31",
-          "time": "5:00 p.m.",
-          "artist": "Wide Arches",
-          "ticketUrl": "https://www.therex.ca/events/wide-arches",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "8:00 p.m.",
-          "artist": "PowerHouse TreeOh!",
-          "ticketUrl": "https://www.therex.ca/events/powerhouse-treeoh-1-mb8cl",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-09-01",
           "time": "5:00 p.m.",
           "artist": "Tania Gill Trio",
-          "ticketUrl": "https://www.therex.ca/events/tania-gill-trio",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -800,7 +782,7 @@
           "date": "2026-09-01",
           "time": "8:00 p.m.",
           "artist": "CLASSIC REX JAZZ JAM",
-          "ticketUrl": "https://www.therex.ca/events/kjhjzpwwktph5p6",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -809,7 +791,7 @@
           "date": "2026-09-02",
           "time": "5:00 p.m.",
           "artist": "David Riddel",
-          "ticketUrl": "https://www.therex.ca/events/david-riddel",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -818,7 +800,7 @@
           "date": "2026-09-02",
           "time": "8:00 p.m.",
           "artist": "Colleen Allen",
-          "ticketUrl": "https://www.therex.ca/events/colleen-allen",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -827,7 +809,7 @@
           "date": "2026-09-03",
           "time": "5:00 p.m.",
           "artist": "Steve Koven Trio",
-          "ticketUrl": "https://www.therex.ca/events/steve-koven-trio-2",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -836,7 +818,7 @@
           "date": "2026-09-03",
           "time": "8:00 p.m.",
           "artist": "Colleen Allen",
-          "ticketUrl": "https://www.therex.ca/events/colleen-allen-hgbgt",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -845,7 +827,7 @@
           "date": "2026-09-04",
           "time": "5:00 p.m.",
           "artist": "The Hive",
-          "ticketUrl": "https://www.therex.ca/events/the-hive",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -854,7 +836,7 @@
           "date": "2026-09-04",
           "time": "8:00 p.m.",
           "artist": "Colleen Allen",
-          "ticketUrl": "https://www.therex.ca/events/colleen-allen-hgbgt-m3ttx",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -863,7 +845,7 @@
           "date": "2026-09-05",
           "time": "2:00 p.m.",
           "artist": "Selena Savage septet",
-          "ticketUrl": "https://www.therex.ca/events/selena-savage-1",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -908,6 +890,15 @@
           "availability": "available",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "7:00 PM",
+          "artist": "Colin Stetson & Brighde Chaimbeul MOVED TO LEE'S PALACE",
+          "ticketUrl": "https://www.ticketmaster.ca/colin-stetson-brighde-chaimbeul-moved-to-toronto-ontario-09-09-2026/event/100064ACE3936704",
+          "availability": "available",
+          "price": "",
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-09-10",
@@ -957,11 +948,11 @@
         {
           "date": "2026-09-18",
           "time": "11:00 PM",
-          "artist": "Shekdash with Special Guests",
-          "ticketUrl": "https://www.ticketweb.ca/event/shekdash-with-special-guests-lees-palace-tickets/15036933",
+          "artist": "Shekdash with saintsbury, b2b, 0xydr0p & /ASYNC",
+          "ticketUrl": "https://www.ticketweb.ca/event/shekdash-with-saintsbury-b2b-0xydr0p-lees-palace-tickets/15036933",
           "availability": "available",
           "price": "",
-          "genre": "world"
+          "genre": "electronic"
         },
         {
           "date": "2026-09-19",
@@ -980,6 +971,15 @@
           "availability": "available",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "6:30 PM",
+          "artist": "Crown Magnetar, To The Grave, Backbiter",
+          "ticketUrl": "https://www.ticketweb.ca/event/crown-magnetar-to-the-grave-lees-palace-tickets/14980583",
+          "availability": "available",
+          "price": "",
+          "genre": "metal/punk"
         }
       ]
     },
@@ -994,6 +994,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "",
+          "artist": "CMI's AE Showcase",
+          "ticketUrl": "https://www.simpletix.com/e/cmi-s-artist-entrepreneur-31-showcase-tickets-290626",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         },
         {
           "date": "2026-09-18",
@@ -1012,6 +1021,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "",
+          "artist": "COLIN JAMES",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1019,18 +1037,9 @@
       "id": "scotiabank-arena",
       "events": [
         {
-          "date": "2026-08-31",
-          "time": "7:30 PM",
-          "artist": "DON TOLIVER NITROUS - OCTANE WORLD TOUR LEG 2",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064CBEF30F543?brand=SBA&camefrom=CFC_SBA_WEB_INTERSCROLLER_LINK_DONTOLIVER-08/31_6232026",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-09-05",
           "time": "6:30 PM",
-          "artist": "ANIRUDH XV TOUR Live in Toronto",
+          "artist": "ANIRUDH XV TOUR",
           "ticketUrl": "https://www.ticketmaster.ca/event/100064A18F9C80B4?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ANIRUDH-09/05_5272026",
           "availability": "",
           "price": "",
@@ -1109,15 +1118,6 @@
     {
       "id": "budweiser-stage",
       "events": [
-        {
-          "date": "2026-08-31",
-          "time": "7:00 PM",
-          "artist": "SQUEEZE - TRIED, TESTED AND TRIXIES w/ Adam Ant and Haircut 100",
-          "ticketUrl": "https://www.ticketmaster.ca/squeeze-tried-tested-and-trixies-w-toronto-ontario-08-31-2026/event/1000649EA85BCBF7",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-01",
           "time": "6:15 PM",
@@ -1198,21 +1198,21 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-14",
+          "time": "6:30 PM",
+          "artist": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
+          "ticketUrl": "https://www.ticketmaster.ca/uicideboy-present-grey-day-tour-2026-toronto-ontario-09-14-2026/event/1000647D98C58DAC",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-08-31",
-          "time": "6:00 p.m.",
-          "artist": "Whiskey Jack",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-01",
           "time": "8:00 p.m.",
@@ -1316,6 +1316,15 @@
           "date": "2026-09-21",
           "time": "6:00 p.m.",
           "artist": "The Odd Country",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "6:00 p.m.",
+          "artist": "Cameron Family Singers",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1440,15 +1449,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-08-31",
-          "time": "",
-          "artist": "Chxrry",
-          "ticketUrl": "https://thedrake.ca/event/chxrry/",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-01",
           "time": "",
           "artist": "Greek!",
@@ -1465,15 +1465,6 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
-        },
-        {
-          "date": "2026-09-03",
-          "time": "",
-          "artist": "Born At Midnite",
-          "ticketUrl": "https://thedrake.ca/event/born-at-midnite/",
-          "availability": "",
-          "price": "",
-          "genre": "world"
         },
         {
           "date": "2026-09-04",
@@ -1651,6 +1642,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "7:00 PM",
+          "artist": "Music Bingo @ Castros",
+          "ticketUrl": "https://castroslounge.com/event/music-bingo-castros-19/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1818,62 +1818,7 @@
     },
     {
       "id": "burdock",
-      "events": [
-        {
-          "date": "2026-08-31",
-          "time": "8:00 PM",
-          "artist": "Shatira Jackson, with show opener Toronto Sitar",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "8:00 PM",
-          "artist": "Jibz Cameron / Dynasty Handbag",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
-          "date": "2026-09-02",
-          "time": "8:00 PM",
-          "artist": "the grandson meets Genre Fiction",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-09-03",
-          "time": "7:30 PM",
-          "artist": "Anise Russow & Serena Maddalena",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "classical"
-        },
-        {
-          "date": "2026-09-04",
-          "time": "8:30 PM",
-          "artist": "All Day Breakfast & Lilydipper",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "8:00 PM",
-          "artist": "Ben Caplan",
-          "ticketUrl": "https://burdockbrewery.com/pages/www.showpass.com",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        }
-      ]
+      "events": []
     },
     {
       "id": "rec-room-roundhouse",
