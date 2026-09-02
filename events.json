@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T16:00:12.305Z",
-  "windowStart": "2026-09-01",
-  "windowEnd": "2026-09-22",
+  "generatedAt": "2026-09-02T16:00:11.445Z",
+  "windowStart": "2026-09-02",
+  "windowEnd": "2026-09-23",
   "venues": [
     {
       "id": "massey-hall",
@@ -160,7 +160,7 @@
           "time": "1:30 PM",
           "artist": "A Talent for Murder",
           "ticketUrl": "https://www.ticketmaster.ca/a-talent-for-murder-toronto-ontario-09-14-2026/event/1000650ED5E35654",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "metal/punk"
         },
@@ -347,6 +347,15 @@
           "availability": "available",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "5:30 PM",
+          "artist": "Dying Fetus x Sanguisugabogg",
+          "ticketUrl": "https://www.ticketmaster.ca/dying-fetus-x-sanguisugabogg-toronto-ontario-09-23-2026/event/10006495992B82A7",
+          "availability": "limited",
+          "price": "",
+          "genre": "metal/punk"
         }
       ]
     },
@@ -466,6 +475,15 @@
           "time": "7:00 PM",
           "artist": "Kany Garcia: Puerta Abierta Tour",
           "ticketUrl": "https://www.ticketmaster.ca/kany-garcia-puerta-abierta-tour-toronto-ontario-09-22-2026/event/10006489DF642E2F",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "7:00 PM",
+          "artist": "Cavetown - Running With Scissors Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/cavetown-running-with-scissors-tour-toronto-ontario-09-23-2026/event/100064863CFEC6CF",
           "availability": "available",
           "price": "",
           "genre": "pop"
@@ -627,6 +645,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "6:30 PM",
+          "artist": "Perfect Person",
+          "ticketUrl": "https://www.ticketmaster.ca/perfect-person-toronto-ontario-09-23-2026/event/100064C4DCD1B099",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -770,24 +797,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-01",
-          "time": "5:00 p.m.",
-          "artist": "Tania Gill Trio",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "8:00 p.m.",
-          "artist": "CLASSIC REX JAZZ JAM",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-02",
           "time": "5:00 p.m.",
           "artist": "David Riddel",
@@ -855,15 +864,6 @@
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-09-01",
-          "time": "8:00 PM",
-          "artist": "Mustard Service",
-          "ticketUrl": "https://www.ticketweb.ca/event/mustard-service-lees-palace-tickets/14752713",
-          "availability": "available",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-05",
           "time": "7:00 PM",
@@ -980,6 +980,15 @@
           "availability": "available",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "8:00 PM",
+          "artist": "Chinese Football with Daydream Plus",
+          "ticketUrl": "https://www.ticketweb.ca/event/chinese-football-with-daydream-plus-lees-palace-tickets/14917333",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1021,6 +1030,24 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "6:30-8 PM",
+          "artist": "HILARIO DURAN",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "9-10:30 PM",
+          "artist": "MICHAEL",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         },
         {
           "date": "2026-09-22",
@@ -1112,21 +1139,21 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "8:00 PM",
+          "artist": "Tove Lo",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A7A750DAED?brand=CCC&camefrom=CFC_COCACOLA_WEB_SCHEDULEPAGE_LINK_TOVELO-09/22_5122026",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "budweiser-stage",
       "events": [
-        {
-          "date": "2026-09-01",
-          "time": "6:15 PM",
-          "artist": "Rob Zombie & Marilyn Manson with The Hu & Orgy",
-          "ticketUrl": "https://www.ticketmaster.ca/rob-zombie-marilyn-manson-with-the-toronto-ontario-09-01-2026/event/1000642CCA787763",
-          "availability": "",
-          "price": "",
-          "genre": "metal/punk"
-        },
         {
           "date": "2026-09-02",
           "time": "7:30 PM",
@@ -1207,6 +1234,15 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "8:00 PM",
+          "artist": "Dermot Kennedy: The Weight of the Woods Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/dermot-kennedy-the-weight-of-the-toronto-ontario-09-15-2026/event/10006472C6F7F98B",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1214,27 +1250,45 @@
       "id": "cameron-house",
       "events": [
         {
-          "date": "2026-09-01",
-          "time": "8:00 p.m.",
-          "artist": "The Robinson sons",
+          "date": "2026-09-02",
+          "time": "6:00 p.m.",
+          "artist": "Jenny Whiteley & Joey Wright",
           "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "country/folk"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "time": "6:00 p.m.",
-          "artist": "Colonel Tom",
+          "artist": "Corin Raymond",
           "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "other"
         },
         {
+          "date": "2026-09-04",
+          "time": "8:00 p.m.",
+          "artist": "King Cardiac",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "6:00 p.m.",
+          "artist": "John Borra Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
           "date": "2026-09-06",
           "time": "6:00 p.m.",
-          "artist": "Corin Raymond",
+          "artist": "Colonel Tom",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1243,32 +1297,32 @@
         {
           "date": "2026-09-07",
           "time": "6:00 p.m.",
-          "artist": "The Boathouse",
+          "artist": "Bronte Ibbotson & Mike T. Kerr",
           "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "rock"
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-09-08",
-          "time": "6:00 p.m.",
-          "artist": "Big Tobacco & the Pickers",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "6:00 p.m.",
-          "artist": "Colonel Tom",
+          "time": "9:00 p.m.",
+          "artist": "Quality Building Supplies",
           "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "other"
         },
         {
-          "date": "2026-09-13",
+          "date": "2026-09-09",
+          "time": "6:00 p.m.",
+          "artist": "Jenny Whiteley & Joey Wright",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-10",
           "time": "6:00 p.m.",
           "artist": "Corin Raymond",
           "ticketUrl": "",
@@ -1277,7 +1331,7 @@
           "genre": "other"
         },
         {
-          "date": "2026-09-14",
+          "date": "2026-09-11",
           "time": "6:00 p.m.",
           "artist": "Patrick Brealey",
           "ticketUrl": "",
@@ -1286,16 +1340,16 @@
           "genre": "other"
         },
         {
-          "date": "2026-09-15",
+          "date": "2026-09-12",
           "time": "6:00 p.m.",
-          "artist": "Paul Reddick",
+          "artist": "Big Tobacco & the Pickers",
           "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "country/folk"
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-13",
           "time": "6:00 p.m.",
           "artist": "Colonel Tom",
           "ticketUrl": "",
@@ -1304,16 +1358,43 @@
           "genre": "other"
         },
         {
-          "date": "2026-09-20",
+          "date": "2026-09-14",
           "time": "6:00 p.m.",
-          "artist": "Corin Raymond",
+          "artist": "Bronte Ibbotson & Mike T. Kerr",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-15",
+          "time": "9:00 p.m.",
+          "artist": "Quality Building Supplies",
           "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "other"
         },
         {
-          "date": "2026-09-21",
+          "date": "2026-09-16",
+          "time": "6:00 p.m.",
+          "artist": "Jenny Whiteley & Joey Wright",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "6:00 p.m.",
+          "artist": "Christo Graham",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-18",
           "time": "6:00 p.m.",
           "artist": "The Odd Country",
           "ticketUrl": "",
@@ -1322,9 +1403,45 @@
           "genre": "country/folk"
         },
         {
+          "date": "2026-09-19",
+          "time": "6:00 p.m.",
+          "artist": "Paul Reddick",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "6:00 p.m.",
+          "artist": "Bronte Ibbotson & Mike T. Kerr",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
           "date": "2026-09-22",
           "time": "6:00 p.m.",
-          "artist": "Cameron Family Singers",
+          "artist": "Charlotte Brunner",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "6:00 p.m.",
+          "artist": "Jenny Whiteley & Joey Wright",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1449,15 +1566,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-09-01",
-          "time": "",
-          "artist": "Greek!",
-          "ticketUrl": "https://thedrake.ca/event/greek/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-09-02",
           "time": "",
           "artist": "Black Milk",
@@ -1474,6 +1582,24 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "",
+          "artist": "Sea Rae",
+          "ticketUrl": "https://thedrake.ca/event/sea-rae/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "",
+          "artist": "livingthing",
+          "ticketUrl": "https://thedrake.ca/event/livingthing/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -1669,7 +1795,7 @@
           "date": "2026-09-11",
           "time": "8:00 PM",
           "artist": "Carole Pope",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=carole-pope2",
+          "ticketUrl": "https://www.showpass.com/carole-pope2/",
           "availability": "",
           "price": "",
           "genre": "rock"
@@ -1678,7 +1804,7 @@
           "date": "2026-09-12",
           "time": "8:00 PM",
           "artist": "Maria Doyle Kennedy",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=maria-doyle-kennedy-2",
+          "ticketUrl": "https://www.showpass.com/maria-doyle-kennedy-2/",
           "availability": "",
           "price": "",
           "genre": "country/folk"
@@ -1686,8 +1812,8 @@
         {
           "date": "2026-09-14",
           "time": "8:00 PM",
-          "artist": "Ben and Tom Waters",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=ben-and-tom-waters",
+          "artist": "Ben & Tom Waters",
+          "ticketUrl": "https://www.showpass.com/ben-and-tom-waters/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1695,8 +1821,8 @@
         {
           "date": "2026-09-17",
           "time": "8:00 PM",
-          "artist": "Celebrate the Music of Hermeto Pascoal with Jovino Santos Neto",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=celebrate-the-music-of-hermeto-pascal-with-jovino-santos-neto",
+          "artist": "Jovino Santos Neto",
+          "ticketUrl": "https://www.showpass.com/celebrate-the-music-of-hermeto-pascal-with-jovino-santos-neto/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1704,29 +1830,38 @@
         {
           "date": "2026-09-18",
           "time": "8:00 PM",
-          "artist": "Happy Birthday Leonard, with Micah Barnes and Barbara Lynch",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=happy-birthday-leonard-with-micah-barnes",
+          "artist": "Happy Birthday Leonard, with Micah Barnes",
+          "ticketUrl": "https://www.showpass.com/happy-birthday-leonard-with-micah-barnes/",
           "availability": "",
           "price": "",
-          "genre": "jazz/blues"
+          "genre": "other"
         },
         {
           "date": "2026-09-19",
           "time": "8:00 PM",
           "artist": "Harry Manx",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=harry-manx-8",
+          "ticketUrl": "https://www.showpass.com/harry-manx-8/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
         },
         {
           "date": "2026-09-20",
-          "time": "8:00 PM",
-          "artist": "Brian Dickinson Trio ft. Kelly Jefferson, Jim Vivian w/ Penderecki String Quartet",
-          "ticketUrl": "https://hughsroomlive.com/event-details/?slug=penderecki-quartet-w-brian-dickinson",
+          "time": "",
+          "artist": "Penderecki Quartet w. Brian Dickinson",
+          "ticketUrl": "https://www.showpass.com/penderecki-quartet-w-brian-dickinson/",
           "availability": "",
           "price": "",
           "genre": "classical"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "",
+          "artist": "Discoveries Vol 13 with QtheMusic and Dynesti",
+          "ticketUrl": "https://www.showpass.com/discoveries-volume-13-with-musical-host-qthemusic-patch-twaddle/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -1734,13 +1869,13 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-01",
+          "date": "2026-09-02",
           "time": "",
-          "artist": "Thomas Mason: Duos",
-          "ticketUrl": "https://jazzbistro.ca/event/thomas-mason-duos/",
+          "artist": "Adriana Malandrino Duos",
+          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-adriana-malandrino-duos/",
           "availability": "",
           "price": "",
-          "genre": "classical"
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1764,6 +1899,15 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "8:00 p.m.",
+          "artist": "Jogi",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1818,7 +1962,62 @@
     },
     {
       "id": "burdock",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-02",
+          "time": "8:00 PM",
+          "artist": "the grandson meets Genre Fiction",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "7:30 PM",
+          "artist": "Anise Russow & Serena Maddalena",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "8:30 PM",
+          "artist": "All Day Breakfast & Lilydipper",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "8:00 PM",
+          "artist": "Ben Caplan",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "7:30 PM",
+          "artist": "Rory Taillon and Malia Rogers",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "8:30 PM",
+          "artist": "That Boy Dancing With Alyssa Keira",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        }
+      ]
     },
     {
       "id": "rec-room-roundhouse",
@@ -1827,15 +2026,6 @@
     {
       "id": "rogers-stadium",
       "events": [
-        {
-          "date": "2026-09-01",
-          "time": "6:00 PM",
-          "artist": "Chris Stapleton's All-American Road Show",
-          "ticketUrl": "https://www.ticketmaster.ca/chris-stapletons-allamerican-road-show-toronto-ontario-09-01-2026/event/1000642EF7BC3B4A",
-          "availability": "available",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-16",
           "time": "7:00 PM",
