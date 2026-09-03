@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T16:00:11.445Z",
-  "windowStart": "2026-09-02",
-  "windowEnd": "2026-09-23",
+  "generatedAt": "2026-09-03T16:00:04.554Z",
+  "windowStart": "2026-09-03",
+  "windowEnd": "2026-09-24",
   "venues": [
     {
       "id": "massey-hall",
@@ -214,7 +214,7 @@
           "time": "9:30 PM",
           "artist": "The Assassin(S)",
           "ticketUrl": "https://www.ticketmaster.ca/the-assassins-toronto-ontario-09-16-2026/event/1000650ED60656E3",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -263,7 +263,7 @@
           "time": "6:30 PM",
           "artist": "PRESIDENT: North American Campaign 2026",
           "ticketUrl": "https://www.ticketmaster.ca/president-north-american-campaign-2026-toronto-ontario-09-11-2026/event/1000647B251EB3CA",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -356,21 +356,21 @@
           "availability": "limited",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "7:00 PM",
+          "artist": "Nation of Language",
+          "ticketUrl": "https://www.ticketmaster.ca/nation-of-language-toronto-ontario-09-24-2026/event/1000646CBC09C2F2",
+          "availability": "limited",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-02",
-          "time": "6:00 PM",
-          "artist": "Elevation Rhythm - Washed Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/elevation-rhythm-washed-tour-toronto-ontario-09-02-2026/event/100064CFE591574B",
-          "availability": "limited",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-03",
           "time": "6:00 PM",
@@ -487,21 +487,21 @@
           "availability": "available",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "8:00 PM",
+          "artist": "Brandon Flowers",
+          "ticketUrl": "https://www.ticketmaster.ca/brandon-flowers-toronto-ontario-09-24-2026/event/100064D0C25C1D64",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "opera-house",
       "events": [
-        {
-          "date": "2026-09-02",
-          "time": "7:00 PM",
-          "artist": "Jackson Dean",
-          "ticketUrl": "https://www.ticketmaster.ca/jackson-dean-toronto-ontario-09-02-2026/event/100064E77D2C2E28",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-03",
           "time": "7:00 PM",
@@ -654,6 +654,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "7:00 PM",
+          "artist": "The High Kings - Rocky Road to Dublin - 2026 Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/the-high-kings-rocky-road-to-toronto-ontario-09-24-2026/event/100064A1BD9DF297",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -719,15 +728,6 @@
     {
       "id": "horseshoe-tavern",
       "events": [
-        {
-          "date": "2026-09-02",
-          "time": "7:00 PM",
-          "artist": "Toque",
-          "ticketUrl": "https://www.ticketweb.ca/event/toque-the-horseshoe-tavern-tickets/14933303",
-          "availability": "available",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-12",
           "time": "7:00 PM",
@@ -797,24 +797,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-02",
-          "time": "5:00 p.m.",
-          "artist": "David Riddel",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-02",
-          "time": "8:00 p.m.",
-          "artist": "Colleen Allen",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-03",
           "time": "5:00 p.m.",
           "artist": "Steve Koven Trio",
@@ -858,6 +840,42 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "5:00 p.m.",
+          "artist": "The West End Riverboat Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "8:00 p.m.",
+          "artist": "The Pannonica Jazz Orchestra",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "11:00 p.m.",
+          "artist": "Vivienne Wilder",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "2:00 p.m.",
+          "artist": "Papalote - son cubano",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -975,7 +993,7 @@
         {
           "date": "2026-09-22",
           "time": "6:30 PM",
-          "artist": "Crown Magnetar, To The Grave, Backbiter",
+          "artist": "Crown Magnetar, To The Grave, Face Yourself, Backbiter",
           "ticketUrl": "https://www.ticketweb.ca/event/crown-magnetar-to-the-grave-lees-palace-tickets/14980583",
           "availability": "available",
           "price": "",
@@ -995,15 +1013,6 @@
     {
       "id": "el-mocambo",
       "events": [
-        {
-          "date": "2026-09-02",
-          "time": "",
-          "artist": "RICK CAMPANELLI",
-          "ticketUrl": "https://ticketscene.ca/events/64374",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-17",
           "time": "",
@@ -1034,7 +1043,7 @@
         {
           "date": "2026-09-19",
           "time": "6:30-8 PM",
-          "artist": "HILARIO DURAN",
+          "artist": "Hilario Duran",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1043,7 +1052,7 @@
         {
           "date": "2026-09-19",
           "time": "9-10:30 PM",
-          "artist": "MICHAEL",
+          "artist": "Michael",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1155,15 +1164,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-09-02",
-          "time": "7:30 PM",
-          "artist": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
-          "ticketUrl": "https://www.ticketmaster.ca/tlc-saltnpepa-with-en-vogue-its-toronto-ontario-09-02-2026/event/1000646F1BF8822F",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-09-05",
           "time": "8:00 PM",
           "artist": "Pitbull - I'm Back with special guest Lil Jon",
@@ -1209,6 +1209,15 @@
           "genre": "pop"
         },
         {
+          "date": "2026-09-11",
+          "time": "7:30 PM",
+          "artist": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
+          "ticketUrl": "https://www.ticketmaster.ca/tlc-saltnpepa-with-en-vogue-its-toronto-ontario-09-11-2026/event/1000646F1BF8822F",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
           "date": "2026-09-12",
           "time": "8:00 PM",
           "artist": "Mt. Joy 2026: Celebrating 10 Years Of Mt. Joy",
@@ -1249,15 +1258,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-02",
-          "time": "6:00 p.m.",
-          "artist": "Jenny Whiteley & Joey Wright",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-03",
           "time": "6:00 p.m.",
@@ -1566,24 +1566,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-09-02",
-          "time": "",
-          "artist": "Black Milk",
-          "ticketUrl": "https://thedrake.ca/event/black-milk/",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
-          "date": "2026-09-04",
-          "time": "",
-          "artist": "Wé Ani",
-          "ticketUrl": "https://thedrake.ca/event/we-ani/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-04",
           "time": "",
           "artist": "Sea Rae",
@@ -1600,6 +1582,24 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "",
+          "artist": "Mariel Buckley",
+          "ticketUrl": "https://thedrake.ca/event/mariel-buckley/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "",
+          "artist": "Daily J",
+          "ticketUrl": "https://thedrake.ca/event/daily-j/",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -1620,15 +1620,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-09-02",
-          "time": "9:00 PM",
-          "artist": "Action Sound Band",
-          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-119/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-03",
           "time": "9:00 PM",
@@ -1670,6 +1661,15 @@
           "time": "3:00 PM",
           "artist": "New Orleans Connection All Star Jazz Band",
           "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-115/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "9:00 PM",
+          "artist": "Sunday Jam Night Hosted by Paul Storm",
+          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-paul-storm-28/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1777,6 +1777,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "6:00 PM",
+          "artist": "Mike Daley, Jamie Oliver &#038; Bazil Donovan",
+          "ticketUrl": "https://castroslounge.com/event/mike-daley-jamie-oliver-bazil-donovan-3/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1862,6 +1871,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "",
+          "artist": "Mother Country",
+          "ticketUrl": "https://www.showpass.com/mother-country-presents-the-sign-of-jonas/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -1869,10 +1887,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "time": "",
-          "artist": "Adriana Malandrino Duos",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-adriana-malandrino-duos/",
+          "artist": "Hiro Tanaka Trios",
+          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-hiro-tanaka-duos/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1964,15 +1982,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-09-02",
-          "time": "8:00 PM",
-          "artist": "the grandson meets Genre Fiction",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-09-03",
           "time": "7:30 PM",
           "artist": "Anise Russow & Serena Maddalena",
@@ -2016,6 +2025,15 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "8:00 PM",
+          "artist": "Laura Roy",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
