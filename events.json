@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T16:00:04.554Z",
-  "windowStart": "2026-09-03",
-  "windowEnd": "2026-09-24",
+  "generatedAt": "2026-09-04T16:00:02.792Z",
+  "windowStart": "2026-09-04",
+  "windowEnd": "2026-09-25",
   "venues": [
     {
       "id": "massey-hall",
@@ -151,7 +151,7 @@
           "time": "9:30 PM",
           "artist": "The Life and Deaths of Wilson Shedd",
           "ticketUrl": "https://www.ticketmaster.ca/the-life-and-deaths-of-wilson-toronto-ontario-09-13-2026/event/1000650ED5DE5649",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -169,7 +169,7 @@
           "time": "5:30 PM",
           "artist": "All About Corinne",
           "ticketUrl": "https://www.ticketmaster.ca/all-about-corinne-toronto-ontario-09-14-2026/event/1000650ED5E75670",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -263,7 +263,7 @@
           "time": "6:30 PM",
           "artist": "PRESIDENT: North American Campaign 2026",
           "ticketUrl": "https://www.ticketmaster.ca/president-north-american-campaign-2026-toronto-ontario-09-11-2026/event/1000647B251EB3CA",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -365,21 +365,21 @@
           "availability": "limited",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00 PM",
+          "artist": "Hannibal Buress",
+          "ticketUrl": "https://www.ticketmaster.ca/hannibal-buress-toronto-ontario-09-25-2026/event/1000650DCAE75EC1",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-03",
-          "time": "6:00 PM",
-          "artist": "Elevation Rhythm - Washed Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/elevation-rhythm-washed-tour-toronto-ontario-09-03-2026/event/100064CFE58E5742",
-          "availability": "limited",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-04",
           "time": "7:00 PM",
@@ -496,21 +496,21 @@
           "availability": "available",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00 PM",
+          "artist": "Ryan Beatty - Arms Over Armor North American Tour '26",
+          "ticketUrl": "https://www.ticketmaster.ca/ryan-beatty-arms-over-armor-north-toronto-ontario-09-25-2026/event/100064C9FD781822",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "opera-house",
       "events": [
-        {
-          "date": "2026-09-03",
-          "time": "7:00 PM",
-          "artist": "Asal - Kiss the Sun Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/asal-kiss-the-sun-tour-toronto-ontario-09-03-2026/event/100064ACC846FBEA",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
         {
           "date": "2026-09-04",
           "time": "8:00 PM",
@@ -663,6 +663,15 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00 PM",
+          "artist": "When Chai Met Toast: Joy of Little Things Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/when-chai-met-toast-joy-of-toronto-ontario-09-25-2026/event/1000632ACCC56345",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -695,6 +704,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "7:00pm",
+          "artist": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/jim-hensons-labyrinth-in-concert-40th-anniversary/",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
         },
         {
           "date": "2026-09-17",
@@ -797,24 +815,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-03",
-          "time": "5:00 p.m.",
-          "artist": "Steve Koven Trio",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-03",
-          "time": "8:00 p.m.",
-          "artist": "Colleen Allen",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-04",
           "time": "5:00 p.m.",
           "artist": "The Hive",
@@ -876,6 +876,42 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "5:00 p.m.",
+          "artist": "Laura Hubert Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "8:00 p.m.",
+          "artist": "Michael Sarian",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "5:00 p.m.",
+          "artist": "Noah Kosta",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "8:00 p.m.",
+          "artist": "Michael Sarian",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1043,7 +1079,7 @@
         {
           "date": "2026-09-19",
           "time": "6:30-8 PM",
-          "artist": "Hilario Duran",
+          "artist": "HILARIO DURAN",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1052,7 +1088,7 @@
         {
           "date": "2026-09-19",
           "time": "9-10:30 PM",
-          "artist": "Michael",
+          "artist": "MICHAEL",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1066,6 +1102,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "",
+          "artist": "U2 Into the Heart of the 80s Boy Spotlight' with Elevation and Erica Ehm",
+          "ticketUrl": "https://www.eventbrite.ca/e/u2-into-the-heart-of-the-80s-boy-spotlight-with-elevation-and-erica-ehm-tickets-1994671795034",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1116,6 +1161,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00 PM",
+          "artist": "WEEZER The Gathering",
+          "ticketUrl": "https://www.ticketmaster.ca/event/1000646DB63CC6B0?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_WEEZER-09/25_3262026",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1258,15 +1312,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-03",
-          "time": "6:00 p.m.",
-          "artist": "Corin Raymond",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-04",
           "time": "8:00 p.m.",
@@ -1446,21 +1491,21 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "6:00 p.m.",
+          "artist": "Graham Nicholas",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "the-rivoli",
       "events": [
-        {
-          "date": "2026-09-03",
-          "time": "",
-          "artist": "Breaking Sound",
-          "ticketUrl": "https://www.tixr.com/groups/breakingsoundcanada/events/breaking-sound-canada-at-rivoli-09-03-200495",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-04",
           "time": "",
@@ -1621,15 +1666,6 @@
       "id": "grossmans-tavern",
       "events": [
         {
-          "date": "2026-09-03",
-          "time": "9:00 PM",
-          "artist": "The Jelly Donuts",
-          "ticketUrl": "https://grossmanstavern.com/event/the-jelly-donuts-21/",
-          "availability": "",
-          "price": "",
-          "genre": "metal/punk"
-        },
-        {
           "date": "2026-09-04",
           "time": "9:00 PM",
           "artist": "The Charter Blues Band",
@@ -1673,21 +1709,21 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "9:00 PM",
+          "artist": "Action Sound Band",
+          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-120/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-09-03",
-          "time": "6:00 PM",
-          "artist": "Mike Daley &#038; David Celia",
-          "ticketUrl": "https://castroslounge.com/event/mike-daley-david-celia-6/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-04",
           "time": "5:30 PM",
@@ -1880,6 +1916,15 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "",
+          "artist": "Sarah MacDougall, Lisa MacIsaac & Catherine MacLellan",
+          "ticketUrl": "https://www.showpass.com/catherine-maclellan-5/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -1887,10 +1932,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-03",
+          "date": "2026-09-04",
           "time": "",
-          "artist": "Hiro Tanaka Trios",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-hiro-tanaka-duos/",
+          "artist": "Kirk MacDonald: Duos",
+          "ticketUrl": "https://jazzbistro.ca/event/kirk-macdonald-duos-16/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1926,6 +1971,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:30 p.m.",
+          "artist": "Blues, Roots and Guitars",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1967,6 +2021,15 @@
           "availability": "limited",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "7:00 PM",
+          "artist": "Jaipur Literature Festival: In Conversation with Zakir Khan",
+          "ticketUrl": "https://www.ticketmaster.ca/jaipur-literature-festival-in-conversation-with-toronto-ontario-09-25-2026/event/100064D211E5D69B",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1981,15 +2044,6 @@
     {
       "id": "burdock",
       "events": [
-        {
-          "date": "2026-09-03",
-          "time": "7:30 PM",
-          "artist": "Anise Russow & Serena Maddalena",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "classical"
-        },
         {
           "date": "2026-09-04",
           "time": "8:30 PM",
@@ -2034,6 +2088,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "6:15 PM",
+          "artist": "Joel Betts",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -2049,7 +2112,7 @@
           "time": "7:00 PM",
           "artist": "AC/DC - POWER UP TOUR 2026",
           "ticketUrl": "https://www.ticketmaster.ca/acdc-power-up-tour-2026-toronto-ontario-09-16-2026/event/10006359C47EAEB4",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "rock"
         }
