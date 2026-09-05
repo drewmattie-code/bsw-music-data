@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T16:00:02.792Z",
-  "windowStart": "2026-09-04",
-  "windowEnd": "2026-09-25",
+  "generatedAt": "2026-09-05T16:00:07.187Z",
+  "windowStart": "2026-09-05",
+  "windowEnd": "2026-09-26",
   "venues": [
     {
       "id": "massey-hall",
@@ -374,21 +374,21 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:00 PM",
+          "artist": "Public Image Ltd: This Is Not The Last Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/public-image-ltd-this-is-not-toronto-ontario-09-26-2026/event/1000646AB3EAAAA9",
+          "availability": "limited",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-04",
-          "time": "7:00 PM",
-          "artist": "ARLO PARKS - DESIRE TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/arlo-parks-desire-tour-toronto-ontario-09-04-2026/event/10006463818D498D",
-          "availability": "available",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-09-09",
           "time": "7:00 PM",
@@ -511,15 +511,6 @@
     {
       "id": "opera-house",
       "events": [
-        {
-          "date": "2026-09-04",
-          "time": "8:00 PM",
-          "artist": "Hoang",
-          "ticketUrl": "https://www.ticketmaster.ca/hoang-toronto-ontario-09-04-2026/event/100064E6DEE0D678",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-05",
           "time": "8:30 PM",
@@ -672,6 +663,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "6:00 PM",
+          "artist": "Vidura Bandara Rajapaksa: The Paradise Gothic Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/vidura-bandara-rajapaksa-the-paradise-gothic-toronto-ontario-09-26-2026/event/100064883734271C",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
         }
       ]
     },
@@ -815,24 +815,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-04",
-          "time": "5:00 p.m.",
-          "artist": "The Hive",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-09-04",
-          "time": "8:00 p.m.",
-          "artist": "Colleen Allen",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-05",
           "time": "2:00 p.m.",
           "artist": "Selena Savage septet",
@@ -939,11 +921,11 @@
         {
           "date": "2026-09-08",
           "time": "8:00 PM",
-          "artist": "Sun Kil Moon with Special Guests",
-          "ticketUrl": "https://www.ticketweb.ca/event/sun-kil-moon-with-special-lees-palace-tickets/14815023",
+          "artist": "Sun Kil Moon",
+          "ticketUrl": "https://www.ticketweb.ca/event/sun-kil-moon-lees-palace-tickets/14815023",
           "availability": "available",
           "price": "",
-          "genre": "rock"
+          "genre": "country/folk"
         },
         {
           "date": "2026-09-09",
@@ -1111,6 +1093,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "8:30 PM",
+          "artist": "HIGGI",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1170,6 +1161,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "8:00 PM",
+          "artist": "Moein Live in Toronto",
+          "ticketUrl": "https://www.ticketmaster.ca/event/10006341F10BFCCA?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_MOEIN-02/14_1022025",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -1312,15 +1312,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-04",
-          "time": "8:00 p.m.",
-          "artist": "King Cardiac",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-05",
           "time": "6:00 p.m.",
@@ -1507,15 +1498,6 @@
       "id": "the-rivoli",
       "events": [
         {
-          "date": "2026-09-04",
-          "time": "",
-          "artist": "AKILA & The Wonder Machine",
-          "ticketUrl": "https://www.eventbrite.com/e/the-lucky-tour-toronto-the-rivoli-tickets-1994517752288?aff=oddtdtcreator",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-05",
           "time": "",
           "artist": "Las Malinches presents: La Telenovela",
@@ -1604,21 +1586,30 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "",
+          "artist": "The Sundown Sessions",
+          "ticketUrl": "https://www.tickettailor.com/events/thesundownsessions",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "",
+          "artist": "JIMI: Bar Stars and Beauty Queens Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064CBE0E3D089#venue",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "drake-underground",
       "events": [
-        {
-          "date": "2026-09-04",
-          "time": "",
-          "artist": "Sea Rae",
-          "ticketUrl": "https://thedrake.ca/event/sea-rae/",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-09",
           "time": "",
@@ -1666,15 +1657,6 @@
       "id": "grossmans-tavern",
       "events": [
         {
-          "date": "2026-09-04",
-          "time": "9:00 PM",
-          "artist": "The Charter Blues Band",
-          "ticketUrl": "https://grossmanstavern.com/event/the-379s-4/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-05",
           "time": "3:30 PM",
           "artist": "The Happy Pals",
@@ -1718,6 +1700,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "9:00 PM",
+          "artist": "Greene and Bleus Band",
+          "ticketUrl": "https://grossmanstavern.com/event/greene-and-bleus-band-25/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1725,13 +1716,22 @@
       "id": "castros-lounge",
       "events": [
         {
-          "date": "2026-09-04",
-          "time": "5:30 PM",
-          "artist": "Fraser / Daley",
-          "ticketUrl": "https://castroslounge.com/event/fraser-daley-78/",
+          "date": "2026-09-05",
+          "time": "3:00 PM",
+          "artist": "The Johnny Wright Trio",
+          "ticketUrl": "https://castroslounge.com/event/the-johnny-wright-trio/",
           "availability": "",
           "price": "",
-          "genre": "rock"
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "5:00 PM",
+          "artist": "Jenie Thai",
+          "ticketUrl": "https://castroslounge.com/event/jenie-thai-10/",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         },
         {
           "date": "2026-09-07",
@@ -1857,7 +1857,7 @@
         {
           "date": "2026-09-14",
           "time": "8:00 PM",
-          "artist": "Ben & Tom Waters",
+          "artist": "Ben and Tom Waters",
           "ticketUrl": "https://www.showpass.com/ben-and-tom-waters/",
           "availability": "",
           "price": "",
@@ -1875,11 +1875,11 @@
         {
           "date": "2026-09-18",
           "time": "8:00 PM",
-          "artist": "Happy Birthday Leonard, with Micah Barnes",
+          "artist": "Happy Birthday Leonard, with Micah Barnes and Barbara Lynch",
           "ticketUrl": "https://www.showpass.com/happy-birthday-leonard-with-micah-barnes/",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-09-19",
@@ -1889,42 +1889,6 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-20",
-          "time": "",
-          "artist": "Penderecki Quartet w. Brian Dickinson",
-          "ticketUrl": "https://www.showpass.com/penderecki-quartet-w-brian-dickinson/",
-          "availability": "",
-          "price": "",
-          "genre": "classical"
-        },
-        {
-          "date": "2026-09-23",
-          "time": "",
-          "artist": "Discoveries Vol 13 with QtheMusic and Dynesti",
-          "ticketUrl": "https://www.showpass.com/discoveries-volume-13-with-musical-host-qthemusic-patch-twaddle/",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
-          "date": "2026-09-24",
-          "time": "",
-          "artist": "Mother Country",
-          "ticketUrl": "https://www.showpass.com/mother-country-presents-the-sign-of-jonas/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "",
-          "artist": "Sarah MacDougall, Lisa MacIsaac & Catherine MacLellan",
-          "ticketUrl": "https://www.showpass.com/catherine-maclellan-5/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
         }
       ]
     },
@@ -1932,10 +1896,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-04",
+          "date": "2026-09-05",
           "time": "",
-          "artist": "Kirk MacDonald: Duos",
-          "ticketUrl": "https://jazzbistro.ca/event/kirk-macdonald-duos-16/",
+          "artist": "The Tim Hamel Quartet",
+          "ticketUrl": "https://jazzbistro.ca/event/the-tim-hamel-quartets-all-request-power-hour-149/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -2030,6 +1994,15 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:00 PM",
+          "artist": "Pete Davidson",
+          "ticketUrl": "https://www.ticketmaster.ca/pete-davidson-toronto-ontario-09-26-2026/event/100064E2D22A4BAC",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -2044,15 +2017,6 @@
     {
       "id": "burdock",
       "events": [
-        {
-          "date": "2026-09-04",
-          "time": "8:30 PM",
-          "artist": "All Day Breakfast & Lilydipper",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-05",
           "time": "8:00 PM",
@@ -2097,6 +2061,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "9:00 PM",
+          "artist": "Portraitures, Don River, Good Fortune",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
