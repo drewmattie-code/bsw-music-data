@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-05T16:00:07.187Z",
-  "windowStart": "2026-09-05",
-  "windowEnd": "2026-09-26",
+  "generatedAt": "2026-09-06T16:00:05.233Z",
+  "windowStart": "2026-09-06",
+  "windowEnd": "2026-09-27",
   "venues": [
     {
       "id": "massey-hall",
@@ -97,7 +97,7 @@
           "time": "2:00 PM",
           "artist": "Evil Genius",
           "ticketUrl": "https://www.ticketmaster.ca/evil-genius-toronto-ontario-09-12-2026/event/1000650ED5B3556D",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "electronic"
         },
@@ -142,7 +142,7 @@
           "time": "5:45 PM",
           "artist": "Prima Facie",
           "ticketUrl": "https://www.ticketmaster.ca/prima-facie-toronto-ontario-09-13-2026/event/1000650ED5CE55F3",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -151,7 +151,7 @@
           "time": "9:30 PM",
           "artist": "The Life and Deaths of Wilson Shedd",
           "ticketUrl": "https://www.ticketmaster.ca/the-life-and-deaths-of-wilson-toronto-ontario-09-13-2026/event/1000650ED5DE5649",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -160,7 +160,7 @@
           "time": "1:30 PM",
           "artist": "A Talent for Murder",
           "ticketUrl": "https://www.ticketmaster.ca/a-talent-for-murder-toronto-ontario-09-14-2026/event/1000650ED5E35654",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "metal/punk"
         },
@@ -169,7 +169,7 @@
           "time": "5:30 PM",
           "artist": "All About Corinne",
           "ticketUrl": "https://www.ticketmaster.ca/all-about-corinne-toronto-ontario-09-14-2026/event/1000650ED5E75670",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "pop"
         },
@@ -196,7 +196,7 @@
           "time": "9:30 PM",
           "artist": "Tenzing",
           "ticketUrl": "https://www.ticketmaster.ca/tenzing-toronto-ontario-09-15-2026/event/1000650ED5F856C2",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -214,7 +214,7 @@
           "time": "9:30 PM",
           "artist": "The Assassin(S)",
           "ticketUrl": "https://www.ticketmaster.ca/the-assassins-toronto-ontario-09-16-2026/event/1000650ED60656E3",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -505,21 +505,21 @@
           "availability": "available",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "6:30 PM",
+          "artist": "Pennywise",
+          "ticketUrl": "https://www.ticketmaster.ca/pennywise-toronto-ontario-09-27-2026/event/100064D6D92737D3",
+          "availability": "available",
+          "price": "",
+          "genre": "metal/punk"
         }
       ]
     },
     {
       "id": "opera-house",
       "events": [
-        {
-          "date": "2026-09-05",
-          "time": "8:30 PM",
-          "artist": "Bop To the Top",
-          "ticketUrl": "https://www.ticketweb.ca/event/bop-to-the-top-the-opera-house-tickets/14875493?REFERRAL_ID=tmfeed",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-07",
           "time": "7:00 PM",
@@ -679,15 +679,6 @@
       "id": "phoenix-concert-theatre",
       "events": [
         {
-          "date": "2026-09-05",
-          "time": "",
-          "artist": "The Official Anirudh XV Tour Afterparty",
-          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/the-official-xv-tour-afterparty/",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
           "date": "2026-09-09",
           "time": "",
           "artist": "Melanie C",
@@ -815,42 +806,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-05",
-          "time": "2:00 p.m.",
-          "artist": "Selena Savage septet",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "5:00 p.m.",
-          "artist": "The West End Riverboat Band",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "8:00 p.m.",
-          "artist": "The Pannonica Jazz Orchestra",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "11:00 p.m.",
-          "artist": "Vivienne Wilder",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-06",
           "time": "2:00 p.m.",
           "artist": "Papalote - son cubano",
@@ -900,15 +855,6 @@
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-09-05",
-          "time": "7:00 PM",
-          "artist": "Hall Pass with Doorstep Fire, Triton. Deer Fang and More",
-          "ticketUrl": "https://www.ticketweb.ca/event/hall-pass-with-doorstep-fire-lees-palace-tickets/15038613",
-          "availability": "available",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-07",
           "time": "8:00 PM",
@@ -1025,6 +971,15 @@
           "availability": "available",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "8:00 PM",
+          "artist": "The White Buffalo: Canada 2026 w/ Emmett Jerome",
+          "ticketUrl": "https://www.ticketweb.ca/event/the-white-buffalo-canada-2026-lees-palace-tickets/14053704",
+          "availability": "available",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -1061,7 +1016,7 @@
         {
           "date": "2026-09-19",
           "time": "6:30-8 PM",
-          "artist": "HILARIO DURAN",
+          "artist": "Hilario Duran",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1070,7 +1025,7 @@
         {
           "date": "2026-09-19",
           "time": "9-10:30 PM",
-          "artist": "MICHAEL",
+          "artist": "Michael",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1108,15 +1063,6 @@
     {
       "id": "scotiabank-arena",
       "events": [
-        {
-          "date": "2026-09-05",
-          "time": "6:30 PM",
-          "artist": "ANIRUDH XV TOUR",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064A18F9C80B4?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_ANIRUDH-09/05_5272026",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
         {
           "date": "2026-09-12",
           "time": "8:00 PM",
@@ -1170,6 +1116,15 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "7:00 PM",
+          "artist": "Rahat Fateh Ali Khan",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064C8A7C0A6AA?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_RAHATFATEHALIKHAN-9/27_682026",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -1217,15 +1172,6 @@
     {
       "id": "budweiser-stage",
       "events": [
-        {
-          "date": "2026-09-05",
-          "time": "8:00 PM",
-          "artist": "Pitbull - I'm Back with special guest Lil Jon",
-          "ticketUrl": "https://www.ticketmaster.ca/pitbull-im-back-with-special-guest-toronto-ontario-09-05-2026/event/10006425BBDF6562",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-09-07",
           "time": "7:20 PM",
@@ -1306,21 +1252,21 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-16",
+          "time": "7:30 PM",
+          "artist": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/bryson-tiller-presents-the-neo-trapsoul-toronto-ontario-09-16-2026/event/100064B8C0EEA2E3",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-05",
-          "time": "6:00 p.m.",
-          "artist": "John Borra Band",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-06",
           "time": "6:00 p.m.",
@@ -1491,21 +1437,21 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "the-rivoli",
       "events": [
-        {
-          "date": "2026-09-05",
-          "time": "",
-          "artist": "Las Malinches presents: La Telenovela",
-          "ticketUrl": "https://www.eventbrite.com/e/las-malinches-presents-la-telenovela-tickets-1997529032107?aff=ebdssbdestsearch",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
         {
           "date": "2026-09-06",
           "time": "",
@@ -1604,12 +1550,30 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "",
+          "artist": "Eric Kane",
+          "ticketUrl": "https://www.bloomtickets.ca/event/2456?Toronto-EricKane-the%27luvbug%27run",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "drake-underground",
       "events": [
+        {
+          "date": "2026-09-08",
+          "time": "",
+          "artist": "Evangelia",
+          "ticketUrl": "https://thedrake.ca/event/evangelia/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
         {
           "date": "2026-09-09",
           "time": "",
@@ -1657,24 +1621,6 @@
       "id": "grossmans-tavern",
       "events": [
         {
-          "date": "2026-09-05",
-          "time": "3:30 PM",
-          "artist": "The Happy Pals",
-          "ticketUrl": "https://grossmanstavern.com/event/the-happy-pals-126/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "9:00 PM",
-          "artist": "Jeff G and the Four Heads",
-          "ticketUrl": "https://grossmanstavern.com/event/jeff-g-and-the-four-heads-14/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-06",
           "time": "3:00 PM",
           "artist": "New Orleans Connection All Star Jazz Band",
@@ -1709,6 +1655,24 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "6:00 PM",
+          "artist": "The Old Dawgz",
+          "ticketUrl": "https://grossmanstavern.com/event/the-old-dawgz/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "9:30 PM",
+          "artist": "Sound One",
+          "ticketUrl": "https://grossmanstavern.com/event/sound-one-28/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -1716,22 +1680,13 @@
       "id": "castros-lounge",
       "events": [
         {
-          "date": "2026-09-05",
+          "date": "2026-09-06",
           "time": "3:00 PM",
           "artist": "The Johnny Wright Trio",
           "ticketUrl": "https://castroslounge.com/event/the-johnny-wright-trio/",
           "availability": "",
           "price": "",
           "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "5:00 PM",
-          "artist": "Jenie Thai",
-          "ticketUrl": "https://castroslounge.com/event/jenie-thai-10/",
-          "availability": "",
-          "price": "",
-          "genre": "world"
         },
         {
           "date": "2026-09-07",
@@ -1896,10 +1851,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-05",
+          "date": "2026-09-06",
           "time": "",
-          "artist": "The Tim Hamel Quartet",
-          "ticketUrl": "https://jazzbistro.ca/event/the-tim-hamel-quartets-all-request-power-hour-149/",
+          "artist": "The Sarah Leroux Quartet",
+          "ticketUrl": "https://jazzbistro.ca/event/the-sarah-leroux-quartet/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -2018,15 +1973,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-09-05",
-          "time": "8:00 PM",
-          "artist": "Ben Caplan",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-09-06",
           "time": "7:30 PM",
           "artist": "Rory Taillon and Malia Rogers",
@@ -2066,6 +2012,15 @@
           "date": "2026-09-11",
           "time": "9:00 PM",
           "artist": "Portraitures, Don River, Good Fortune",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "6:30 PM",
+          "artist": "Conor Cassidy",
           "ticketUrl": "",
           "availability": "",
           "price": "",
