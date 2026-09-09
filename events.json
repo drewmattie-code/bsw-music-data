@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T16:00:07.603Z",
-  "windowStart": "2026-09-08",
-  "windowEnd": "2026-09-29",
+  "generatedAt": "2026-09-09T16:00:03.900Z",
+  "windowStart": "2026-09-09",
+  "windowEnd": "2026-09-30",
   "venues": [
     {
       "id": "massey-hall",
@@ -70,7 +70,7 @@
           "time": "5:30 PM",
           "artist": "Girl Group",
           "ticketUrl": "https://www.ticketmaster.ca/girl-group-toronto-ontario-09-11-2026/event/1000650ED5A75532",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -79,7 +79,7 @@
           "time": "9:30 PM",
           "artist": "Always Lalisa",
           "ticketUrl": "https://www.ticketmaster.ca/always-lalisa-toronto-ontario-09-11-2026/event/1000650ED5AA553D",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -151,7 +151,7 @@
           "time": "9:30 PM",
           "artist": "The Life and Deaths of Wilson Shedd",
           "ticketUrl": "https://www.ticketmaster.ca/the-life-and-deaths-of-wilson-toronto-ontario-09-13-2026/event/1000650ED5DE5649",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "other"
         },
@@ -353,7 +353,7 @@
           "time": "5:30 PM",
           "artist": "Dying Fetus x Sanguisugabogg",
           "ticketUrl": "https://www.ticketmaster.ca/dying-fetus-x-sanguisugabogg-toronto-ontario-09-23-2026/event/10006495992B82A7",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "metal/punk"
         },
@@ -383,6 +383,15 @@
           "availability": "limited",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "6:30 PM",
+          "artist": "Boy Harsher",
+          "ticketUrl": "https://www.ticketmaster.ca/boy-harsher-toronto-ontario-09-30-2026/event/100064C8A0F995E2",
+          "availability": "available",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -539,15 +548,6 @@
       "id": "opera-house",
       "events": [
         {
-          "date": "2026-09-08",
-          "time": "6:30 PM",
-          "artist": "The Rasmus w/ Saint Agnes and Death Valley Dreams",
-          "ticketUrl": "https://www.ticketmaster.ca/the-rasmus-w-saint-agnes-and-toronto-ontario-09-08-2026/event/100064E6A7706D2B",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-09-10",
           "time": "7:00 PM",
           "artist": "Crash Adams",
@@ -690,6 +690,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "7:00 PM",
+          "artist": "Elder - North American Tour 2026",
+          "ticketUrl": "https://www.ticketmaster.ca/elder-north-american-tour-2026-toronto-ontario-09-30-2026/event/100064A8A696ECC7",
+          "availability": "",
+          "price": "",
+          "genre": "metal/punk"
         }
       ]
     },
@@ -833,28 +842,10 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-08",
-          "time": "5:00 p.m.",
-          "artist": "Brian An",
-          "ticketUrl": "https://www.therex.ca/events/brian-an",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-09-08",
-          "time": "8:00 p.m.",
-          "artist": "CLASSIC REX JAZZ JAM",
-          "ticketUrl": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-09",
           "time": "5:00 p.m.",
           "artist": "James Griffith Quartet",
-          "ticketUrl": "https://www.therex.ca/events/james-griffith-quartet-1",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -863,7 +854,7 @@
           "date": "2026-09-09",
           "time": "8:00 p.m.",
           "artist": "Roberto Occhipinti Quintet",
-          "ticketUrl": "https://www.therex.ca/events/roberto-occhipinti-quartet-2",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -872,7 +863,7 @@
           "date": "2026-09-10",
           "time": "5:00 p.m.",
           "artist": "Mike Kawabe",
-          "ticketUrl": "https://www.therex.ca/events/mike-kawabe-1",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -881,7 +872,7 @@
           "date": "2026-09-10",
           "time": "8:00 p.m.",
           "artist": "Roberto Occhipinti Quintet",
-          "ticketUrl": "https://www.therex.ca/events/roberto-occhipinti-quartet-2-bafea",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -890,7 +881,7 @@
           "date": "2026-09-11",
           "time": "5:00 p.m.",
           "artist": "John troy group",
-          "ticketUrl": "https://www.therex.ca/events/john-aaron-troy",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -899,7 +890,7 @@
           "date": "2026-09-11",
           "time": "8:00 p.m.",
           "artist": "Roberto Occhipinti Quintet",
-          "ticketUrl": "https://www.therex.ca/events/roberto-occhipinti-quartet-2-bafea-7599g",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -908,25 +899,52 @@
           "date": "2026-09-12",
           "time": "2:00 p.m.",
           "artist": "Oscar Evans Group",
-          "ticketUrl": "https://www.therex.ca/events/oscar-evans-group",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "5:00 p.m.",
+          "artist": "Neon Eagle",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "8:00 p.m.",
+          "artist": "Roberto Occhipinti Quintet",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "11:00 p.m.",
+          "artist": "La-Nai Gabriel Power Hour",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "2:00 p.m.",
+          "artist": "Avataar",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-09-08",
-          "time": "8:00 PM",
-          "artist": "Sun Kil Moon",
-          "ticketUrl": "https://www.ticketweb.ca/event/sun-kil-moon-lees-palace-tickets/14815023",
-          "availability": "available",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-09",
           "time": "7:00 PM",
@@ -971,15 +989,6 @@
           "availability": "available",
           "price": "",
           "genre": "other"
-        },
-        {
-          "date": "2026-09-18",
-          "time": "7:30 PM",
-          "artist": "Isis Salam of THÜNDERHEIST with Korea Town Acid and Kiki Le Freak",
-          "ticketUrl": "https://www.ticketweb.ca/event/isis-salam-of-thnderheist-with-lees-palace-tickets/14243874",
-          "availability": "available",
-          "price": "",
-          "genre": "electronic"
         },
         {
           "date": "2026-09-18",
@@ -1245,15 +1254,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-09-08",
-          "time": "7:30 PM",
-          "artist": "Wu-Tang Forever: The Final Chamber",
-          "ticketUrl": "https://www.ticketmaster.ca/wutang-forever-the-final-chamber-toronto-ontario-09-08-2026/event/10006473B4F4B86A",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-09-09",
           "time": "6:00 PM",
           "artist": "Breaking Benjamin",
@@ -1333,21 +1333,21 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "6:30 PM",
+          "artist": "Thee Sacred Souls, LA LOM, & The Womack Sisters",
+          "ticketUrl": "https://www.ticketmaster.ca/thee-sacred-souls-la-lom-the-toronto-ontario-09-20-2026/event/1000644B38EADA95",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-08",
-          "time": "9:00 p.m.",
-          "artist": "Quality Building Supplies",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-09",
           "time": "6:00 p.m.",
@@ -1518,21 +1518,21 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "6:00 p.m.",
+          "artist": "Jenny Whiteley & Joey Wright",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
     {
       "id": "the-rivoli",
       "events": [
-        {
-          "date": "2026-09-08",
-          "time": "",
-          "artist": "Fiona Hewes",
-          "ticketUrl": "https://partiful.com/e/WCX5NnwNV6mHYzV2fkO2?",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-09-10",
           "time": "",
@@ -1631,21 +1631,21 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "",
+          "artist": "Latenours Fest",
+          "ticketUrl": "https://luma.com/22zbrwu7",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "drake-underground",
       "events": [
-        {
-          "date": "2026-09-08",
-          "time": "",
-          "artist": "Evangelia",
-          "ticketUrl": "https://thedrake.ca/event/evangelia/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-09",
           "time": "",
@@ -1663,15 +1663,6 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "",
-          "artist": "Daily J",
-          "ticketUrl": "https://thedrake.ca/event/daily-j/",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
         },
         {
           "date": "2026-09-12",
@@ -1761,15 +1752,6 @@
       "id": "castros-lounge",
       "events": [
         {
-          "date": "2026-09-08",
-          "time": "7:00 PM",
-          "artist": "Trivia Night @ Castros",
-          "ticketUrl": "https://castroslounge.com/event/trivia-night-castros-44/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-09-10",
           "time": "6:00 PM",
           "artist": "Mike Daley &#038; Dave Murphy",
@@ -1777,6 +1759,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "5:30 PM",
+          "artist": "Sugar Rush",
+          "ticketUrl": "https://castroslounge.com/event/sugar-rush-86/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         },
         {
           "date": "2026-09-12",
@@ -1875,7 +1866,7 @@
         {
           "date": "2026-09-14",
           "time": "8:00 PM",
-          "artist": "Ben and Tom Waters",
+          "artist": "Ben & Tom Waters",
           "ticketUrl": "https://www.showpass.com/ben-and-tom-waters/",
           "availability": "",
           "price": "",
@@ -1893,11 +1884,11 @@
         {
           "date": "2026-09-18",
           "time": "8:00 PM",
-          "artist": "Happy Birthday Leonard, with Micah Barnes and Barbara Lynch",
+          "artist": "Happy Birthday Leonard, with Micah Barnes",
           "ticketUrl": "https://www.showpass.com/happy-birthday-leonard-with-micah-barnes/",
           "availability": "",
           "price": "",
-          "genre": "jazz/blues"
+          "genre": "other"
         },
         {
           "date": "2026-09-19",
@@ -1914,13 +1905,13 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-08",
+          "date": "2026-09-09",
           "time": "",
-          "artist": "Thomas Mason: Duos",
-          "ticketUrl": "https://jazzbistro.ca/event/thomas-mason-duos-2/",
+          "artist": "Adriana Malandrino Duos",
+          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-adriana-malandrino-duos-2/",
           "availability": "",
           "price": "",
-          "genre": "classical"
+          "genre": "jazz/blues"
         }
       ]
     },
