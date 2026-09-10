@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T16:00:03.900Z",
-  "windowStart": "2026-09-09",
-  "windowEnd": "2026-09-30",
+  "generatedAt": "2026-09-10T16:00:04.563Z",
+  "windowStart": "2026-09-10",
+  "windowEnd": "2026-10-01",
   "venues": [
     {
       "id": "massey-hall",
@@ -70,7 +70,7 @@
           "time": "5:30 PM",
           "artist": "Girl Group",
           "ticketUrl": "https://www.ticketmaster.ca/girl-group-toronto-ontario-09-11-2026/event/1000650ED5A75532",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "pop"
         },
@@ -79,7 +79,7 @@
           "time": "9:30 PM",
           "artist": "Always Lalisa",
           "ticketUrl": "https://www.ticketmaster.ca/always-lalisa-toronto-ontario-09-11-2026/event/1000650ED5AA553D",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "pop"
         },
@@ -97,7 +97,7 @@
           "time": "2:00 PM",
           "artist": "Evil Genius",
           "ticketUrl": "https://www.ticketmaster.ca/evil-genius-toronto-ontario-09-12-2026/event/1000650ED5B3556D",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "electronic"
         },
@@ -151,7 +151,7 @@
           "time": "9:30 PM",
           "artist": "The Life and Deaths of Wilson Shedd",
           "ticketUrl": "https://www.ticketmaster.ca/the-life-and-deaths-of-wilson-toronto-ontario-09-13-2026/event/1000650ED5DE5649",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -392,21 +392,21 @@
           "availability": "available",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "7:00 PM",
+          "artist": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
+          "ticketUrl": "https://www.ticketmaster.ca/slayyyter-wort-girl-in-the-world-toronto-ontario-10-01-2026/event/1000646909CF8E75",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-09",
-          "time": "7:00 PM",
-          "artist": "Q Comes Q Goes 2026 Sunset Rollercoaster Us & Canada Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/q-comes-q-goes-2026-sunset-toronto-ontario-09-09-2026/event/10006474A71A9C3B",
-          "availability": "available",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-10",
           "time": "7:00 PM",
@@ -502,7 +502,7 @@
           "time": "8:00 PM",
           "artist": "Brandon Flowers",
           "ticketUrl": "https://www.ticketmaster.ca/brandon-flowers-toronto-ontario-09-24-2026/event/100064D0C25C1D64",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -706,15 +706,6 @@
       "id": "phoenix-concert-theatre",
       "events": [
         {
-          "date": "2026-09-09",
-          "time": "",
-          "artist": "Melanie C",
-          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/melanie-c/",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-11",
           "time": "",
           "artist": "ADÉLA",
@@ -755,6 +746,15 @@
           "time": "6:00pm",
           "artist": "KAMELOT",
           "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/kamelot-3/",
+          "availability": "",
+          "price": "",
+          "genre": "metal/punk"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "",
+          "artist": "Hammerfall",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/hammerfall/",
           "availability": "",
           "price": "",
           "genre": "metal/punk"
@@ -842,24 +842,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-09",
-          "time": "5:00 p.m.",
-          "artist": "James Griffith Quartet",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "8:00 p.m.",
-          "artist": "Roberto Occhipinti Quintet",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-10",
           "time": "5:00 p.m.",
           "artist": "Mike Kawabe",
@@ -945,15 +927,6 @@
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-09-09",
-          "time": "7:00 PM",
-          "artist": "Colin Stetson & Brighde Chaimbeul MOVED TO LEE'S PALACE",
-          "ticketUrl": "https://www.ticketmaster.ca/colin-stetson-brighde-chaimbeul-moved-to-toronto-ontario-09-09-2026/event/100064ACE3936704",
-          "availability": "available",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-09-10",
           "time": "8:00 PM",
@@ -1061,6 +1034,15 @@
           "availability": "available",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "8:00 PM",
+          "artist": "THE ZOLAS Swooner Anniversary Tour with Jia",
+          "ticketUrl": "https://www.ticketweb.ca/event/the-zolas-swooner-anniversary-tour-lees-palace-tickets/14777013",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1138,6 +1120,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "",
+          "artist": "LINKS 2 COMMUNITY A Benefit Concert",
+          "ticketUrl": "https://www.ticketweb.ca/event/links-2-community-under-the-neon-palms-at-tickets/14999213?pl=elmocambo",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1254,15 +1245,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-09-09",
-          "time": "6:00 PM",
-          "artist": "Breaking Benjamin",
-          "ticketUrl": "https://www.ticketmaster.ca/breaking-benjamin-toronto-ontario-09-09-2026/event/1000644BEBCA22C5",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-09-10",
           "time": "8:00 PM",
           "artist": "Lily Allen Performs West End Girl",
@@ -1342,21 +1324,21 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "6:00 PM",
+          "artist": "Staind: Break The Cycle 25th Anniversary Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/staind-break-the-cycle-25th-anniversary-toronto-ontario-09-21-2026/event/1000643C06D4C367",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-09",
-          "time": "6:00 p.m.",
-          "artist": "Jenny Whiteley & Joey Wright",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-10",
           "time": "6:00 p.m.",
@@ -1563,7 +1545,7 @@
         {
           "date": "2026-09-16",
           "time": "",
-          "artist": "An Evening with Kreesha Turner",
+          "artist": "Kreesha Turner",
           "ticketUrl": "https://www.eventbrite.ca/e/an-evening-with-kreesha-turner-tickets-1998514562856?aff=RivoliWebsite",
           "availability": "",
           "price": "",
@@ -1647,15 +1629,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-09-09",
-          "time": "",
-          "artist": "livingthing",
-          "ticketUrl": "https://thedrake.ca/event/livingthing/",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
           "date": "2026-09-10",
           "time": "",
           "artist": "Mariel Buckley",
@@ -1665,6 +1638,15 @@
           "genre": "country/folk"
         },
         {
+          "date": "2026-09-11",
+          "time": "",
+          "artist": "Daily J",
+          "ticketUrl": "https://thedrake.ca/event/daily-j/",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
           "date": "2026-09-12",
           "time": "",
           "artist": "Cardinals",
@@ -1672,6 +1654,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-14",
+          "time": "",
+          "artist": "Vwillz",
+          "ticketUrl": "https://thedrake.ca/event/vwillz/",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -1692,15 +1683,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-09-09",
-          "time": "9:00 PM",
-          "artist": "Action Sound Band",
-          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-120/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-10",
           "time": "9:00 PM",
@@ -1745,6 +1727,15 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "3:00 PM",
+          "artist": "New Orleans Connection All Star Jazz Band",
+          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-116/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1772,8 +1763,8 @@
         {
           "date": "2026-09-12",
           "time": "5:00 PM",
-          "artist": "Rocky Verweel &#038; Queen City Blues",
-          "ticketUrl": "https://castroslounge.com/event/rocky-verweel-queen-city-blues-6/",
+          "artist": "Vinyl Dusters",
+          "ticketUrl": "https://castroslounge.com/event/vinyl-dusters/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1866,7 +1857,7 @@
         {
           "date": "2026-09-14",
           "time": "8:00 PM",
-          "artist": "Ben & Tom Waters",
+          "artist": "Ben and Tom Waters",
           "ticketUrl": "https://www.showpass.com/ben-and-tom-waters/",
           "availability": "",
           "price": "",
@@ -1905,10 +1896,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "time": "",
-          "artist": "Adriana Malandrino Duos",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-adriana-malandrino-duos-2/",
+          "artist": "Hiro Tanaka Trios",
+          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-hiro-tanaka-duos-2/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -2082,10 +2073,10 @@
       "events": [
         {
           "date": "2026-09-16",
-          "time": "7:00 PM",
+          "time": "7:00 p.m.",
           "artist": "AC/DC - POWER UP TOUR 2026",
           "ticketUrl": "https://www.ticketmaster.ca/acdc-power-up-tour-2026-toronto-ontario-09-16-2026/event/10006359C47EAEB4",
-          "availability": "limited",
+          "availability": "",
           "price": "",
           "genre": "rock"
         }
