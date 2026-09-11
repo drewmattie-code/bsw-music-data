@@ -194,3 +194,9 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reli
 Overall health: Stable, capturing 214 shows across 25 venues (78% coverage).
 Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, rec-room-roundhouse.
 Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for better reliability and parsing speed.
+
+## 2026-09-11T16:00:03.117Z
+210 shows / 25 venues with listings
+Overall health: Stable, successfully scraping 210 shows from 25/32 venues.
+Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, and rec-room-roundhouse.
+Improvement: Test camofox or jsonld on the 7 failing venues to replace current "none" status.

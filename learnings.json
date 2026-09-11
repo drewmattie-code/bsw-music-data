@@ -4,21 +4,21 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/massey-hall-tickets-toronto/venue/131094",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "roy-thomson-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/roy-thomson-hall-tickets-toronto/venue/131112",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "koerner-hall": {
-    "consecutiveFailures": 32,
+    "consecutiveFailures": 33,
     "notes": []
   },
   "td-music-hall": {
-    "consecutiveFailures": 32,
+    "consecutiveFailures": 33,
     "notes": []
   },
   "danforth-music-hall": {
@@ -26,126 +26,126 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-danforth-music-hall-tickets-toronto/venue/131101",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "history": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/history-tickets-toronto/venue/132501",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "opera-house": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.theoperahousetoronto.com/shows",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "phoenix-concert-theatre": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thephoenixconcerttheatre.com/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "horseshoe-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-horseshoe-tavern-tickets-toronto/venue/131087",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "the-rex": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.therex.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "lees-palace": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/lees-palace-tickets-toronto/venue/131090",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "el-mocambo": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://elmocambo.com/events-new/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "scotiabank-arena": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.scotiabankarena.com/events",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "coca-cola-coliseum": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.coca-colacoliseum.com/events",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "budweiser-stage": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.rbcamphitheatre.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "cameron-house": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.thecameron.com/shows",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "the-rivoli": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.rivolitoronto.com/shows",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "drake-underground": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thedrake.ca/thedrakehotel/drake-underground/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "great-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thegreathall.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "grossmans-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "http://www.grossmanstavern.com",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "castros-lounge": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://castroslounge.com/events/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "baby-g": {
-    "consecutiveFailures": 33,
+    "consecutiveFailures": 34,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 33,
+    "consecutiveFailures": 34,
     "notes": []
   },
   "hughs-room-live": {
@@ -153,44 +153,44 @@
     "notes": [],
     "workingUrl": "https://hughsroomlive.com/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "jazz-bistro": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "http://jazzbistro.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "rose-theatre-brampton": {
     "consecutiveFailures": 0,
     "notes": [],
     "strategy": "camofox",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "meridian-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 33,
+    "consecutiveFailures": 34,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 33,
+    "consecutiveFailures": 34,
     "notes": []
   },
   "burdock": {
     "consecutiveFailures": 0,
     "notes": [],
     "strategy": "camofox",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "rec-room-roundhouse": {
-    "consecutiveFailures": 32,
+    "consecutiveFailures": 33,
     "notes": []
   },
   "rogers-stadium": {
@@ -198,7 +198,7 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
     "strategy": "model",
-    "lastSuccess": "2026-09-10"
+    "lastSuccess": "2026-09-11"
   },
   "__genreCache": {
     "bonnie raitt: live 2026 with special guest maia sharp": "jazz/blues",
@@ -689,6 +689,19 @@
     "staind: break the cycle 25th anniversary tour": "rock",
     "kreesha turner": "pop",
     "vwillz": "hip-hop/r&b",
-    "vinyl dusters": "jazz/blues"
+    "vinyl dusters": "jazz/blues",
+    "jo1: north american tour": "pop",
+    "graham barham: club country tour": "country/folk",
+    "mike murray presents wired at 50: a tribute to jeff beck": "rock",
+    "moon walker with a weekend at ramonas & meteor heist": "rock",
+    "surf hat with special guests": "rock",
+    "emo at the el mocambo": "rock",
+    "dean brody & the reklaws \"hometown heroes\" tour": "country/folk",
+    "soda blonde": "pop",
+    "sunday jam night hosted by rob quail": "jazz/blues",
+    "mark eisenman: duo": "jazz/blues",
+    "cyrus the great ii": "hip-hop/r&b",
+    "a solo evening with conor cassidy": "other",
+    "liz hogg (nyc) / sara rose hébert / traumaqueen": "rock"
   }
 }

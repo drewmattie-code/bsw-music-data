@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T16:00:04.563Z",
-  "windowStart": "2026-09-10",
-  "windowEnd": "2026-10-01",
+  "generatedAt": "2026-09-11T16:00:03.117Z",
+  "windowStart": "2026-09-11",
+  "windowEnd": "2026-10-02",
   "venues": [
     {
       "id": "massey-hall",
@@ -160,7 +160,7 @@
           "time": "1:30 PM",
           "artist": "A Talent for Murder",
           "ticketUrl": "https://www.ticketmaster.ca/a-talent-for-murder-toronto-ontario-09-14-2026/event/1000650ED5E35654",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "metal/punk"
         },
@@ -249,15 +249,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "6:00 PM",
-          "artist": "Face To Face - Celebrating 35 Years",
-          "ticketUrl": "https://www.ticketmaster.ca/face-to-face-celebrating-35-years-toronto-ontario-09-10-2026/event/100064DA8F928BA9",
-          "availability": "available",
-          "price": "",
-          "genre": "metal/punk"
-        },
         {
           "date": "2026-09-11",
           "time": "6:30 PM",
@@ -401,21 +392,21 @@
           "availability": "available",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "6:30 PM",
+          "artist": "JO1: NORTH AMERICAN TOUR",
+          "ticketUrl": "https://www.ticketmaster.ca/jo1-north-american-tour-toronto-ontario-10-02-2026/event/100064BB4ED02B1E",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "7:00 PM",
-          "artist": "Danny Elfman",
-          "ticketUrl": "https://www.ticketmaster.ca/danny-elfman-toronto-ontario-09-10-2026/event/100064E2D2564C7C",
-          "availability": "available",
-          "price": "",
-          "genre": "classical"
-        },
         {
           "date": "2026-09-13",
           "time": "6:00 PM",
@@ -548,15 +539,6 @@
       "id": "opera-house",
       "events": [
         {
-          "date": "2026-09-10",
-          "time": "7:00 PM",
-          "artist": "Crash Adams",
-          "ticketUrl": "https://www.ticketmaster.ca/crash-adams-toronto-ontario-09-10-2026/event/100064794B33399D",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-11",
           "time": "7:00 PM",
           "artist": "Kim Gordon - Play Me Tour",
@@ -564,15 +546,6 @@
           "availability": "",
           "price": "",
           "genre": "rock"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "10:00 PM",
-          "artist": "It's A 2000's Party: Toronto",
-          "ticketUrl": "https://www.ticketmaster.ca/its-a-2000s-party-toronto-toronto-ontario-09-12-2026/event/100064F015651D43",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
         },
         {
           "date": "2026-09-14",
@@ -699,6 +672,15 @@
           "availability": "",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "7:00 PM",
+          "artist": "Graham Barham: Club Country Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/graham-barham-club-country-tour-toronto-ontario-10-02-2026/event/100064CB9DBACB4D",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -842,24 +824,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-10",
-          "time": "5:00 p.m.",
-          "artist": "Mike Kawabe",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-10",
-          "time": "8:00 p.m.",
-          "artist": "Roberto Occhipinti Quintet",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-11",
           "time": "5:00 p.m.",
           "artist": "John troy group",
@@ -921,21 +885,30 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "5:00 p.m.",
+          "artist": "Laura Hubert Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "8:00 p.m.",
+          "artist": "Mike Murray Presents Wired at 50: A Tribute to Jeff Beck",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "8:00 PM",
-          "artist": "Venjent with Oktae & Remedy",
-          "ticketUrl": "https://www.ticketweb.ca/event/venjent-with-oktae-remedy-lees-palace-tickets/14811283",
-          "availability": "available",
-          "price": "",
-          "genre": "electronic"
-        },
         {
           "date": "2026-09-11",
           "time": "10:00 PM",
@@ -957,11 +930,11 @@
         {
           "date": "2026-09-17",
           "time": "8:00 PM",
-          "artist": "Moon Walker with A Weekend At Romonas & Meteor Heist",
+          "artist": "Moon Walker with A Weekend At Ramonas & Meteor Heist",
           "ticketUrl": "https://www.ticketweb.ca/event/moon-walker-with-a-weekend-lees-palace-tickets/14946853",
           "availability": "available",
           "price": "",
-          "genre": "other"
+          "genre": "rock"
         },
         {
           "date": "2026-09-18",
@@ -1043,6 +1016,15 @@
           "availability": "available",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "9:00 PM",
+          "artist": "Surf Hat with Special Guests",
+          "ticketUrl": "https://www.ticketweb.ca/event/surf-hat-with-special-guests-lees-palace-tickets/14981783",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1079,7 +1061,7 @@
         {
           "date": "2026-09-19",
           "time": "6:30-8 PM",
-          "artist": "HILARIO DURAN",
+          "artist": "Hilario Duran",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1088,7 +1070,7 @@
         {
           "date": "2026-09-19",
           "time": "9-10:30 PM",
-          "artist": "MICHAEL",
+          "artist": "Michael",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1129,6 +1111,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "",
+          "artist": "EMO AT THE EL MOCAMBO",
+          "ticketUrl": "https://www.eventbrite.ca/e/emo-at-the-el-mocambo-when-september-ends-oct-2nd-tickets-1995244978441",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1245,15 +1236,6 @@
       "id": "budweiser-stage",
       "events": [
         {
-          "date": "2026-09-10",
-          "time": "8:00 PM",
-          "artist": "Lily Allen Performs West End Girl",
-          "ticketUrl": "https://www.ticketmaster.ca/lily-allen-performs-west-end-girl-toronto-ontario-09-10-2026/event/10006479CEC0EBB9",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-11",
           "time": "7:30 PM",
           "artist": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
@@ -1333,21 +1315,21 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "7:30 PM",
+          "artist": "Dean Brody & The Reklaws \"Hometown Heroes\" Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/dean-brody-the-reklaws-hometown-heroes-toronto-ontario-09-24-2026/event/100064A1B101D48F",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "6:00 p.m.",
-          "artist": "Corin Raymond",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-11",
           "time": "6:00 p.m.",
@@ -1509,21 +1491,21 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "8:30 p.m.",
+          "artist": "Freeman Dre & the Kitchen Party",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
     {
       "id": "the-rivoli",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "",
-          "artist": "Ron Hawkins",
-          "ticketUrl": "https://www.ticketweb.ca/event/ron-hawkins-the-rivoli-tickets/14948303?pl=WRITF",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-12",
           "time": "",
@@ -1629,24 +1611,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-09-10",
-          "time": "",
-          "artist": "Mariel Buckley",
-          "ticketUrl": "https://thedrake.ca/event/mariel-buckley/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "",
-          "artist": "Daily J",
-          "ticketUrl": "https://thedrake.ca/event/daily-j/",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-09-12",
           "time": "",
           "artist": "Cardinals",
@@ -1670,28 +1634,19 @@
       "id": "great-hall",
       "events": [
         {
-          "date": "2026-09-10",
-          "time": "7:00 pm",
-          "artist": "Jon Spencer",
-          "ticketUrl": "https://thegreathall.ca/event/jon-spencer/",
+          "date": "2026-09-12",
+          "time": "8:00 pm",
+          "artist": "Soda Blonde",
+          "ticketUrl": "https://thegreathall.ca/event/soda_blonde/",
           "availability": "",
           "price": "",
-          "genre": "rock"
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "9:00 PM",
-          "artist": "Greene and Bleus Band",
-          "ticketUrl": "https://grossmanstavern.com/event/greene-and-bleus-band-25/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-09-11",
           "time": "6:00 PM",
@@ -1736,21 +1691,21 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "9:00 PM",
+          "artist": "Sunday Jam Night Hosted by Rob Quail",
+          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-rob-quail-27/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-09-10",
-          "time": "6:00 PM",
-          "artist": "Mike Daley &#038; Dave Murphy",
-          "ticketUrl": "https://castroslounge.com/event/mike-daley-dave-murphy-6/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-09-11",
           "time": "5:30 PM",
@@ -1875,11 +1830,11 @@
         {
           "date": "2026-09-18",
           "time": "8:00 PM",
-          "artist": "Happy Birthday Leonard, with Micah Barnes",
+          "artist": "Happy Birthday Leonard, with Micah Barnes and Barbara Lynch",
           "ticketUrl": "https://www.showpass.com/happy-birthday-leonard-with-micah-barnes/",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-09-19",
@@ -1896,10 +1851,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-10",
+          "date": "2026-09-11",
           "time": "",
-          "artist": "Hiro Tanaka Trios",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-hiro-tanaka-duos-2/",
+          "artist": "Mark Eisenman: Duo",
+          "ticketUrl": "https://jazzbistro.ca/event/mark-eisenman-duo/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1978,6 +1933,15 @@
           "genre": "jazz/blues"
         },
         {
+          "date": "2026-09-19",
+          "time": "2:30 PM",
+          "artist": "Cyrus The Great II",
+          "ticketUrl": "https://www.ticketmaster.ca/cyrus-the-great-ii-toronto-ontario-09-19-2026/event/10006528C2D1BEDA",
+          "availability": "available",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
           "date": "2026-09-25",
           "time": "7:00 PM",
           "artist": "Jaipur Literature Festival: In Conversation with Zakir Khan",
@@ -2009,15 +1973,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-09-10",
-          "time": "8:00 PM",
-          "artist": "Laura Roy",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-09-11",
           "time": "6:15 PM",
           "artist": "Joel Betts",
@@ -2038,7 +1993,7 @@
         {
           "date": "2026-09-12",
           "time": "6:30 PM",
-          "artist": "Conor Cassidy",
+          "artist": "A Solo Evening with Conor Cassidy",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -2061,6 +2016,15 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-09-14",
+          "time": "7:30 PM",
+          "artist": "Liz Hogg (NYC) / Sara Rose Hébert / TRAUMAQUEEN",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
