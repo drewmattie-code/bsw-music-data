@@ -204,3 +204,9 @@ Improvement: Test camofox or jsonld on the 7 failing venues to replace current "
 ## 2026-09-12T16:00:03.338Z
 222 shows / 25 venues with listings
 (model note unavailable this run)
+
+## 2026-09-13T16:00:06.091Z
+219 shows / 25 venues with listings
+Overall health: Stable, capturing 219 shows across 25 venues (78% coverage).
+Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, rec-room-roundhouse.
+Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for better reliability and speed.
