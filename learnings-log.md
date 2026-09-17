@@ -228,3 +228,9 @@ Improvement: Attempt to migrate 'model' and 'camofox' sources to 'jsonld' for be
 Overall health: Stable, capturing 213 shows across 25 venues (78% coverage).
 Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, rose-theatre-brampton, living-arts-centre, and adelaide-hall.
 Improvement: Investigate if the "camofox" method used for burdock can be applied to the 7 failing venues.
+
+## 2026-09-17T16:00:03.576Z
+216 shows / 25 venues with listings
+Overall health: Stable, capturing 216 shows across 25/32 venues.
+Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, and rogers-stadium.
+Improvement: Investigate if camofox or jsonld can replace the less reliable "model" extraction for venues like the-rex and el-mocambo.
