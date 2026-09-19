@@ -240,3 +240,9 @@ Improvement: Investigate if camofox or jsonld can replace the less reliable "mod
 Overall health: Stable, capturing 214 shows across 78% of venues.
 Attention needed: koerner-hall, td-music-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, and rogers-stadium.
 Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.
+
+## 2026-09-19T16:00:02.459Z
+209 shows / 25 venues with listings
+Health: Stable, 209 shows captured from 25/32 venues.
+Attention: Koerner Hall, Baby G, Monarch Tavern, Living Arts Centre, Adelaide Hall, Rec Room, and Rogers Stadium.
+Improvement: Attempt to migrate 'model' based extractions to 'jsonld' for better reliability.
