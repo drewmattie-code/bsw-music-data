@@ -4,17 +4,17 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/massey-hall-tickets-toronto/venue/131094",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "roy-thomson-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/roy-thomson-hall-tickets-toronto/venue/131112",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "koerner-hall": {
-    "consecutiveFailures": 41,
+    "consecutiveFailures": 42,
     "notes": []
   },
   "td-music-hall": {
@@ -22,84 +22,84 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/td-music-hall-allied-music-centre-tickets-toronto/venue/132528",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "danforth-music-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-danforth-music-hall-tickets-toronto/venue/131101",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "history": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/history-tickets-toronto/venue/132501",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "opera-house": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.theoperahousetoronto.com/shows",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "phoenix-concert-theatre": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thephoenixconcerttheatre.com/",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "horseshoe-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-horseshoe-tavern-tickets-toronto/venue/131087",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "the-rex": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.therex.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "lees-palace": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/lees-palace-tickets-toronto/venue/131090",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "el-mocambo": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://elmocambo.com/events-new/",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "scotiabank-arena": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.scotiabankarena.com/events",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "coca-cola-coliseum": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.coca-colacoliseum.com/events",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "budweiser-stage": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.rbcamphitheatre.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "cameron-house": {
     "consecutiveFailures": 0,
@@ -120,35 +120,35 @@
     "notes": [],
     "workingUrl": "https://thedrake.ca/thedrakehotel/drake-underground/",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "great-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thegreathall.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "grossmans-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "http://www.grossmanstavern.com",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "castros-lounge": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://castroslounge.com/events/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "baby-g": {
-    "consecutiveFailures": 42,
+    "consecutiveFailures": 43,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 42,
+    "consecutiveFailures": 43,
     "notes": []
   },
   "hughs-room-live": {
@@ -163,27 +163,27 @@
     "notes": [],
     "workingUrl": "http://jazzbistro.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "rose-theatre-brampton": {
     "consecutiveFailures": 0,
     "notes": [],
     "strategy": "camofox",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "meridian-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-19"
+    "lastSuccess": "2026-09-20"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 42,
+    "consecutiveFailures": 43,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 42,
+    "consecutiveFailures": 43,
     "notes": []
   },
   "burdock": {
@@ -200,7 +200,7 @@
     "lastSuccess": "2026-09-18"
   },
   "rogers-stadium": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
     "strategy": "model",
@@ -841,6 +841,12 @@
     "true mountain laurel": "country/folk",
     "the hogtown allstars": "jazz/blues",
     "chelsea handler: the high and mighty tour": "other",
-    "new hue and audrey mae": "hip-hop/r&b"
+    "new hue and audrey mae": "hip-hop/r&b",
+    "pinhead gunpowder": "other",
+    "the residents - eskimo live": "other",
+    "an evening with lucinda williams and her band": "other",
+    "emo at the el mocambo when september ends": "other",
+    "disco dazz": "other",
+    "dizzy fay": "other"
   }
 }

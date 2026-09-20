@@ -246,3 +246,7 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reli
 Health: Stable, 209 shows captured from 25/32 venues.
 Attention: Koerner Hall, Baby G, Monarch Tavern, Living Arts Centre, Adelaide Hall, Rec Room, and Rogers Stadium.
 Improvement: Attempt to migrate 'model' based extractions to 'jsonld' for better reliability.
+
+## 2026-09-20T16:00:02.664Z
+142 shows / 21 venues with listings
+(model note unavailable this run)
