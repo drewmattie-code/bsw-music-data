@@ -256,3 +256,9 @@ Improvement: Attempt to migrate 'model' based extractions to 'jsonld' for better
 Overall health: Stable, capturing 185 shows across 25 venues (78% coverage).
 Attention needed: baby-g, monarch-tavern, living-arts-centre, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
 Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability and structured data accuracy.
+
+## 2026-09-22T16:01:29.171Z
+18 shows / 1 venues with listings
+Health: Poor; only 3% of venues successfully returned data.
+Attention: 31 venues failed to provide listings and require source verification.
+Improvement: Implement a rotating proxy or update CSS selectors for the 31 failing venues.
