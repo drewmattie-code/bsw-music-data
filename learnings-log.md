@@ -262,3 +262,9 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reli
 Health: Poor; only 3% of venues successfully returned data.
 Attention: 31 venues failed to provide listings and require source verification.
 Improvement: Implement a rotating proxy or update CSS selectors for the 31 failing venues.
+
+## 2026-09-23T16:00:03.260Z
+187 shows / 26 venues with listings
+Overall health: Stable, capturing 187 shows across 26 venues.
+Attention needed: koerner-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, and rogers-stadium (all returned 0).
+Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability and structured data accuracy.
