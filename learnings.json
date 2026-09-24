@@ -4,17 +4,17 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/massey-hall-tickets-toronto/venue/131094",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "roy-thomson-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/roy-thomson-hall-tickets-toronto/venue/131112",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "koerner-hall": {
-    "consecutiveFailures": 45,
+    "consecutiveFailures": 46,
     "notes": []
   },
   "td-music-hall": {
@@ -22,42 +22,42 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/td-music-hall-allied-music-centre-tickets-toronto/venue/132528",
     "strategy": "model",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "danforth-music-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.thedanforth.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "history": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/history-tickets-toronto/venue/132501",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "opera-house": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.theoperahousetoronto.com/shows",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "phoenix-concert-theatre": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thephoenixconcerttheatre.com/",
     "strategy": "model",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "horseshoe-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-horseshoe-tavern-tickets-toronto/venue/131087",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "the-rex": {
     "consecutiveFailures": 0,
@@ -71,7 +71,7 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/lees-palace-tickets-toronto/venue/131090",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "el-mocambo": {
     "consecutiveFailures": 0,
@@ -99,7 +99,7 @@
     "notes": [],
     "workingUrl": "https://www.rbcamphitheatre.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "cameron-house": {
     "consecutiveFailures": 0,
@@ -134,21 +134,21 @@
     "notes": [],
     "workingUrl": "http://www.grossmanstavern.com",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "castros-lounge": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://castroslounge.com/events/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "baby-g": {
     "consecutiveFailures": 46,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 46,
+    "consecutiveFailures": 47,
     "notes": []
   },
   "hughs-room-live": {
@@ -163,27 +163,27 @@
     "notes": [],
     "workingUrl": "http://jazzbistro.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "rose-theatre-brampton": {
     "consecutiveFailures": 0,
     "notes": [],
     "strategy": "camofox",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "meridian-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 46,
+    "consecutiveFailures": 47,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 46,
+    "consecutiveFailures": 47,
     "notes": []
   },
   "burdock": {
@@ -197,10 +197,10 @@
     "notes": [],
     "workingUrl": "https://www.therecroom.com/toronto-roundhouse",
     "strategy": "model",
-    "lastSuccess": "2026-09-23"
+    "lastSuccess": "2026-09-24"
   },
   "rogers-stadium": {
-    "consecutiveFailures": 7,
+    "consecutiveFailures": 8,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
     "strategy": "model",
@@ -878,6 +878,11 @@
     "d.b. buxton": "country/folk",
     "skyrie": "electronic",
     "ethan o’brien: the first concert (ft. d-toxx)": "hip-hop/r&b",
-    "the four elements": "world"
+    "the four elements": "world",
+    "cbc radio - accent on toronto": "other",
+    "bunt. - in the toronto round": "other",
+    "carly pearce - honest woman: up close - presented by conundrum wines": "other",
+    "оксана білозір (oksana bilozir)": "other",
+    "he is legend - the time travel tour": "other"
   }
 }
