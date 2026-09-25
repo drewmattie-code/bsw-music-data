@@ -274,3 +274,9 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reli
 Overall health: Poor; only 50% of venues successfully returned data, with 12 reporting errors.
 Attention needed: Scotiabank Arena, Coca-Cola Coliseum, and the remaining 9 venues marked as "error."
 Improvement: Implement a rotating proxy or updated headers to bypass the blocks causing the high error rate.
+
+## 2026-09-25T16:00:02.109Z
+192 shows / 26 venues with listings
+Overall health: Stable, capturing 192 shows across 26 venues.
+Attention needed: koerner-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, and rogers-stadium.
+Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.

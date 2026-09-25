@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T16:00:06.543Z",
-  "windowStart": "2026-09-24",
-  "windowEnd": "2026-10-15",
+  "generatedAt": "2026-09-25T16:00:02.109Z",
+  "windowStart": "2026-09-25",
+  "windowEnd": "2026-10-16",
   "venues": [
     {
       "id": "massey-hall",
@@ -106,15 +106,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-09-24",
-          "time": "7:00 PM",
-          "artist": "Nation of Language",
-          "ticketUrl": "https://www.ticketmaster.ca/nation-of-language-toronto-ontario-09-24-2026/event/1000646CBC09C2F2",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
         {
           "date": "2026-09-25",
           "time": "7:00 PM",
@@ -258,21 +249,21 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "7:00 PM",
+          "artist": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
+          "ticketUrl": "https://www.ticketmaster.ca/sanctuary-park-tour-celebrating-40-years-toronto-ontario-10-16-2026/event/100064D1D94E7213",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-24",
-          "time": "8:00 PM",
-          "artist": "Brandon Flowers",
-          "ticketUrl": "https://www.ticketmaster.ca/brandon-flowers-toronto-ontario-09-24-2026/event/100064D0C25C1D64",
-          "availability": "limited",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-09-25",
           "time": "7:00 PM",
@@ -389,21 +380,21 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "8:00 PM",
+          "artist": "BUNT. - In The Toronto Round",
+          "ticketUrl": "https://www.ticketmaster.ca/bunt-in-the-toronto-round-toronto-ontario-10-16-2026/event/1000649DBC0EB16D",
+          "availability": "limited",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "opera-house",
       "events": [
-        {
-          "date": "2026-09-24",
-          "time": "7:00 PM",
-          "artist": "The High Kings - Rocky Road to Dublin - 2026 Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/the-high-kings-rocky-road-to-toronto-ontario-09-24-2026/event/100064A1BD9DF297",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-25",
           "time": "7:00 PM",
@@ -529,6 +520,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "7:00 PM",
+          "artist": "Carly Pearce - Honest Woman: Up Close - Presented by Conundrum Wines",
+          "ticketUrl": "https://www.ticketmaster.ca/carly-pearce-honest-woman-up-close-toronto-ontario-10-16-2026/event/100064D5222C8AD6",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -643,7 +643,107 @@
     },
     {
       "id": "the-rex",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "5:00 p.m.",
+          "artist": "Matt Brubeck Trio",
+          "ticketUrl": "https://www.therex.ca/events/matt-brubeck",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "8:00 p.m.",
+          "artist": "Pat LaBarbera /Kirk MacDonald Quintet Celebrating John Coltrane at 100",
+          "ticketUrl": "https://www.therex.ca/events/pat-labarbera-kirk-macdonald-quintet-celebrating-john-coltrane-at-100-fkatl-wwd5h",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "2:00 p.m.",
+          "artist": "Borealis Big Band",
+          "ticketUrl": "https://www.therex.ca/events/borealis-big-band",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "5:00 p.m.",
+          "artist": "Neon Eagle",
+          "ticketUrl": "https://www.therex.ca/events/laura-hubert-band-1-gxwhk-smfry-gtmk3-2hw7g-bg2lx-hsery-cy5yz-hgfzc-6xnd6-ehpfh-5gsfw-nnblr-rj3ma-3yn3r-xy2b5-mb55t-f6xpj-bcw9r",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "8:00 p.m.",
+          "artist": "Pat LaBarbera /Kirk MacDonald Quintet Celebrating John Coltrane at 100",
+          "ticketUrl": "https://www.therex.ca/events/pat-labarbera-kirk-macdonald-quintet-celebrating-john-coltrane-at-100-fkatl-wwd5h-9d9ze",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "11:00 p.m.",
+          "artist": "Bree Bartha",
+          "ticketUrl": "https://www.therex.ca/events/bree-bartha",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "2:00 p.m.",
+          "artist": "Marc Decho Brazilian Jazz Quartet",
+          "ticketUrl": "https://www.therex.ca/events/marc-decho-brazilian-jazz-quartet",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "5:00 p.m.",
+          "artist": "Blues Sunday: Heather Luckhart/Sandra Bouza",
+          "ticketUrl": "https://www.therex.ca/events/blues-sunday-heather-luckhartsandra-bouza",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "8:00 p.m.",
+          "artist": "Nick Fraser's Special Topics",
+          "ticketUrl": "https://www.therex.ca/events/nick-frasers-special-topics-1",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "5:00 p.m.",
+          "artist": "humber college Student Jazz ENSEMBLES",
+          "ticketUrl": "https://www.therex.ca/events/humber-college-student-jazz-ensembles-tzr6b",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "8:00 p.m.",
+          "artist": "John Macleod's Rex Hotel Orchestra",
+          "ticketUrl": "https://www.therex.ca/events/john-macleods-rex-hotel-orchestra-5-xxs3s-fm7xf",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        }
+      ]
     },
     {
       "id": "lees-palace",
@@ -782,33 +882,207 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "10:00 PM",
+          "artist": "Lukas & Frank - Toronto",
+          "ticketUrl": "https://www.ticketweb.ca/event/lukas-frank-lees-palace-tickets/15026143",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "el-mocambo",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "",
+          "artist": "U2 Into the Heart of the 80s Boy Spotlight' with Elevation and Erica Ehm",
+          "ticketUrl": "https://www.eventbrite.ca/e/u2-into-the-heart-of-the-80s-boy-spotlight-with-elevation-and-erica-ehm-tickets-1994671795034",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "8:30 PM",
+          "artist": "HIGGI A live recording event!",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "",
+          "artist": "LINKS 2 COMMUNITY A Benefit Concert",
+          "ticketUrl": "https://www.ticketweb.ca/event/links-2-community-under-the-neon-palms-at-tickets/14999213?pl=elmocambo",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "",
+          "artist": "\"EMO AT THE EL MOCAMBO\" When September Ends",
+          "ticketUrl": "https://www.eventbrite.ca/e/emo-at-the-el-mocambo-when-september-ends-oct-2nd-tickets-1995244978441",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "8:00 PM",
+          "artist": "Toronto Blues Fest Founders Night FEATURING: THE JAY BLUES TRIO",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "",
+          "artist": "AGENT UNDISCLOSED: CAMP X A 70s Drag Show Music Extravaganza",
+          "ticketUrl": "https://jin.imajin.ai/events/e/evt_5b1499f3813945958800ccd3",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "8:00 PM",
+          "artist": "THE HIP EXPERIENCE CELEBRATING THE MUSIC OF THE TRAGICALLY HIP!",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "",
+          "artist": "SUE FOLEY An Intimate Evening",
+          "ticketUrl": "https://www.ticketweb.ca/event/sue-foley-an-under-the-neon-palms-at-tickets/15008933?pl=elmocambo",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "8:00 PM",
+          "artist": "ERROL FISHER",
+          "ticketUrl": "https://www.ticketweb.ca/event/errol-fisher-the-starlight-room-at-the-tickets/15018023?pl=elmocambo",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "",
+          "artist": "BOOTS HEARTSTRINGS",
+          "ticketUrl": "https://www.eventbrite.ca/e/boots-hearts-and-strings-tickets-1997803342577?sg=67b1ef80b344c544f89530c461dec5239479acfa5323ec48c4bbd8685529ae58ca9840922daa0ecb7660c5d6fd0ec72da8600b5001618f237bd513dd981dbafbcaaae2c9be34bcd4f1305a6631 aff=ebdsshios",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        }
+      ]
     },
     {
       "id": "scotiabank-arena",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "7:00 PM",
+          "artist": "WEEZER",
+          "ticketUrl": "https://www.ticketmaster.ca/event/1000646DB63CC6B0?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_WEEZER-09/25_3262026",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "8:00 PM",
+          "artist": "Moein",
+          "ticketUrl": "https://www.ticketmaster.ca/event/10006341F10BFCCA?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_MOEIN-02/14_1022025",
+          "availability": "",
+          "price": "",
+          "genre": "world"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "7:00 PM",
+          "artist": "Rahat Fateh Ali Khan",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064C8A7C0A6AA?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_RAHATFATEHALIKHAN-9/27_682026",
+          "availability": "",
+          "price": "",
+          "genre": "world"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "",
+          "artist": "Phoebe Bridgers",
+          "ticketUrl": "https://www.ticketmaster.ca/artist/2133305?venueId=131157",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "",
+          "artist": "Phoebe Bridgers",
+          "ticketUrl": "https://www.ticketmaster.ca/artist/2133305?venueId=131157",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "7:30 PM",
+          "artist": "Gorillaz",
+          "ticketUrl": "https://www.ticketmaster.ca/event/1000645AC1BCE7CF?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_GORILLAZ-10/04_332026",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "7:00 PM",
+          "artist": "Teddy Swims",
+          "ticketUrl": "https://www.ticketmaster.ca/event/1000648D929F6B7D?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_TEDDYSWIMS-10/05_4162026",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        }
+      ]
     },
     {
       "id": "coca-cola-coliseum",
-      "events": []
+      "events": [
+        {
+          "date": "2026-10-05",
+          "time": "7:00 PM",
+          "artist": "Steve Lacy",
+          "ticketUrl": "https://www.ticketmaster.ca/event/1000650590FD98AB?camefrom=CFC_COCACOLA_WEB_SCHEDULEPAGE_LINK_STEVELACY-10/05_8112026",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "8:00 PM",
+          "artist": "BRAND NEW",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064CFAF7AB085?camefrom=CFC_COCACOLA_WEB_SCHEDULEPAGE_LINK_BRANDNEW-10/09_6182026",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        }
+      ]
     },
     {
       "id": "budweiser-stage",
       "events": [
-        {
-          "date": "2026-09-24",
-          "time": "7:30 PM",
-          "artist": "Dean Brody & The Reklaws \"Hometown Heroes\" Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/dean-brody-the-reklaws-hometown-heroes-toronto-ontario-09-24-2026/event/100064A1B101D48F",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-25",
           "time": "8:00 PM",
@@ -876,32 +1150,324 @@
     },
     {
       "id": "cameron-house",
-      "events": []
-    },
-    {
-      "id": "the-rivoli",
-      "events": []
-    },
-    {
-      "id": "drake-underground",
-      "events": []
-    },
-    {
-      "id": "great-hall",
-      "events": []
-    },
-    {
-      "id": "grossmans-tavern",
       "events": [
         {
-          "date": "2026-09-24",
-          "time": "8:00 PM",
-          "artist": "The 4th Open Mic",
-          "ticketUrl": "https://grossmanstavern.com/event/the-4th-open-mic-30/",
+          "date": "2026-09-25",
+          "time": "6:00 p.m.",
+          "artist": "Graham Nicholas",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "other"
         },
+        {
+          "date": "2026-09-28",
+          "time": "6:00 p.m.",
+          "artist": "Bronte Ibbotson & Mike T. Kerr",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "6:00 p.m.",
+          "artist": "Charlotte Brunner",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "6:00 p.m.",
+          "artist": "Jenny Whiteley & Joey Wright",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "6:00 p.m.",
+          "artist": "Sweet Hots ft. Alex Pangman",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "6:00 p.m.",
+          "artist": "David Celia",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "6:00 p.m.",
+          "artist": "John Borra Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "6:00 p.m.",
+          "artist": "Colonel Tom",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "6:00 p.m.",
+          "artist": "Laura Hubert",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "6:00 p.m.",
+          "artist": "Run With The Kittens",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "9:00 p.m.",
+          "artist": "Chuck Coles",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "6:00 p.m.",
+          "artist": "Corin Raymond",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "6:00 p.m.",
+          "artist": "Patrick Brealey",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "6:00 p.m.",
+          "artist": "Joanne Mackell",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        }
+      ]
+    },
+    {
+      "id": "the-rivoli",
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "",
+          "artist": "Friends From Work with All Smiles & The Anytimers",
+          "ticketUrl": "https://www.eventbrite.com/e/friends-from-work-with-special-guests-all-smiles-and-the-anytimers-tickets-1998998608650?utm_experiment=test_share_listing&aff=ebdsshios&sg=0f0e98ae15a8ab84e2427050a1d3bccc4818b267c2ec306e76767471c6eea5e35d87a43050cee4d85517414a97131fdee0e9f85ac49c7f5d03065baea30de61fe3ffb125e15081b53940d223ad",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "",
+          "artist": "Latenours Fest",
+          "ticketUrl": "https://luma.com/22zbrwu7",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "",
+          "artist": "Sinuhe Liben - The BXY Tur",
+          "ticketUrl": "https://sinuheliben.bandzoogle.com/event/6567408/762289530/the-bxy-tur-by-sinuhe-liben",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "",
+          "artist": "The Martin Boys",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064DDF3BDAAC8",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "",
+          "artist": "Bleeker, Kasador & Avalon Stone",
+          "ticketUrl": "https://www.eventbrite.ca/e/bleeker-x-kasador-live-in-toronto-october-2-rivoli-tickets-1997774234514?aff=ebdssbdestsearch",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "",
+          "artist": "Yellow Magnolia",
+          "ticketUrl": "https://www.eventbrite.com/e/yellow-magnolia-on-a-bender-tickets-1999005623632?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "",
+          "artist": "Kaiya Gamble EP Release Show",
+          "ticketUrl": "https://www.eventbrite.ca/e/kaiya-gamble-ep-release-show-tickets-1999800284484?aff=Rivoli",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "",
+          "artist": "The November Project",
+          "ticketUrl": "https://www.eventbrite.ca/e/the-november-project-tickets-1999629146606?aff=Rivoli",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "",
+          "artist": "Awake & Dreaming EP Release",
+          "ticketUrl": "https://www.eventbrite.com/e/awake-dreaming-the-inevitable-tour-the-rivoli-toronto-tickets-1997060591990?utm_experiment=test_share_listing&aff=ebdsshios&sg=4c6ad466c61187f0c06a2f36a3f681a42223971d6b9ceae97a1dbc5f16e40cbde115fafe5c4424cb8442d2784e787e8c070edd4b38f3561d62e72cd09e5e85bf6adb2e30cc1b279144fd379d05",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "",
+          "artist": "The Cowboy Up Tour feat. Elyse Saunders",
+          "ticketUrl": "https://www.eventbrite.com/e/the-cowboy-up-tour-feat-elyse-saunders-tickets-1992599780583?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "",
+          "artist": "Pierce Brothers",
+          "ticketUrl": "https://www.eventbrite.ca/e/pierce-brothers-tickets-1997968949913?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "",
+          "artist": "The Jailbirds: ‘Where Is The Rock’ Tour",
+          "ticketUrl": "https://www.eventbrite.ca/e/the-jailbirds-toronto-where-is-the-rock-tour-presented-by-977-htz-fm-tickets-1998933040534?aff=oddtdtcreator&keep_tld=true",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "",
+          "artist": "Sam Casey w/ Solid Body Contact & MEAVE",
+          "ticketUrl": "https://www.eventbrite.ca/e/sam-casey-ep-release-show-tickets-1998931272245?aff=RivoliWebsite",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        }
+      ]
+    },
+    {
+      "id": "drake-underground",
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "",
+          "artist": "Second Summer Festival",
+          "ticketUrl": "https://thedrake.ca/event/second-summer-festival-2/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "",
+          "artist": "Second Summer Festival",
+          "ticketUrl": "https://thedrake.ca/event/second-summer-festival/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "",
+          "artist": "The Takes",
+          "ticketUrl": "https://thedrake.ca/event/the-takes/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "",
+          "artist": "Pertinence",
+          "ticketUrl": "https://thedrake.ca/event/pertinence/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        }
+      ]
+    },
+    {
+      "id": "great-hall",
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "7:30 pm",
+          "artist": "Tommy Youngsteen- Fleetwood Mac “Rumours” LIVE",
+          "ticketUrl": "https://thegreathall.ca/event/tommy-youngsteen-fleetwood-mac-rumours-live/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        }
+      ]
+    },
+    {
+      "id": "grossmans-tavern",
+      "events": [
         {
           "date": "2026-09-25",
           "time": "9:00 PM",
@@ -946,21 +1512,21 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "9:00 PM",
+          "artist": "Action Sound Band",
+          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-122/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-09-24",
-          "time": "6:00 PM",
-          "artist": "Mike Daley, Jamie Oliver &#038; Bazil Donovan",
-          "ticketUrl": "https://castroslounge.com/event/mike-daley-jamie-oliver-bazil-donovan-3/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-09-25",
           "time": "5:30 AM",
@@ -1018,16 +1584,134 @@
     },
     {
       "id": "hughs-room-live",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "8:00 PM",
+          "artist": "Sarah MacDougall, Lisa MacIsaac & Catherine MacLellan",
+          "ticketUrl": "https://www.showpass.com/catherine-maclellan-5/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "8:00 PM",
+          "artist": "Friends of Fiddlers Green",
+          "ticketUrl": "https://www.showpass.com/friends-of-fiddlers-green-2/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "8:00 PM",
+          "artist": "Jeff Madden",
+          "ticketUrl": "https://www.showpass.com/jazz-in-torontos-all-that-cabaret-presents-jeff-madden/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "",
+          "artist": "Soundstreams : Nagoya Marimbas",
+          "ticketUrl": "https://soundstreams.ca/events/td-encounters-nagoya-marimbas/",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "8:00 PM",
+          "artist": "Logan Staats",
+          "ticketUrl": "https://www.showpass.com/logan-staats/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "8:00 PM",
+          "artist": "Jim Galloway's Wee Big Band",
+          "ticketUrl": "https://www.showpass.com/jim-galloways-wee-big-band/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "",
+          "artist": "Jason Wilson Auld Acquaintance Album Release",
+          "ticketUrl": "https://www.showpass.com/jason-wilson-auld-aquaintance-album-release/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "",
+          "artist": "Dala Album Release",
+          "ticketUrl": "https://www.showpass.com/dala-album-release/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "",
+          "artist": "Tony McManus",
+          "ticketUrl": "https://www.showpass.com/tony-mcmanus/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "",
+          "artist": "The Hogtown Allstars",
+          "ticketUrl": "https://www.showpass.com/the-hogtown-allstars-2/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "",
+          "artist": "Skyrie",
+          "ticketUrl": "https://www.showpass.com/skyrie/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "",
+          "artist": "Ann Hampton Callaway “Sirens of Swing”",
+          "ticketUrl": "https://www.showpass.com/ann-hampton-callaway-sirens-of-swing/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "",
+          "artist": "Stevie Wonder Songs In The Key of Life 50th",
+          "ticketUrl": "https://www.showpass.com/stevie-wonder-songs-in-the-key-of-life/",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        }
+      ]
     },
     {
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "time": "",
-          "artist": "Hiro Tanaka Trios",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-hiro-tanaka-duos-4/",
+          "artist": "Kirk MacDonald: Duos",
+          "ticketUrl": "https://jazzbistro.ca/event/kirk-macdonald-duos-17/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1104,6 +1788,15 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "7:30 PM",
+          "artist": "How to Train Your Dragon 2 in Concert",
+          "ticketUrl": "https://www.ticketmaster.ca/how-to-train-your-dragon-2-toronto-ontario-10-16-2026/event/10006443F265F7BF",
+          "availability": "available",
+          "price": "",
+          "genre": "classical"
         }
       ]
     },
@@ -1117,7 +1810,62 @@
     },
     {
       "id": "burdock",
-      "events": []
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "9:00 PM",
+          "artist": "Sara Maria:Live! with Elise Jefford & NICOLLE!",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "7:00 PM",
+          "artist": "Sheenah Ko w/ Zinnia",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "7:30 PM",
+          "artist": "Clever Hopes + Rebekah Hawker + Matthew Barber",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "7:30 PM",
+          "artist": "Ethan O’Brien: THE FIRST CONCERT (ft. D-Toxx)",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "7:45 PM",
+          "artist": "Jeremy Witten, Marker Starling, and Mark Honestly",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "8:00 PM",
+          "artist": "Age Ain't Nothing But A Number",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        }
+      ]
     },
     {
       "id": "rec-room-roundhouse",
