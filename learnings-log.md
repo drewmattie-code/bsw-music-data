@@ -280,3 +280,7 @@ Improvement: Implement a rotating proxy or updated headers to bypass the blocks 
 Overall health: Stable, capturing 192 shows across 26 venues.
 Attention needed: koerner-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, and rogers-stadium.
 Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.
+
+## 2026-09-26T16:00:02.260Z
+101 shows / 12 venues with listings
+(model note unavailable this run)

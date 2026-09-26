@@ -4,17 +4,17 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/massey-hall-tickets-toronto/venue/131094",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "roy-thomson-hall": {
-    "consecutiveFailures": 0,
+    "consecutiveFailures": 1,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/roy-thomson-hall-tickets-toronto/venue/131112",
     "strategy": "jsonld",
     "lastSuccess": "2026-09-25"
   },
   "koerner-hall": {
-    "consecutiveFailures": 47,
+    "consecutiveFailures": 48,
     "notes": []
   },
   "td-music-hall": {
@@ -29,21 +29,21 @@
     "notes": [],
     "workingUrl": "https://www.thedanforth.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "history": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/history-tickets-toronto/venue/132501",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "opera-house": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.theoperahousetoronto.com/shows",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "phoenix-concert-theatre": {
     "consecutiveFailures": 0,
@@ -57,7 +57,7 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-horseshoe-tavern-tickets-toronto/venue/131087",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "the-rex": {
     "consecutiveFailures": 0,
@@ -71,7 +71,7 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/lees-palace-tickets-toronto/venue/131090",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "el-mocambo": {
     "consecutiveFailures": 0,
@@ -99,7 +99,7 @@
     "notes": [],
     "workingUrl": "https://www.rbcamphitheatre.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "cameron-house": {
     "consecutiveFailures": 0,
@@ -134,21 +134,21 @@
     "notes": [],
     "workingUrl": "http://www.grossmanstavern.com",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "castros-lounge": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://castroslounge.com/events/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "baby-g": {
     "consecutiveFailures": 47,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 48,
+    "consecutiveFailures": 49,
     "notes": []
   },
   "hughs-room-live": {
@@ -163,10 +163,10 @@
     "notes": [],
     "workingUrl": "http://jazzbistro.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "rose-theatre-brampton": {
-    "consecutiveFailures": 0,
+    "consecutiveFailures": 1,
     "notes": [],
     "strategy": "camofox",
     "lastSuccess": "2026-09-25"
@@ -176,14 +176,14 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
     "strategy": "jsonld",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 48,
+    "consecutiveFailures": 49,
     "notes": []
   },
   "adelaide-hall": {
-    "consecutiveFailures": 48,
+    "consecutiveFailures": 49,
     "notes": []
   },
   "burdock": {
@@ -197,10 +197,10 @@
     "notes": [],
     "workingUrl": "https://www.therecroom.com/toronto-roundhouse",
     "strategy": "model",
-    "lastSuccess": "2026-09-25"
+    "lastSuccess": "2026-09-26"
   },
   "rogers-stadium": {
-    "consecutiveFailures": 9,
+    "consecutiveFailures": 10,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/rogers-stadium-tickets-toronto/venue/132627",
     "strategy": "model",
@@ -906,6 +906,10 @@
     "stevie wonder songs in the key of life 50th": "hip-hop/r&b",
     "how to train your dragon 2 in concert": "classical",
     "jeremy witten, marker starling, and mark honestly": "rock",
-    "age ain't nothing but a number": "other"
+    "age ain't nothing but a number": "other",
+    "bruce cockburn": "other",
+    "buena vista orchestra": "other",
+    "castle rat: summon the beasts tour 2026": "other",
+    "grateful dead tribute pounds of sin": "other"
   }
 }
