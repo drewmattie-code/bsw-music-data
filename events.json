@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T16:00:03.740Z",
-  "windowStart": "2026-09-27",
-  "windowEnd": "2026-10-18",
+  "generatedAt": "2026-09-28T16:00:05.128Z",
+  "windowStart": "2026-09-28",
+  "windowEnd": "2026-10-19",
   "venues": [
     {
       "id": "massey-hall",
@@ -257,21 +257,21 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "7:00 PM",
+          "artist": "AFI",
+          "ticketUrl": "https://www.ticketmaster.ca/afi-toronto-ontario-10-19-2026/event/1000649ECD57485A",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "6:30 PM",
-          "artist": "Pennywise",
-          "ticketUrl": "https://www.ticketmaster.ca/pennywise-toronto-ontario-09-27-2026/event/100064D6D92737D3",
-          "availability": "available",
-          "price": "",
-          "genre": "metal/punk"
-        },
         {
           "date": "2026-09-28",
           "time": "7:00 PM",
@@ -386,6 +386,15 @@
           "artist": "BUNT. - In The Toronto Round",
           "ticketUrl": "https://www.ticketmaster.ca/bunt-in-the-toronto-round-toronto-ontario-10-17-2026/event/1000649DBC11B177",
           "availability": "limited",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "7:00 PM",
+          "artist": "Sylvan Esso",
+          "ticketUrl": "https://www.ticketmaster.ca/sylvan-esso-toronto-ontario-10-19-2026/event/100064C4C06E4D0E",
+          "availability": "available",
           "price": "",
           "genre": "other"
         }
@@ -635,37 +644,10 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-09-27",
-          "time": "2:00 p.m.",
-          "artist": "Marc Decho Brazilian Jazz Quartet",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "5:00 p.m.",
-          "artist": "Blues Sunday: Heather Luckhart/Sandra Bouza",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "8:00 p.m.",
-          "artist": "Nick Fraser's Special Topics",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-09-28",
           "time": "5:00 p.m.",
           "artist": "humber college Student Jazz ENSEMBLES",
-          "ticketUrl": "",
+          "ticketUrl": "https://www.therex.ca/events/humber-college-student-jazz-ensembles-tzr6b",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -674,25 +656,97 @@
           "date": "2026-09-28",
           "time": "8:00 p.m.",
           "artist": "John Macleod's Rex Hotel Orchestra",
-          "ticketUrl": "",
+          "ticketUrl": "https://www.therex.ca/events/john-macleods-rex-hotel-orchestra-5-xxs3s-fm7xf",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "5:00 p.m.",
+          "artist": "Beverley Taft",
+          "ticketUrl": "https://www.therex.ca/events/beverley-taft",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "8:00 p.m.",
+          "artist": "CLASSIC REX JAZZ JAM",
+          "ticketUrl": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9-dsfga-3tkpm-xra9d",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "5:00 p.m.",
+          "artist": "Trombone Charlotte & Jared Higgins Present: GRAPEVINE QUARTET",
+          "ticketUrl": "https://www.therex.ca/events/trombone-charlotte-jared-higgins-present-grapevine-quartet-a436f-d6k78",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "8:00 p.m.",
+          "artist": "Tara Davidson's The Marni Project w. Florian Hoefner",
+          "ticketUrl": "https://www.therex.ca/events/tara-davidsons-the-marni-project-w-florian-hoeffler",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "5:00 p.m.",
+          "artist": "Matt Endahl Trio",
+          "ticketUrl": "https://www.therex.ca/events/5nwj7iq7ffwi4pagxf82hyiymz7wks",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "8:00 p.m.",
+          "artist": "Tara Davidson's The Marni Project w. Florian Hoefner",
+          "ticketUrl": "https://www.therex.ca/events/tara-davidsons-the-marni-project-w-florian-hoeffler-hbbgt",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "5:00 p.m.",
+          "artist": "Taylor Maslin Quartet",
+          "ticketUrl": "https://www.therex.ca/events/taylor-maslin-quartet-1",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "8:00 p.m.",
+          "artist": "Tara Davidson's The Marni Project w. Florian Hoefner",
+          "ticketUrl": "https://www.therex.ca/events/tara-davidsons-the-marni-project-w-florian-hoeffler-hbbgt-yl5er",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "2:00 p.m.",
+          "artist": "Megacity Big Band",
+          "ticketUrl": "https://www.therex.ca/events/megacity-big-band-1",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "8:00 PM",
-          "artist": "The White Buffalo: Canada 2026 w/ Emmett Jerome",
-          "ticketUrl": "https://www.ticketweb.ca/event/the-white-buffalo-canada-2026-lees-palace-tickets/14053704",
-          "availability": "available",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-09-28",
           "time": "7:00 PM",
@@ -845,6 +899,15 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "8:00 PM",
+          "artist": "Dana and Alden: Papa's Boat Tour w/ Alex Amen",
+          "ticketUrl": "https://www.ticketweb.ca/event/dana-and-alden-papas-boat-lees-palace-tickets/14058434",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -863,7 +926,7 @@
         {
           "date": "2026-10-02",
           "time": "",
-          "artist": "\"EMO AT THE EL MOCAMBO\" When September Ends",
+          "artist": "EMO AT THE EL MOCAMBO",
           "ticketUrl": "https://www.eventbrite.ca/e/emo-at-the-el-mocambo-when-september-ends-oct-2nd-tickets-1995244978441",
           "availability": "",
           "price": "",
@@ -872,17 +935,8 @@
         {
           "date": "2026-10-03",
           "time": "8:00 PM",
-          "artist": "Toronto Blues Fest Founders Night FEATURING: THE JAY BLUES TRIO",
+          "artist": "THE JAY BLUES TRIO",
           "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "",
-          "artist": "AGENT UNDISCLOSED: CAMP X A 70s Drag Show Music Extravaganza",
-          "ticketUrl": "https://jin.imajin.ai/events/e/evt_5b1499f3813945958800ccd3",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -890,20 +944,20 @@
         {
           "date": "2026-10-10",
           "time": "8:00 PM",
-          "artist": "THE HIP EXPERIENCE CELEBRATING THE MUSIC OF THE TRAGICALLY HIP!",
+          "artist": "THE HIP EXPERIENCE",
           "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "rock"
+          "genre": "other"
         },
         {
           "date": "2026-10-14",
           "time": "",
-          "artist": "SUE FOLEY An Intimate Evening",
+          "artist": "SUE FOLEY",
           "ticketUrl": "https://www.ticketweb.ca/event/sue-foley-an-under-the-neon-palms-at-tickets/15008933?pl=elmocambo",
           "availability": "",
           "price": "",
-          "genre": "jazz/blues"
+          "genre": "other"
         },
         {
           "date": "2026-10-15",
@@ -919,15 +973,6 @@
     {
       "id": "scotiabank-arena",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "7:00 PM",
-          "artist": "Rahat Fateh Ali Khan",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064C8A7C0A6AA?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_RAHATFATEHALIKHAN-9/27_682026",
-          "availability": "",
-          "price": "",
-          "genre": "world"
-        },
         {
           "date": "2026-10-01",
           "time": "",
@@ -972,6 +1017,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "7:00 PM",
+          "artist": "Signed to God World Tour Tribute to Sidhu Moose Wala",
+          "ticketUrl": "https://www.ticketmaster.ca/event/10006511E0CE3E99?camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_SIGNEDTOGODWORLDTOUR-10/08_8242026",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1001,15 +1055,6 @@
     {
       "id": "budweiser-stage",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "7:00 PM",
-          "artist": "Logic & G-Eazy: The Endless Summer Tour Part II",
-          "ticketUrl": "https://www.ticketmaster.ca/logic-geazy-the-endless-summer-tour-toronto-ontario-09-27-2026/event/1000649ADB70532F",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-09-28",
           "time": "7:30 PM",
@@ -1051,15 +1096,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "6:00 p.m.",
-          "artist": "Colonel Tom",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-09-28",
           "time": "6:00 p.m.",
@@ -1158,6 +1194,24 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "6:00 p.m.",
+          "artist": "Patrick Brealey",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "6:00 p.m.",
+          "artist": "Joanne Mackell",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -1278,15 +1332,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-09-27",
-          "time": "",
-          "artist": "The Takes",
-          "ticketUrl": "https://thedrake.ca/event/the-takes/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-09-29",
           "time": "",
           "artist": "Pertinence",
@@ -1330,6 +1375,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "",
+          "artist": "Katie Pruitt",
+          "ticketUrl": "https://thedrake.ca/event/katie-pruitt/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1337,10 +1391,10 @@
       "id": "great-hall",
       "events": [
         {
-          "date": "2026-09-27",
+          "date": "2026-09-30",
           "time": "7:00 pm",
-          "artist": "Theo Katzman",
-          "ticketUrl": "https://thegreathall.ca/event/theo-katzman/",
+          "artist": "zolita",
+          "ticketUrl": "https://thegreathall.ca/event/zolita/",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -1350,24 +1404,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "3:00 PM",
-          "artist": "New Orleans Connection All Star Jazz Band",
-          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-118/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "9:00 PM",
-          "artist": "Sunday Jam Night Hosted by Ken Yoshioka",
-          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-ken-yoshioka-2/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-09-30",
           "time": "9:00 PM",
@@ -1403,21 +1439,30 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "3:30 PM",
+          "artist": "The Moving Violations",
+          "ticketUrl": "https://grossmanstavern.com/event/the-moving-violations-5/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "3:00 PM",
+          "artist": "New Orleans Connection All Star Jazz Band",
+          "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-140/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-09-27",
-          "time": "3:00 PM",
-          "artist": "Joy 4 Soul",
-          "ticketUrl": "https://castroslounge.com/event/joy-4-soul-6/",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-10-02",
           "time": "5:30 PM",
@@ -1572,19 +1617,29 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-09-27",
+          "date": "2026-09-29",
           "time": "",
-          "artist": "Judith Lander with The Jeff McLeod Quartet",
-          "ticketUrl": "https://jazzbistro.ca/event/judith-lander-with-the-jeff-mcleod-quartet/",
+          "artist": "Thomas Mason: Duos",
+          "ticketUrl": "https://jazzbistro.ca/event/thomas-mason-duos-5/",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "classical"
         }
       ]
     },
     {
       "id": "rose-theatre-brampton",
-      "events": []
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "3:00 p.m.",
+          "artist": "Ram Ki Leela",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        }
+      ]
     },
     {
       "id": "meridian-hall",
@@ -1655,62 +1710,7 @@
     },
     {
       "id": "burdock",
-      "events": [
-        {
-          "date": "2026-09-27",
-          "time": "7:30 PM",
-          "artist": "Clever Hopes + Rebekah Hawker + Matthew Barber",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-09-28",
-          "time": "7:30 PM",
-          "artist": "Ethan O’Brien: THE FIRST CONCERT (ft. D-Toxx)",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "7:45 PM",
-          "artist": "Jeremy Witten, Marker Starling, and Mark Honestly",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "8:00 PM",
-          "artist": "Age Ain't Nothing But A Number",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "8:00 PM",
-          "artist": "Tristan Armstrong (Trio) / Run Coyote / The Corrados",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "9:00 PM",
-          "artist": "Mind Bath",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        }
-      ]
+      "events": []
     },
     {
       "id": "rec-room-roundhouse",
