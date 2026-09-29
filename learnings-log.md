@@ -292,3 +292,9 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reli
 ## 2026-09-28T16:00:05.128Z
 174 shows / 23 venues with listings
 (model note unavailable this run)
+
+## 2026-09-29T16:00:03.846Z
+195 shows / 24 venues with listings
+Health: Fair; 195 shows captured, but 8 of 32 venues (25%) failed to return data.
+Attention: roy-thomson-hall, koerner-hall, baby-g, monarch-tavern, living-arts-centre, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
+Improvement: Attempt to migrate "model" based extractions to "jsonld" where possible to increase data reliability.
