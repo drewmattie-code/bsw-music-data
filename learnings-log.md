@@ -328,3 +328,9 @@ Improvement: Transition "model" based extractions to "jsonld" where possible to 
 Health: Fair; 187 shows captured, but 10/32 venues failed to return data.
 Attention: roy-thomson-hall, koerner-hall, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, living-arts-centre, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
 Improvement: Transition "model" based venues to "jsonld" where possible to increase reliability and parsing speed.
+
+## 2026-10-05T16:00:03.465Z
+183 shows / 22 venues with listings
+Health: Fair; 183 shows captured, but 10/32 venues (31%) failed to return data.
+Attention: roy-thomson-hall, koerner-hall, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, living-arts-centre, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
+Improvement: Implement a fallback scraper for venues currently marked as "none" to identify if content is hidden in shadow DOMs or requires JS rendering.
