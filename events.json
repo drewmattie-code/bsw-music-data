@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T16:00:03.465Z",
-  "windowStart": "2026-10-05",
-  "windowEnd": "2026-10-26",
+  "generatedAt": "2026-10-06T16:00:05.757Z",
+  "windowStart": "2026-10-06",
+  "windowEnd": "2026-10-27",
   "venues": [
     {
       "id": "massey-hall",
@@ -11,7 +11,7 @@
           "time": "7:30 PM",
           "artist": "Engelbert Humperdinck",
           "ticketUrl": "https://www.ticketmaster.ca/engelbert-humperdinck-toronto-ontario-10-06-2026/event/100064E7D5CEBACD",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "pop"
         },
@@ -96,15 +96,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-10-05",
-          "time": "6:00 PM",
-          "artist": "ARTMS World Tour Art of BLUE BLOOD in Toronto",
-          "ticketUrl": "https://www.ticketmaster.ca/artms-world-tour-art-of-blue-toronto-ontario-10-05-2026/event/100064EEBAA7DE46",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-10-06",
           "time": "7:00 PM",
@@ -397,6 +388,15 @@
           "availability": "available",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "7:00 PM",
+          "artist": "horsegiirL - NATURE IS HEALING TOUR",
+          "ticketUrl": "https://www.ticketmaster.ca/horsegiirl-nature-is-healing-tour-toronto-ontario-10-27-2026/event/1000649C9D53B3FC",
+          "availability": "limited",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -510,6 +510,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "7:00 PM",
+          "artist": "Tyler Braden - Days Of Gold Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/tyler-braden-days-of-gold-tour-toronto-ontario-10-27-2026/event/100064F7988E6BC7",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -530,6 +539,15 @@
           "time": "",
           "artist": "Despised Icon",
           "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/despised-icon/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "6:30pm",
+          "artist": "JPEGMAFIA",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/jpegmafia-2/",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -608,28 +626,10 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-10-05",
-          "time": "5:00 p.m.",
-          "artist": "University of Toronto Student Jazz ENSEMBLES",
-          "ticketUrl": "https://www.therex.ca/events/university-of-toronto-student-jazz-ensembles-8s2bg-al9l6",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "8:00 p.m.",
-          "artist": "York University Faculty All Stars",
-          "ticketUrl": "https://www.therex.ca/events/york-university-faculty-all-stars-tjfcn",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-10-06",
           "time": "5:00 p.m.",
           "artist": "Sean Croal Trio",
-          "ticketUrl": "https://www.therex.ca/events/sean-croal-trio",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -638,7 +638,7 @@
           "date": "2026-10-06",
           "time": "8:00 p.m.",
           "artist": "CLASSIC REX JAZZ JAM",
-          "ticketUrl": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9-dsfga-3tkpm-xra9d-rs6pr",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -647,7 +647,7 @@
           "date": "2026-10-07",
           "time": "5:00 p.m.",
           "artist": "MPM Mojo Organ Trio",
-          "ticketUrl": "https://www.therex.ca/events/mpm-mojo-organ-trio-bio",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -656,7 +656,7 @@
           "date": "2026-10-07",
           "time": "8:00 p.m.",
           "artist": "Andrew Downing Quintet",
-          "ticketUrl": "https://www.therex.ca/events/andrew-downing-quintet",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -665,7 +665,7 @@
           "date": "2026-10-08",
           "time": "5:00 p.m.",
           "artist": "The Mancuso Trio",
-          "ticketUrl": "https://www.therex.ca/events/mancuso-trio",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -674,7 +674,7 @@
           "date": "2026-10-08",
           "time": "8:00 p.m.",
           "artist": "Andrew Downing Quintet",
-          "ticketUrl": "https://www.therex.ca/events/andrew-downing-quintet-8yefb",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -683,7 +683,7 @@
           "date": "2026-10-09",
           "time": "5:00 p.m.",
           "artist": "Lester McLean Band",
-          "ticketUrl": "https://www.therex.ca/events/lester-mclean-4",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "rock"
@@ -692,7 +692,7 @@
           "date": "2026-10-09",
           "time": "8:00 p.m.",
           "artist": "Andrew Downing Quintet",
-          "ticketUrl": "https://www.therex.ca/events/andrew-downing-quintet-8yefb-tb6js",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -701,7 +701,7 @@
           "date": "2026-10-10",
           "time": "1:30 p.m.",
           "artist": "the Wintergarten Orchestra",
-          "ticketUrl": "https://www.therex.ca/events/wintergarten-orchestra",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "classical"
@@ -711,15 +711,6 @@
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-10-05",
-          "time": "7:00 PM",
-          "artist": "The Jungle Giants",
-          "ticketUrl": "https://www.ticketmaster.ca/the-jungle-giants-toronto-ontario-10-05-2026/event/100064B387D55359",
-          "availability": "available",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-10-07",
           "time": "8:00 PM",
@@ -863,7 +854,7 @@
         {
           "date": "2026-10-07",
           "time": "",
-          "artist": "AGENT UNDISCLOSED: CAMP X A 70s Drag Show Music Extravaganza",
+          "artist": "AGENT UNDISCLOTHED: CAMP X A 70s Drag Show Music Extravaganza",
           "ticketUrl": "https://jin.imajin.ai/events/e/evt_5b1499f3813945958800ccd3",
           "availability": "",
           "price": "",
@@ -895,6 +886,15 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "",
+          "artist": "THE NEW CLASSIC ENTER THE COSMOS",
+          "ticketUrl": "https://pweent.com/events/6a6254b6aa3e5bdf2280e543",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         },
         {
           "date": "2026-10-23",
@@ -931,21 +931,21 @@
           "availability": "",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "7:00 PM",
+          "artist": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
+          "ticketUrl": "https://bughunterbug.com/products/toronto-canada-bug-hunter-the-narcissist-cookbook-jam-mechanics-ticket",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "scotiabank-arena",
       "events": [
-        {
-          "date": "2026-10-05",
-          "time": "7:00 PM",
-          "artist": "Teddy Swims",
-          "ticketUrl": "https://www.ticketmaster.ca/event/1000648D929F6B7D?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_TEDDYSWIMS-10/05_4162026",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-10-07",
           "time": "7:00 PM",
@@ -970,15 +970,6 @@
       "id": "coca-cola-coliseum",
       "events": [
         {
-          "date": "2026-10-05",
-          "time": "7:00 PM",
-          "artist": "Steve Lacy",
-          "ticketUrl": "https://www.ticketmaster.ca/event/1000650590FD98AB?camefrom=CFC_COCACOLA_WEB_SCHEDULEPAGE_LINK_STEVELACY-10/05_8112026",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-10-09",
           "time": "8:00 PM",
           "artist": "BRAND NEW",
@@ -996,15 +987,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-10-05",
-          "time": "6:00 p.m.",
-          "artist": "Laura Hubert",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-06",
           "time": "7:00 p.m.",
@@ -1184,6 +1166,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "6:00 p.m.",
+          "artist": "Matt Weidinger",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1286,15 +1277,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-10-05",
-          "time": "",
-          "artist": "Kiefer",
-          "ticketUrl": "https://thedrake.ca/event/kiefer/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-10-06",
           "time": "",
           "artist": "Bebe Stockwell",
@@ -1320,6 +1302,15 @@
           "availability": "",
           "price": "",
           "genre": "classical"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "",
+          "artist": "Romance Planet",
+          "ticketUrl": "https://thedrake.ca/event/romance-planet/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1427,8 +1418,8 @@
           "genre": "other"
         },
         {
-          "date": "2026-10-11",
-          "time": "5:00 PM",
+          "date": "2026-10-12",
+          "time": "3:00 PM",
           "artist": "Isaak Bonk &#038; The Roast Chicken Ramblers",
           "ticketUrl": "https://castroslounge.com/event/isaak-bonk-the-roast-chicken-ramblers-16/",
           "availability": "",
@@ -1567,7 +1558,7 @@
         },
         {
           "date": "2026-10-15",
-          "time": "",
+          "time": "8:00 PM",
           "artist": "Ann Hampton Callaway “Sirens of Swing”",
           "ticketUrl": "https://www.showpass.com/ann-hampton-callaway-sirens-of-swing/",
           "availability": "",
@@ -1591,6 +1582,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "8PM",
+          "artist": "Newfoundland Songbook Live at Hugh's Room",
+          "ticketUrl": "https://www.showpass.com/newfoundland-songbook-by-shipyard-kitchen-party/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         },
         {
           "date": "2026-10-18",
@@ -1654,6 +1654,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "",
+          "artist": "Marshall Crenshaw",
+          "ticketUrl": "https://www.showpass.com/marshall-crenshaw-with-special-guests-sarah-borges-and-eric-amble/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1679,15 +1688,6 @@
       "id": "meridian-hall",
       "events": [
         {
-          "date": "2026-10-05",
-          "time": "7:00 PM",
-          "artist": "Modest Mouse",
-          "ticketUrl": "https://www.ticketmaster.ca/modest-mouse-toronto-ontario-10-05-2026/event/1000648FC62860E2",
-          "availability": "available",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-10-08",
           "time": "6:00 PM",
           "artist": "Lenny Pearce - Toddler Rave World Tour",
@@ -1701,7 +1701,7 @@
           "time": "7:30 PM",
           "artist": "Dan and Phil: Hard Launch World Tour",
           "ticketUrl": "https://www.ticketmaster.ca/dan-and-phil-hard-launch-world-toronto-ontario-10-09-2026/event/100064D3C7A155CE",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -1744,53 +1744,7 @@
     },
     {
       "id": "burdock",
-      "events": [
-        {
-          "date": "2026-10-06",
-          "time": "8:00 PM",
-          "artist": "Hannah Sandoz w/ Else + June Hawthorn",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "7:30 PM",
-          "artist": "Lloyd Spiegel",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "8:00 PM",
-          "artist": "Cat Punch, with Brett Jericho and OKOK",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "9:00 PM",
-          "artist": "FemBots with Jenny Omnichord",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "7:30 PM",
-          "artist": "Hendrika & Emma Worley",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "classical"
-        }
-      ]
+      "events": []
     },
     {
       "id": "rec-room-roundhouse",
