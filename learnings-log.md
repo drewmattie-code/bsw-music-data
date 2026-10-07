@@ -338,3 +338,7 @@ Improvement: Implement a fallback scraper for venues currently marked as "none" 
 ## 2026-10-06T16:00:05.757Z
 178 shows / 21 venues with listings
 (model note unavailable this run)
+
+## 2026-10-07T16:00:03.089Z
+181 shows / 22 venues with listings
+(model note unavailable this run)
