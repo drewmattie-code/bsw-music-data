@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T16:00:03.089Z",
-  "windowStart": "2026-10-07",
-  "windowEnd": "2026-10-28",
+  "generatedAt": "2026-10-08T16:00:05.469Z",
+  "windowStart": "2026-10-08",
+  "windowEnd": "2026-10-29",
   "venues": [
     {
       "id": "massey-hall",
@@ -87,15 +87,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "7:00 PM",
-          "artist": "Kelela: new avatar live",
-          "ticketUrl": "https://www.ticketmaster.ca/kelela-new-avatar-live-toronto-ontario-10-07-2026/event/100064BBB5ADA635",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-10-08",
           "time": "8:00 PM",
@@ -239,6 +230,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "7:00 PM",
+          "artist": "L7: The Last Hurrah Tour 2026",
+          "ticketUrl": "https://www.ticketmaster.ca/l7-the-last-hurrah-tour-2026-toronto-ontario-10-29-2026/event/100064A5B374E6C5",
+          "availability": "",
+          "price": "",
+          "genre": "metal/punk"
         }
       ]
     },
@@ -246,20 +246,11 @@
       "id": "history",
       "events": [
         {
-          "date": "2026-10-07",
-          "time": "7:00 PM",
-          "artist": "DJ Shadow Celebrates 30 Years of Endtroducing",
-          "ticketUrl": "https://www.ticketmaster.ca/dj-shadow-celebrates-30-years-of-toronto-ontario-10-07-2026/event/10006498ADBC5B1F",
-          "availability": "available",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
           "date": "2026-10-08",
           "time": "8:00 PM",
           "artist": "Prospa",
           "ticketUrl": "https://www.ticketmaster.ca/prospa-toronto-ontario-10-08-2026/event/1000652A172424D8",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "electronic"
         },
@@ -388,21 +379,21 @@
           "availability": "limited",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "7:00 PM",
+          "artist": "kwn: wn night only",
+          "ticketUrl": "https://www.ticketmaster.ca/kwn-wn-night-only-toronto-ontario-10-29-2026/event/1000652241595D8F",
+          "availability": "limited",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
     {
       "id": "opera-house",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "7:00 PM",
-          "artist": "Julia Wolf - Deep End World Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/julia-wolf-deep-end-world-tour-toronto-ontario-10-07-2026/event/10006481B5B3CF24",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-10-08",
           "time": "7:00 PM",
@@ -519,6 +510,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "7:00 PM",
+          "artist": "CUNTRESSAS in TORONTO",
+          "ticketUrl": "https://www.ticketmaster.ca/cuntressas-in-toronto-toronto-ontario-10-29-2026/event/100064E10D4AC580",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -538,7 +538,7 @@
           "date": "2026-10-11",
           "time": "",
           "artist": "Despised Icon",
-          "ticketUrl": "",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/despised-icon/",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -569,6 +569,15 @@
           "availability": "",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "7:00pm",
+          "artist": "Cureapalooza V8 featuring The Sheepdogs!",
+          "ticketUrl": "https://thephoenixconcerttheatre.com/events/event/cureapalooza-v8-featuring-the-sheepdogs/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -625,24 +634,6 @@
     {
       "id": "the-rex",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "5:00 p.m.",
-          "artist": "MPM Mojo Organ Trio",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "8:00 p.m.",
-          "artist": "Andrew Downing Quintet",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-10-08",
           "time": "5:00 p.m.",
@@ -705,21 +696,30 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "11:00 p.m.",
+          "artist": "Jason Jones",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "2:00 p.m.",
+          "artist": "Donné Roberts",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "8:00 PM",
-          "artist": "Armand Hammer",
-          "ticketUrl": "https://www.ticketweb.ca/event/armand-hammer-lees-palace-tickets/13990314",
-          "availability": "available",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
         {
           "date": "2026-10-08",
           "time": "8:00 PM",
@@ -786,11 +786,11 @@
         {
           "date": "2026-10-18",
           "time": "8:00 PM",
-          "artist": "meat computer with special guests",
-          "ticketUrl": "https://www.ticketweb.ca/event/meat-computer-with-special-guests-lees-palace-tickets/14292844",
+          "artist": "meat computer with cascade___windows (indiesleaze)",
+          "ticketUrl": "https://www.ticketweb.ca/event/meat-computer-with-cascadewindows-indiesleaze-lees-palace-tickets/14292844",
           "availability": "available",
           "price": "",
-          "genre": "other"
+          "genre": "electronic"
         },
         {
           "date": "2026-10-19",
@@ -845,6 +845,15 @@
           "availability": "available",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "8:30 PM",
+          "artist": "Rangarang Live Vol. 2: Halloween",
+          "ticketUrl": "https://www.ticketweb.ca/event/rangarang-live-vol-2-halloween-lees-palace-tickets/14355844",
+          "availability": "available",
+          "price": "",
+          "genre": "world"
         }
       ]
     },
@@ -852,31 +861,22 @@
       "id": "el-mocambo",
       "events": [
         {
-          "date": "2026-10-07",
-          "time": "",
-          "artist": "AGENT UNDISCLOTHED: CAMP X A 70s Drag Show Music Extravaganza",
-          "ticketUrl": "https://jin.imajin.ai/events/e/evt_5b1499f3813945958800ccd3",
+          "date": "2026-10-10",
+          "time": "8:00 PM",
+          "artist": "THE HIP EXPERIENCE",
+          "ticketUrl": "",
           "availability": "",
           "price": "",
           "genre": "other"
         },
         {
-          "date": "2026-10-10",
-          "time": "8:00 PM",
-          "artist": "THE HIP EXPERIENCE CELEBRATING THE MUSIC OF THE TRAGICALLY HIP!",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-10-14",
           "time": "",
-          "artist": "SUE FOLEY An Intimate Evening",
+          "artist": "SUE FOLEY",
           "ticketUrl": "https://www.ticketweb.ca/event/sue-foley-an-under-the-neon-palms-at-tickets/15008933?pl=elmocambo",
           "availability": "",
           "price": "",
-          "genre": "jazz/blues"
+          "genre": "other"
         },
         {
           "date": "2026-10-15",
@@ -892,15 +892,6 @@
           "time": "",
           "artist": "THE NEW CLASSIC ENTER THE COSMOS",
           "ticketUrl": "https://pweent.com/events/6a6254b6aa3e5bdf2280e543",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "",
-          "artist": "TYNOMI BANKS Bombshelled",
-          "ticketUrl": "https://www.eventbrite.com/e/tynomi-banks-bombshelled-tickets-2002671173390?aff=oddtdtcreator",
           "availability": "",
           "price": "",
           "genre": "other"
@@ -935,7 +926,7 @@
         {
           "date": "2026-10-24",
           "time": "",
-          "artist": "SHAMOON ISMAIL LIVE UNDER THE NEON PALMS",
+          "artist": "SHAMOON ISMAIL",
           "ticketUrl": "https://buytickets.at/shamoonismail/2384983",
           "availability": "",
           "price": "",
@@ -955,15 +946,6 @@
     {
       "id": "scotiabank-arena",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "7:00 PM",
-          "artist": "beabadoobee",
-          "ticketUrl": "https://www.ticketmaster.ca/event/100064D1BDBFF46B?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_BEABADOOBEE-10/07_6242026",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-09",
           "time": "7:00 PM",
@@ -996,15 +978,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "6:00 p.m.",
-          "artist": "Golden Country Classics",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-10-08",
           "time": "6:00 p.m.",
@@ -1184,21 +1157,21 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "6:00 p.m.",
+          "artist": "Corin Raymond",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "the-rivoli",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "",
-          "artist": "The November Project",
-          "ticketUrl": "https://www.eventbrite.ca/e/the-november-project-tickets-1999629146606?aff=Rivoli",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-10",
           "time": "",
@@ -1277,15 +1250,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-10-07",
-          "time": "",
-          "artist": "Katie Pruitt",
-          "ticketUrl": "https://thedrake.ca/event/katie-pruitt/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-10-08",
           "time": "",
           "artist": "Johann",
@@ -1302,6 +1266,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "",
+          "artist": "Jahson Paynter",
+          "ticketUrl": "https://thedrake.ca/event/jahson-paynter/",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
@@ -1322,15 +1295,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-10-07",
-          "time": "9:00 PM",
-          "artist": "Action Sound Band",
-          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-124/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-10-08",
           "time": "9:00 PM",
@@ -1372,6 +1336,15 @@
           "time": "3:00 PM",
           "artist": "New Orleans Connection All Star Jazz Band",
           "ticketUrl": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-139/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "9:00 PM",
+          "artist": "Sunday Jam Night Hosted by Rob Quail",
+          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-rob-quail-28/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1636,6 +1609,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "",
+          "artist": "Tom Allen & Lori Gemmel's Edgar Allen Poe Cabaret",
+          "ticketUrl": "https://www.showpass.com/stevie-wonder-songs-in-the-key-of-life/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -1643,13 +1625,13 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "time": "",
-          "artist": "JB Piano Bar: Peter Hill",
-          "ticketUrl": "https://jazzbistro.ca/event/jb-piano-bar-peter-hill-22/",
+          "artist": "Alyssa Giammaria Duos",
+          "ticketUrl": "https://jazzbistro.ca/event/alyssa-giammaria-duos-2/",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1719,15 +1701,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-10-07",
-          "time": "7:30 PM",
-          "artist": "Lloyd Spiegel",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-10-08",
           "time": "8:00 PM",
           "artist": "Cat Punch, with Brett Jericho and OKOK",
@@ -1771,6 +1744,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "9:00 PM",
+          "artist": "Spencer Burton",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
