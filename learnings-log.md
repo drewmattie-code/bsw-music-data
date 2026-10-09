@@ -348,3 +348,9 @@ Improvement: Implement a fallback scraper for venues currently marked as "none" 
 Health: Fair; 179 shows captured, but 10/32 venues (31%) returned zero results.
 Attention: roy-thomson-hall, koerner-hall, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, living-arts-centre, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
 Improvement: Audit the 10 failing venues to determine if they require new JSON-LD selectors or a transition to the 'model' extraction method.
+
+## 2026-10-09T16:00:06.500Z
+181 shows / 23 venues with listings
+Overall health: Stable, capturing 181 shows across 72% of venues.
+Attention needed: roy-thomson-hall, koerner-hall, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
+Improvement: Audit the "model" extraction method to see if JSON-LD can be implemented for higher reliability.
