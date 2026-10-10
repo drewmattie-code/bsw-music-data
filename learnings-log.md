@@ -354,3 +354,9 @@ Improvement: Audit the 10 failing venues to determine if they require new JSON-L
 Overall health: Stable, capturing 181 shows across 72% of venues.
 Attention needed: roy-thomson-hall, koerner-hall, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
 Improvement: Audit the "model" extraction method to see if JSON-LD can be implemented for higher reliability.
+
+## 2026-10-10T16:00:02.705Z
+167 shows / 22 venues with listings
+Health: Fair; 167 shows captured, but 10/32 venues returned zero results.
+Attention: roy-thomson-hall, koerner-hall, scotiabank-arena, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, hughs-room-live, adelaide-hall, and rogers-stadium.
+Improvement: Implement camofox or jsonld parsing for the high-volume venues currently relying on the model to increase reliability.
