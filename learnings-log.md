@@ -366,3 +366,9 @@ Improvement: Implement camofox or jsonld parsing for the high-volume venues curr
 Overall health: Fair; 180 shows captured, but 10/32 venues (31%) returned zero results.
 Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, scotiabank-arena, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, and rogers-stadium.
 Improvement: Implement a JSON-LD parser for the remaining "model" and "camofox" venues to standardize data extraction.
+
+## 2026-10-12T16:00:02.474Z
+174 shows / 22 venues with listings
+Overall health: Fair; 174 shows captured, but 10/32 venues (31%) failed to return data.
+Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, scotiabank-arena, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, and rogers-stadium.
+Improvement: Attempt to migrate "model" based venues to "jsonld" to increase data reliability and parsing speed.
