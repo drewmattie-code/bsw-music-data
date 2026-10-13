@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T16:00:02.474Z",
-  "windowStart": "2026-10-12",
-  "windowEnd": "2026-11-02",
+  "generatedAt": "2026-10-13T16:00:04.773Z",
+  "windowStart": "2026-10-13",
+  "windowEnd": "2026-11-03",
   "venues": [
     {
       "id": "massey-hall",
@@ -68,15 +68,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-10-12",
-          "time": "7:00 PM",
-          "artist": "The Linda Lindas",
-          "ticketUrl": "https://www.ticketmaster.ca/the-linda-lindas-toronto-ontario-10-12-2026/event/100064EACED437BD",
-          "availability": "",
-          "price": "",
-          "genre": "metal/punk"
-        },
         {
           "date": "2026-10-13",
           "time": "7:00 PM",
@@ -360,6 +351,15 @@
           "availability": "available",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "7:00 PM",
+          "artist": "Geese - Getting Killed Again Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/geese-getting-killed-again-tour-toronto-ontario-11-03-2026/event/10006494A6759D57",
+          "availability": "limited",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -491,6 +491,15 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "7:00 PM",
+          "artist": "New Constellations: It Comes In Waves Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/new-constellations-it-comes-in-waves-toronto-ontario-11-03-2026/event/100064DAF148D079",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -539,20 +548,11 @@
       "id": "horseshoe-tavern",
       "events": [
         {
-          "date": "2026-10-12",
-          "time": "6:30 PM",
-          "artist": "Lucinda Williams and her band",
-          "ticketUrl": "https://www.ticketweb.ca/event/lucinda-williams-and-her-band-the-horseshoe-tavern-tickets/14245934",
-          "availability": "available",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-10-13",
           "time": "8:00 PM",
           "artist": "ZACH JOHN KING: GET TO DRINKIN' TOUR",
           "ticketUrl": "https://www.ticketmaster.ca/zach-john-king-get-to-drinkin-toronto-ontario-10-13-2026/event/100064A58C526BD0",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "country/folk"
         },
@@ -588,24 +588,6 @@
     {
       "id": "the-rex",
       "events": [
-        {
-          "date": "2026-10-12",
-          "time": "5:00 p.m.",
-          "artist": "University of Toronto Student Jazz ENSEMBLES",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "8:00 p.m.",
-          "artist": "Horace Silver Flutes group",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-10-13",
           "time": "5:00 p.m.",
@@ -653,6 +635,51 @@
         },
         {
           "date": "2026-10-15",
+          "time": "8:00 p.m.",
+          "artist": "Joe Policastro Trio",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "5:00 p.m.",
+          "artist": "Tim Posgate",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "8:00 p.m.",
+          "artist": "Joe Policastro Trio",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "2:00 p.m.",
+          "artist": "Diane Roblin's Life Force",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "5:00 p.m.",
+          "artist": "AMOT Orchestra",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "classical"
+        },
+        {
+          "date": "2026-10-17",
           "time": "8:00 p.m.",
           "artist": "Joe Policastro Trio",
           "ticketUrl": "",
@@ -894,15 +921,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-10-12",
-          "time": "6:00 p.m.",
-          "artist": "Jon Brooks",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-10-13",
           "time": "6:00 p.m.",
@@ -1166,15 +1184,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-10-12",
-          "time": "",
-          "artist": "Jamie Webster",
-          "ticketUrl": "https://thedrake.ca/event/jamie-webster/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
-        {
           "date": "2026-10-14",
           "time": "",
           "artist": "Jai'Len Josey",
@@ -1288,15 +1297,6 @@
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-10-12",
-          "time": "3:00 PM",
-          "artist": "Isaak Bonk &#038; The Roast Chicken Ramblers",
-          "ticketUrl": "https://castroslounge.com/event/isaak-bonk-the-roast-chicken-ramblers-16/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-10-13",
           "time": "7:00 PM",
@@ -1637,15 +1637,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-10-12",
-          "time": "7:30 PM",
-          "artist": "Hendrika & Emma Worley",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "classical"
-        },
-        {
           "date": "2026-10-13",
           "time": "8:00 PM",
           "artist": "Joce Reyome",
@@ -1682,38 +1673,19 @@
           "genre": "jazz/blues"
         },
         {
-          "date": "2026-10-19",
-          "time": "7:30 PM",
-          "artist": "Jane & Kyle",
+          "date": "2026-10-20",
+          "time": "8:00 PM",
+          "artist": "Snag w/ Scott Goodwin",
           "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "country/folk"
+          "genre": "other"
         }
       ]
     },
     {
       "id": "rec-room-roundhouse",
-      "events": [
-        {
-          "date": "2026-10-31",
-          "time": "",
-          "artist": "La House Halloween",
-          "ticketUrl": "https://www.therecroom.com/toronto-roundhouse/entertainment/la-house-halloween/1716",
-          "availability": "",
-          "price": "",
-          "genre": "electronic"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "",
-          "artist": "The Monster s Ball",
-          "ticketUrl": "https://www.therecroom.com/toronto-roundhouse/entertainment/the-monsters-ball/2469",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        }
-      ]
+      "events": []
     },
     {
       "id": "rogers-stadium",
