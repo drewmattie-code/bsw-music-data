@@ -378,3 +378,9 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" to increase dat
 Health: Fair; 171 shows captured, but 11/32 venues (34%) failed to return data.
 Attention: roy-thomson-hall, koerner-hall, td-music-hall, scotiabank-arena, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
 Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" where possible to increase reliability.
+
+## 2026-10-14T16:00:02.587Z
+147 shows / 19 venues with listings
+Health: Fair; 147 shows captured, but only 19/32 venues (59%) are yielding data.
+Attention: The Rex and El Mocambo (errors), and 11 venues returning zero results.
+Improvement: Test the 'jsonld' or 'camofox' methods on the 11 empty venues to replace 'none' sources.
