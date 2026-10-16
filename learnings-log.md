@@ -390,3 +390,9 @@ Improvement: Test the 'jsonld' or 'camofox' methods on the 11 empty venues to re
 Overall health: Fair; 171 shows captured, but 10 of 32 venues (31%) failed to return data.
 Attention needed: roy-thomson-hall, koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rec-room-roundhouse, and rogers-stadium.
 Improvement: Implement camofox or a headless browser for the 10 failing venues to bypass potential bot detection.
+
+## 2026-10-16T16:00:02.771Z
+173 shows / 23 venues with listings
+Overall health: Stable, capturing 173 shows across 72% of venues.
+Attention needed: 9 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rec-room-roundhouse, rogers-stadium).
+Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for better reliability and parsing speed.
