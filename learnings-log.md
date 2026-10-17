@@ -396,3 +396,9 @@ Improvement: Implement camofox or a headless browser for the 10 failing venues t
 Overall health: Stable, capturing 173 shows across 72% of venues.
 Attention needed: 9 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rec-room-roundhouse, rogers-stadium).
 Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for better reliability and parsing speed.
+
+## 2026-10-17T16:00:03.585Z
+171 shows / 22 venues with listings
+Health: 171 shows captured; 22/32 venues active (68% success rate).
+Attention: 10 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, adelaide-hall, rec-room-roundhouse, rogers-stadium).
+Improvement: Migrate "model" based venues to "jsonld" where available to increase data reliability.

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T16:00:02.771Z",
-  "windowStart": "2026-10-16",
-  "windowEnd": "2026-11-06",
+  "generatedAt": "2026-10-17T16:00:03.585Z",
+  "windowStart": "2026-10-17",
+  "windowEnd": "2026-11-07",
   "venues": [
     {
       "id": "massey-hall",
@@ -23,6 +23,15 @@
           "availability": "available",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "8:00 PM",
+          "artist": "Ólafur Arnalds",
+          "ticketUrl": "https://www.ticketmaster.ca/olafur-arnalds-toronto-ontario-11-07-2026/event/1000642C96163FF9",
+          "availability": "available",
+          "price": "",
+          "genre": "classical"
         }
       ]
     },
@@ -51,15 +60,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "7:00 PM",
-          "artist": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
-          "ticketUrl": "https://www.ticketmaster.ca/sanctuary-park-tour-celebrating-40-years-toronto-ontario-10-16-2026/event/100064D1D94E7213",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-10-17",
           "time": "7:00 PM",
@@ -185,6 +185,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "7:00 PM",
+          "artist": "MICO: Running From A Feeling Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/mico-running-from-a-feeling-tour-toronto-ontario-11-07-2026/event/100064B5EA5CD974",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -192,20 +201,11 @@
       "id": "history",
       "events": [
         {
-          "date": "2026-10-16",
-          "time": "8:00 PM",
-          "artist": "BUNT. - In The Toronto Round",
-          "ticketUrl": "https://www.ticketmaster.ca/bunt-in-the-toronto-round-toronto-ontario-10-16-2026/event/1000649DBC0EB16D",
-          "availability": "limited",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-10-17",
           "time": "8:00 PM",
           "artist": "BUNT. - In The Toronto Round",
           "ticketUrl": "https://www.ticketmaster.ca/bunt-in-the-toronto-round-toronto-ontario-10-17-2026/event/1000649DBC11B177",
-          "availability": "limited",
+          "availability": "available",
           "price": "",
           "genre": "other"
         },
@@ -368,15 +368,6 @@
       "id": "opera-house",
       "events": [
         {
-          "date": "2026-10-16",
-          "time": "7:00 PM",
-          "artist": "Carly Pearce - Honest Woman: Up Close - Presented by Conundrum Wines",
-          "ticketUrl": "https://www.ticketmaster.ca/carly-pearce-honest-woman-up-close-toronto-ontario-10-16-2026/event/100064D5222C8AD6",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-10-17",
           "time": "6:30 PM",
           "artist": "Castle Rat: Summon The Beasts Tour 2026",
@@ -501,6 +492,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "7:00 PM",
+          "artist": "Rock with Love 5 featuring Dwayne Gretzky",
+          "ticketUrl": "https://www.ticketweb.ca/event/rock-with-love-5-featuring-the-opera-house-tickets/15047813?REFERRAL_ID=tmfeed",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -599,24 +599,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-10-16",
-          "time": "5:00 p.m.",
-          "artist": "Tim Posgate",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-10-16",
-          "time": "8:00 p.m.",
-          "artist": "Joe Policastro Trio",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-10-17",
           "time": "2:00 p.m.",
           "artist": "Diane Roblin's Life Force",
@@ -702,15 +684,6 @@
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "10:00 PM",
-          "artist": "Lukas & Frank - Toronto",
-          "ticketUrl": "https://www.ticketweb.ca/event/lukas-frank-lees-palace-tickets/15026143",
-          "availability": "available",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-10-17",
           "time": "9:00 PM",
@@ -806,6 +779,15 @@
           "time": "9:00 PM",
           "artist": "Bad Waitress with Special Guests",
           "ticketUrl": "https://www.ticketweb.ca/event/bad-waitress-with-special-guests-lees-palace-tickets/14245774",
+          "availability": "available",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "8:00 PM",
+          "artist": "SYDNEY with Shotgun Rules & Sky Caught Fire",
+          "ticketUrl": "https://www.ticketweb.ca/event/sydney-with-shotgun-rules-lees-palace-tickets/14913673",
           "availability": "available",
           "price": "",
           "genre": "rock"
@@ -909,6 +891,24 @@
           "availability": "",
           "price": "",
           "genre": "electronic"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "",
+          "artist": "Olivia Rodrigo",
+          "ticketUrl": "https://www.ticketmaster.ca/artist/2836194?venueId=131157",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "",
+          "artist": "Olivia Rodrigo",
+          "ticketUrl": "https://www.ticketmaster.ca/artist/2836194?venueId=131157",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -923,15 +923,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "6:00 p.m.",
-          "artist": "The Odd Country",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-10-17",
           "time": "6:00 p.m.",
@@ -1084,21 +1075,21 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "6:00 p.m.",
+          "artist": "John Borra Band",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "the-rivoli",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "",
-          "artist": "Sam Casey w/ Solid Body Contact & MEAVE",
-          "ticketUrl": "https://www.eventbrite.ca/e/sam-casey-ep-release-show-tickets-1998931272245?aff=RivoliWebsite",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-10-17",
           "time": "",
@@ -1179,21 +1170,30 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "",
+          "artist": "Mia Kelly with Basset",
+          "ticketUrl": "https://events.humanitix.com/mia-kelly-live-at-the-rivoli-with-special-guests-basset",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "",
+          "artist": "soreloser with Johnson Street Band & The Morays",
+          "ticketUrl": "https://www.eventbrite.ca/e/soreloser-with-johnson-street-band-the-morays-tickets-2002392019433?aff=RivWebsite",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
     {
       "id": "drake-underground",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "",
-          "artist": "TootArd",
-          "ticketUrl": "https://thedrake.ca/event/tootard/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-10-17",
           "time": "",
@@ -1220,6 +1220,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "",
+          "artist": "Le Ren",
+          "ticketUrl": "https://thedrake.ca/event/le-ren/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1240,24 +1249,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "6:00 PM",
-          "artist": "Hold the Bus",
-          "ticketUrl": "https://grossmanstavern.com/event/hold-the-bus-16/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
-          "date": "2026-10-16",
-          "time": "9:30 PM",
-          "artist": "Snooky Tynes",
-          "ticketUrl": "https://grossmanstavern.com/event/snooky-tynes-6/",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-10-17",
           "time": "3:30 PM",
@@ -1293,21 +1284,30 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "9:00 PM",
+          "artist": "Action Sound Band",
+          "ticketUrl": "https://grossmanstavern.com/event/action-sound-band-126/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "8:00 PM",
+          "artist": "The 4th Open Mic",
+          "ticketUrl": "https://grossmanstavern.com/event/the-4th-open-mic-31/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "castros-lounge",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "5:30 PM",
-          "artist": "Fraser / Daley",
-          "ticketUrl": "https://castroslounge.com/event/fraser-daley-81/",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-10-17",
           "time": "4:00 PM",
@@ -1421,22 +1421,13 @@
       "id": "hughs-room-live",
       "events": [
         {
-          "date": "2026-10-16",
-          "time": "8:00 PM",
-          "artist": "Stevie Wonder Songs In The Key of Life 50th",
-          "ticketUrl": "https://www.showpass.com/stevie-wonder-songs-in-the-key-of-life/",
-          "availability": "",
-          "price": "",
-          "genre": "hip-hop/r&b"
-        },
-        {
           "date": "2026-10-17",
           "time": "4:00 PM",
-          "artist": "Newfoundland Songbook",
+          "artist": "Newfoundland Songbook by Shipyard Kitchen Party",
           "ticketUrl": "https://www.showpass.com/newfoundland-songbook-by-shipyard-kitchen-party-4pm-show/",
           "availability": "",
           "price": "",
-          "genre": "other"
+          "genre": "country/folk"
         },
         {
           "date": "2026-10-17",
@@ -1579,10 +1570,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-17",
           "time": "",
-          "artist": "The Mezz Trio",
-          "ticketUrl": "https://jazzbistro.ca/event/the-mezz-trio-3/",
+          "artist": "The Tim Hamel Quartet",
+          "ticketUrl": "https://jazzbistro.ca/event/the-tim-hamel-quartets-all-request-power-hour-155/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1591,36 +1582,17 @@
     },
     {
       "id": "rose-theatre-brampton",
-      "events": [
-        {
-          "date": "2026-10-16",
-          "time": "7:30 p.m.",
-          "artist": "Bluebird Brampton",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        }
-      ]
+      "events": []
     },
     {
       "id": "meridian-hall",
       "events": [
         {
-          "date": "2026-10-16",
-          "time": "7:30 PM",
-          "artist": "How to Train Your Dragon 2 in Concert",
-          "ticketUrl": "https://www.ticketmaster.ca/how-to-train-your-dragon-2-toronto-ontario-10-16-2026/event/10006443F265F7BF",
-          "availability": "available",
-          "price": "",
-          "genre": "classical"
-        },
-        {
           "date": "2026-10-17",
           "time": "2:00 PM",
           "artist": "How to Train Your Dragon 2 in Concert",
           "ticketUrl": "https://www.ticketmaster.ca/how-to-train-your-dragon-2-toronto-ontario-10-17-2026/event/10006443F26AF7C5",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "classical"
         },
@@ -1641,6 +1613,15 @@
           "availability": "available",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "8:00 PM",
+          "artist": "Everybody Knows Leonard Cohen: 10th Anniversary Concert Celebration",
+          "ticketUrl": "https://www.ticketmaster.ca/everybody-knows-leonard-cohen-10th-anniversary-toronto-ontario-11-07-2026/event/100064E1E1815048",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1665,15 +1646,6 @@
     {
       "id": "burdock",
       "events": [
-        {
-          "date": "2026-10-16",
-          "time": "9:00 PM",
-          "artist": "Spencer Burton",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
         {
           "date": "2026-10-18",
           "time": "8:00 PM",
@@ -1700,6 +1672,15 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "8:00 PM",
+          "artist": "summersets w/ Fire + The Wolf",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
