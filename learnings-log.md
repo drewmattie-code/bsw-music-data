@@ -402,3 +402,9 @@ Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for be
 Health: 171 shows captured; 22/32 venues active (68% success rate).
 Attention: 10 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, rose-theatre-brampton, adelaide-hall, rec-room-roundhouse, rogers-stadium).
 Improvement: Migrate "model" based venues to "jsonld" where available to increase data reliability.
+
+## 2026-10-18T16:00:02.802Z
+160 shows / 23 venues with listings
+Overall health: 72% venue coverage with 160 shows captured.
+Attention needed: 9 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rec-room-roundhouse, rogers-stadium).
+Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.
