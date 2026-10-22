@@ -424,3 +424,7 @@ Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for be
 ## 2026-10-21T16:00:05.928Z
 168 shows / 24 venues with listings
 (model note unavailable this run)
+
+## 2026-10-22T16:00:02.871Z
+171 shows / 24 venues with listings
+(model note unavailable this run)
