@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T16:00:02.871Z",
-  "windowStart": "2026-10-22",
-  "windowEnd": "2026-11-12",
+  "generatedAt": "2026-10-23T16:00:02.372Z",
+  "windowStart": "2026-10-23",
+  "windowEnd": "2026-11-13",
   "venues": [
     {
       "id": "massey-hall",
@@ -41,6 +41,15 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "7:30 PM",
+          "artist": "Bassem Youssef: The Belly of the Beast Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/bassem-youssef-the-belly-of-the-toronto-ontario-11-13-2026/event/10006465D71D6FF7",
+          "availability": "available",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -69,15 +78,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "6:00 PM",
-          "artist": "Plini - An Unnameable Desire North American Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/plini-an-unnameable-desire-north-american-toronto-ontario-10-22-2026/event/100064B7AD8C2746",
-          "availability": "",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-10-24",
           "time": "6:30 PM",
@@ -203,6 +203,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "5:45 PM",
+          "artist": "Laura Ramoso: The Calm Down Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/laura-ramoso-the-calm-down-tour-toronto-ontario-11-13-2026/event/1000646ABCB0BA6D",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -214,7 +223,7 @@
           "time": "7:00 PM",
           "artist": "MIKE.",
           "ticketUrl": "https://www.ticketmaster.ca/mike-toronto-ontario-10-23-2026/event/10006493D6F69061",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "hip-hop/r&b"
         },
@@ -361,6 +370,15 @@
           "availability": "available",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "8:00 PM",
+          "artist": "it's murph: Fade Into Nothing Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/its-murph-fade-into-nothing-tour-toronto-ontario-11-13-2026/event/10006522B3E0C9CD",
+          "availability": "available",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -519,6 +537,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "10:00 PM",
+          "artist": "Tobiahs",
+          "ticketUrl": "https://www.ticketmaster.ca/tobiahs-toronto-ontario-11-13-2026/event/10006514B317E3C6",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
@@ -635,24 +662,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-10-22",
-          "time": "5:00 p.m.",
-          "artist": "5th Element Jazz",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "8:00 p.m.",
-          "artist": "Mike Murley",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-10-23",
           "time": "5:00 p.m.",
           "artist": "Jake Hanlon Trio",
@@ -732,21 +741,30 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "5:00 p.m.",
+          "artist": "humber college Student Jazz ENSEMBLES",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "8:00 p.m.",
+          "artist": "John Macleod's Rex Hotel Orchestra",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
     {
       "id": "lees-palace",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "7:00 PM",
-          "artist": "Icon For Hire, Elijah, Lauren Babic",
-          "ticketUrl": "https://www.ticketweb.ca/event/icon-for-hire-elijah-lauren-lees-palace-tickets/14883443",
-          "availability": "available",
-          "price": "",
-          "genre": "rock"
-        },
         {
           "date": "2026-10-23",
           "time": "9:00 PM",
@@ -776,7 +794,7 @@
         },
         {
           "date": "2026-10-30",
-          "time": "10:30 PM",
+          "time": "10:00 PM",
           "artist": "2000's Night",
           "ticketUrl": "https://www.ticketweb.ca/event/2000s-night-lees-palace-tickets/14299234",
           "availability": "available",
@@ -818,21 +836,21 @@
           "availability": "available",
           "price": "",
           "genre": "world"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "9:00 PM",
+          "artist": "Twiztid with Special Guests",
+          "ticketUrl": "https://www.ticketweb.ca/event/twiztid-with-special-guests-lees-palace-tickets/14982973",
+          "availability": "available",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
     {
       "id": "el-mocambo",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "",
-          "artist": "TYNOMI BANKS Bombshelled",
-          "ticketUrl": "https://www.eventbrite.com/e/tynomi-banks-bombshelled-tickets-2002671173390?aff=oddtdtcreator",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-23",
           "time": "",
@@ -945,6 +963,15 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "7:30 PM",
+          "artist": "Journey",
+          "ticketUrl": "https://www.ticketmaster.ca/event/100064A2A4D49720?brand=SBA&camefrom=CFC_SBA_WEB_SCHEDULEPAGE_LINK_JOURNEY-11/04_5122026",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -959,15 +986,6 @@
     {
       "id": "cameron-house",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "6:00 p.m.",
-          "artist": "Corin Raymond",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-23",
           "time": "6:00 p.m.",
@@ -1082,15 +1100,6 @@
       "id": "the-rivoli",
       "events": [
         {
-          "date": "2026-10-22",
-          "time": "",
-          "artist": "Breaking Sound",
-          "ticketUrl": "https://www.tixr.com/groups/breakingsoundcanada/events/breaking-sound-canada-at-rivoli-10-22-206376",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
-        {
           "date": "2026-10-23",
           "time": "",
           "artist": "Paige Rutledge - The Last Call EP Release Party",
@@ -1107,15 +1116,6 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "",
-          "artist": "Parklife: Britpop Halloween",
-          "ticketUrl": "https://www.eventbrite.ca/e/parklife-britpop-halloween-tickets-2002648362161?aff=ebdssbdestsearch",
-          "availability": "",
-          "price": "",
-          "genre": "other"
         },
         {
           "date": "2026-10-31",
@@ -1197,21 +1197,21 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "",
+          "artist": "Hatchetmen: Mindless Album Release",
+          "ticketUrl": "https://www.eventbrite.ca/e/hatchetmen-release-party-tickets-1998903850225?aff=oddtdtcreator",
+          "availability": "",
+          "price": "",
+          "genre": "hip-hop/r&b"
         }
       ]
     },
     {
       "id": "drake-underground",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "",
-          "artist": "Nick Cheo",
-          "ticketUrl": "https://thedrake.ca/event/nick-cheo/",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-10-23",
           "time": "",
@@ -1238,6 +1238,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "",
+          "artist": "CHINCHILLA",
+          "ticketUrl": "https://thedrake.ca/event/chinchilla/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1258,15 +1267,6 @@
     {
       "id": "grossmans-tavern",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "8:00 PM",
-          "artist": "The 4th Open Mic",
-          "ticketUrl": "https://grossmanstavern.com/event/the-4th-open-mic-31/",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-23",
           "time": "7:00 PM",
@@ -1311,6 +1311,15 @@
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "9:00 PM",
+          "artist": "Sunday Jam Night Hosted by Ken Yoshioka",
+          "ticketUrl": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-ken-yoshioka-3/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -1318,10 +1327,10 @@
       "id": "castros-lounge",
       "events": [
         {
-          "date": "2026-10-22",
-          "time": "6:00 PM",
-          "artist": "Mike Daley &#038; Dylan Bell",
-          "ticketUrl": "https://castroslounge.com/event/mike-daley-dylan-bell-10/",
+          "date": "2026-10-23",
+          "time": "5:30 PM",
+          "artist": "Gary Lee Hill featuring Stacie Tabb",
+          "ticketUrl": "https://castroslounge.com/event/gary-lee-hill-featuring-stacie-tabb-15/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1394,15 +1403,6 @@
       "id": "hughs-room-live",
       "events": [
         {
-          "date": "2026-10-22",
-          "time": "8:00 PM",
-          "artist": "Discoveries Vol. 14 with Host Aleksi Campagne",
-          "ticketUrl": "https://www.showpass.com/discoveries-vol-14-with-musical-host-aleksi-campagne/",
-          "availability": "",
-          "price": "",
-          "genre": "country/folk"
-        },
-        {
           "date": "2026-10-23",
           "time": "",
           "artist": "Pearl: A Janis Joplin Experience",
@@ -1467,8 +1467,8 @@
         },
         {
           "date": "2026-10-29",
-          "time": "",
-          "artist": "Tom Allen & Lori Gemmel's Edgar Allen Poe Cabaret",
+          "time": "8:00 PM",
+          "artist": "Tom Allen & Lori Gemmel's Edgar Allen Poe Cabare t",
           "ticketUrl": "https://www.showpass.com/stevie-wonder-songs-in-the-key-of-life/",
           "availability": "",
           "price": "",
@@ -1536,6 +1536,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "",
+          "artist": "Cicada Woods Album Release w/ Medusa",
+          "ticketUrl": "https://www.showpass.com/cicada-woods-album-release-with-guests-medusa-quartet/",
+          "availability": "",
+          "price": "",
+          "genre": "electronic"
         }
       ]
     },
@@ -1543,10 +1552,10 @@
       "id": "jazz-bistro",
       "events": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-23",
           "time": "",
-          "artist": "Alyssa Giammaria Duos",
-          "ticketUrl": "https://jazzbistro.ca/event/alyssa-giammaria-duos-4/",
+          "artist": "The Mezz Trio",
+          "ticketUrl": "https://jazzbistro.ca/event/the-mezz-trio-4/",
           "availability": "",
           "price": "",
           "genre": "jazz/blues"
@@ -1596,6 +1605,15 @@
           "availability": "available",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "8:00 PM",
+          "artist": "Sami Beigi Live in Toronto",
+          "ticketUrl": "https://www.ticketmaster.ca/sami-beigi-live-in-toronto-toronto-ontario-11-13-2026/event/10006537ED540CAD",
+          "availability": "available",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
@@ -1620,15 +1638,6 @@
     {
       "id": "burdock",
       "events": [
-        {
-          "date": "2026-10-22",
-          "time": "8:00 PM",
-          "artist": "Jacob Brodovsky",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
         {
           "date": "2026-10-23",
           "time": "8:00 PM",
@@ -1673,6 +1682,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "8:00 PM",
+          "artist": "Raphael Weinroth-Browne - Empyrean Album Release Show",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },

@@ -428,3 +428,9 @@ Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for be
 ## 2026-10-22T16:00:02.871Z
 171 shows / 24 venues with listings
 (model note unavailable this run)
+
+## 2026-10-23T16:00:02.372Z
+173 shows / 24 venues with listings
+Health: Moderate; 173 shows captured, but 8 of 32 venues (25%) failed to return data.
+Attention: koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, and rogers-stadium.
+Improvement: Audit the "none" status venues to determine if they require new selectors or a shift to camofox/jsonld.
