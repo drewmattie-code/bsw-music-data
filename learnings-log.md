@@ -434,3 +434,9 @@ Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for be
 Health: Moderate; 173 shows captured, but 8 of 32 venues (25%) failed to return data.
 Attention: koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, and rogers-stadium.
 Improvement: Audit the "none" status venues to determine if they require new selectors or a shift to camofox/jsonld.
+
+## 2026-10-24T16:00:03.518Z
+0 shows / 0 venues with listings
+Critical failure: 0 shows retrieved across all 32 venues.
+All venues require source attention as every single one returned "none".
+Implement a connectivity check or proxy rotation to determine if the scraper is being blocked.
