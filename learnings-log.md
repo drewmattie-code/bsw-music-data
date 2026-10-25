@@ -440,3 +440,9 @@ Improvement: Audit the "none" status venues to determine if they require new sel
 Critical failure: 0 shows retrieved across all 32 venues.
 All venues require source attention as every single one returned "none".
 Implement a connectivity check or proxy rotation to determine if the scraper is being blocked.
+
+## 2026-10-25T16:00:03.201Z
+171 shows / 24 venues with listings
+Health: Stable, capturing 171 shows across 75% of venues.
+Attention: 8 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rogers-stadium).
+Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.
