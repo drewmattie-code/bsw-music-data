@@ -446,3 +446,9 @@ Implement a connectivity check or proxy rotation to determine if the scraper is 
 Health: Stable, capturing 171 shows across 75% of venues.
 Attention: 8 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rogers-stadium).
 Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.
+
+## 2026-10-26T16:00:03.027Z
+178 shows / 23 venues with listings
+Health: 178 shows captured across 23/32 venues (72% coverage).
+Attention: koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, great-hall, baby-g, monarch-tavern, adelaide-hall, rogers-stadium.
+Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for higher reliability.
