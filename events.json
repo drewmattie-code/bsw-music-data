@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T16:00:03.027Z",
-  "windowStart": "2026-10-26",
-  "windowEnd": "2026-11-16",
+  "generatedAt": "2026-10-27T16:00:04.318Z",
+  "windowStart": "2026-10-27",
+  "windowEnd": "2026-11-17",
   "venues": [
     {
       "id": "massey-hall",
@@ -87,15 +87,6 @@
     {
       "id": "danforth-music-hall",
       "events": [
-        {
-          "date": "2026-10-26",
-          "time": "7:00 PM",
-          "artist": "Quadeca",
-          "ticketUrl": "https://www.ticketmaster.ca/quadeca-toronto-ontario-10-26-2026/event/100064F5C342EC57",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
         {
           "date": "2026-10-28",
           "time": "7:00 PM",
@@ -239,21 +230,21 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "7:00 PM",
+          "artist": "Gene",
+          "ticketUrl": "https://www.ticketmaster.ca/gene-toronto-ontario-11-17-2026/event/100064A7DE91D8F8",
+          "availability": "",
+          "price": "",
+          "genre": "other"
         }
       ]
     },
     {
       "id": "history",
       "events": [
-        {
-          "date": "2026-10-26",
-          "time": "5:30 PM",
-          "artist": "Periphery - A Pale White Dot Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/periphery-a-pale-white-dot-tour-toronto-ontario-10-26-2026/event/100064B4012B4E26",
-          "availability": "available",
-          "price": "",
-          "genre": "metal/punk"
-        },
         {
           "date": "2026-10-27",
           "time": "7:00 PM",
@@ -304,7 +295,7 @@
           "time": "6:00 PM",
           "artist": "Sleeping With Sirens: An Ending In Itself Tour",
           "ticketUrl": "https://www.ticketmaster.ca/sleeping-with-sirens-an-ending-in-toronto-ontario-11-01-2026/event/100064CC83D182AF",
-          "availability": "available",
+          "availability": "limited",
           "price": "",
           "genre": "rock"
         },
@@ -397,6 +388,15 @@
           "availability": "available",
           "price": "",
           "genre": "metal/punk"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "7:00 PM",
+          "artist": "Orville Peck - Man Turned Mule Tour",
+          "ticketUrl": "https://www.ticketmaster.ca/orville-peck-man-turned-mule-tour-toronto-ontario-11-17-2026/event/100064F5C48AEF1F",
+          "availability": "limited",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -420,15 +420,6 @@
           "availability": "",
           "price": "",
           "genre": "other"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "7:00 PM",
-          "artist": "CUNTRESSAS in TORONTO",
-          "ticketUrl": "https://www.ticketmaster.ca/cuntressas-in-toronto-toronto-ontario-10-29-2026/event/100064E10D4AC580",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
         },
         {
           "date": "2026-10-30",
@@ -671,24 +662,6 @@
       "id": "the-rex",
       "events": [
         {
-          "date": "2026-10-26",
-          "time": "5:00 p.m.",
-          "artist": "humber college Student Jazz ENSEMBLES",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "8:00 p.m.",
-          "artist": "John Macleod's Rex Hotel Orchestra",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "jazz/blues"
-        },
-        {
           "date": "2026-10-27",
           "time": "5:00 p.m.",
           "artist": "James Griffith",
@@ -768,6 +741,24 @@
           "availability": "",
           "price": "",
           "genre": "rock"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "5:00 p.m.",
+          "artist": "The Emmett Hodgins Trio",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "8:00 p.m.",
+          "artist": "Peter Bernstein & Lorne Lofsky",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
         }
       ]
     },
@@ -902,17 +893,8 @@
       "id": "scotiabank-arena",
       "events": [
         {
-          "date": "2026-10-26",
-          "time": "",
-          "artist": "Olivia Rodrigo The Unraveled Tour",
-          "ticketUrl": "https://www.ticketmaster.ca/artist/2836194?venueId=131157",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-10-27",
-          "time": "",
+          "time": "7:00 PM",
           "artist": "Olivia Rodrigo The Unraveled Tour",
           "ticketUrl": "https://www.ticketmaster.ca/artist/2836194?venueId=131157",
           "availability": "",
@@ -1138,6 +1120,15 @@
           "availability": "",
           "price": "",
           "genre": "country/folk"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "6:00 p.m.",
+          "artist": "Cameron Family Singers",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
         }
       ]
     },
@@ -1240,15 +1231,6 @@
       "id": "drake-underground",
       "events": [
         {
-          "date": "2026-10-26",
-          "time": "",
-          "artist": "CHINCHILLA",
-          "ticketUrl": "https://thedrake.ca/event/chinchilla/",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-10-28",
           "time": "",
           "artist": "MARIS",
@@ -1292,12 +1274,103 @@
           "availability": "",
           "price": "",
           "genre": "pop"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "",
+          "artist": "NATANYA",
+          "ticketUrl": "https://thedrake.ca/event/natanya/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
         }
       ]
     },
     {
       "id": "great-hall",
-      "events": []
+      "events": [
+        {
+          "date": "2026-11-01",
+          "time": "7:00 pm",
+          "artist": "death on the hills",
+          "ticketUrl": "https://thegreathall.ca/event/death-on-the-hills/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "7:00 pm",
+          "artist": "Porch Light",
+          "ticketUrl": "https://thegreathall.ca/event/porch-light/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "7:00 pm",
+          "artist": "DEV LEMONS EAT THE PAVEMENT TOUR",
+          "ticketUrl": "https://thegreathall.ca/event/dev-lemons-eat-the-pavement-tour/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "7:00 pm",
+          "artist": "THE EAST POINTERS",
+          "ticketUrl": "https://thegreathall.ca/event/the-east-pointers-2/",
+          "availability": "",
+          "price": "",
+          "genre": "world"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "7:00 pm",
+          "artist": "Weatherday",
+          "ticketUrl": "https://thegreathall.ca/event/weatherday/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "6:00 pm",
+          "artist": "Godfrey",
+          "ticketUrl": "https://thegreathall.ca/event/godfrey/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "9:00 pm",
+          "artist": "Godfrey",
+          "ticketUrl": "https://thegreathall.ca/event/godfrey-2/",
+          "availability": "",
+          "price": "",
+          "genre": "other"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "7:00 pm",
+          "artist": "Daniel James McFayden",
+          "ticketUrl": "https://thegreathall.ca/event/daniel-james-mcfayden/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "7:00 pm",
+          "artist": "CANNELLE",
+          "ticketUrl": "https://thegreathall.ca/event/cannelle/",
+          "availability": "",
+          "price": "",
+          "genre": "pop"
+        }
+      ]
     },
     {
       "id": "grossmans-tavern",
@@ -1389,6 +1462,24 @@
           "genre": "rock"
         },
         {
+          "date": "2026-10-31",
+          "time": "5:00 PM",
+          "artist": "Steve Ketchen &#038; His Honky Tonky Revue",
+          "ticketUrl": "https://castroslounge.com/event/steve-ketchen-his-honky-tonky-revue-2/",
+          "availability": "",
+          "price": "",
+          "genre": "country/folk"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "3:00 PM",
+          "artist": "Vinyl Dusters",
+          "ticketUrl": "https://castroslounge.com/event/vinyl-dusters-2/",
+          "availability": "",
+          "price": "",
+          "genre": "jazz/blues"
+        },
+        {
           "date": "2026-11-02",
           "time": "7:30 PM",
           "artist": "Tom Waits Appreciation Congregation",
@@ -1446,15 +1537,6 @@
     {
       "id": "hughs-room-live",
       "events": [
-        {
-          "date": "2026-10-26",
-          "time": "730PM",
-          "artist": "Well Seasoned Productions: A Decade of Stars",
-          "ticketUrl": "https://www.eventbrite.ca/e/well-seasoned-productions-a-decade-of-stars-tickets-2001664552560",
-          "availability": "",
-          "price": "",
-          "genre": "other"
-        },
         {
           "date": "2026-10-27",
           "time": "8:00 PM",
@@ -1571,6 +1653,15 @@
           "availability": "",
           "price": "",
           "genre": "other"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "",
+          "artist": "Everybody Here Wants You – The Music of Jeff Buckley",
+          "ticketUrl": "https://www.showpass.com/everybody-here-wants-you-the-music-of-jeff-buckley/",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
@@ -1683,15 +1774,6 @@
       "id": "burdock",
       "events": [
         {
-          "date": "2026-10-26",
-          "time": "8:30 PM",
-          "artist": "Nadia",
-          "ticketUrl": "",
-          "availability": "",
-          "price": "",
-          "genre": "pop"
-        },
-        {
           "date": "2026-10-27",
           "time": "8:00 PM",
           "artist": "Age Ain't Nothing But A Number",
@@ -1703,11 +1785,11 @@
         {
           "date": "2026-10-29",
           "time": "8:00 PM",
-          "artist": "Raphael Weinroth-Browne",
+          "artist": "Raphael Weinroth-Browne - Empyrean Album Release Show",
           "ticketUrl": "",
           "availability": "",
           "price": "",
-          "genre": "classical"
+          "genre": "jazz/blues"
         },
         {
           "date": "2026-10-30",
@@ -1721,7 +1803,7 @@
         {
           "date": "2026-10-31",
           "time": "8:00 PM",
-          "artist": "Leaf: A Tribute to Title Fight",
+          "artist": "Leaf: A Tribute to Title Fight (Halloween Night) + Special Guests",
           "ticketUrl": "",
           "availability": "",
           "price": "",
@@ -1735,6 +1817,15 @@
           "availability": "",
           "price": "",
           "genre": "hip-hop/r&b"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "8:00 PM",
+          "artist": "Slow Leaves + Nixon Boyd",
+          "ticketUrl": "",
+          "availability": "",
+          "price": "",
+          "genre": "rock"
         }
       ]
     },
