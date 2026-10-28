@@ -458,3 +458,7 @@ Improvement: Attempt to migrate "model" and "camofox" sources to "jsonld" for hi
 Health: Stable, capturing 188 shows across 75% of venues.
 Attention: 8 venues returned 0 results (koerner-hall, td-music-hall, coca-cola-coliseum, budweiser-stage, baby-g, monarch-tavern, adelaide-hall, rogers-stadium).
 Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reliability.
+
+## 2026-10-28T16:00:02.677Z
+181 shows / 21 venues with listings
+(model note unavailable this run)
