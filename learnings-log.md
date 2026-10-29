@@ -462,3 +462,7 @@ Improvement: Attempt to migrate "model" based venues to "jsonld" for higher reli
 ## 2026-10-28T16:00:02.677Z
 181 shows / 21 venues with listings
 (model note unavailable this run)
+
+## 2026-10-29T16:00:03.459Z
+179 shows / 21 venues with listings
+(model note unavailable this run)
