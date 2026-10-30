@@ -4,21 +4,21 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/massey-hall-tickets-toronto/venue/131094",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "roy-thomson-hall": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/roy-thomson-hall-tickets-toronto/venue/131112",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "koerner-hall": {
-    "consecutiveFailures": 81,
+    "consecutiveFailures": 82,
     "notes": []
   },
   "td-music-hall": {
-    "consecutiveFailures": 19,
+    "consecutiveFailures": 20,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/td-music-hall-allied-music-centre-tickets-toronto/venue/132528",
     "strategy": "model",
@@ -29,73 +29,73 @@
     "notes": [],
     "workingUrl": "https://www.thedanforth.com/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "history": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/history-tickets-toronto/venue/132501",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "opera-house": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.theoperahousetoronto.com/shows",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "phoenix-concert-theatre": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thephoenixconcerttheatre.com/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "horseshoe-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/the-horseshoe-tavern-tickets-toronto/venue/131087",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "the-rex": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.therex.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "lees-palace": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/lees-palace-tickets-toronto/venue/131090",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "el-mocambo": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://elmocambo.com/events-new/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "scotiabank-arena": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.scotiabankarena.com/events",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "coca-cola-coliseum": {
-    "consecutiveFailures": 20,
+    "consecutiveFailures": 21,
     "notes": [],
     "workingUrl": "https://www.coca-colacoliseum.com/events",
     "strategy": "model",
     "lastSuccess": "2026-10-09"
   },
   "budweiser-stage": {
-    "consecutiveFailures": 26,
+    "consecutiveFailures": 27,
     "notes": [],
     "workingUrl": "https://www.rbcamphitheatre.com/",
     "strategy": "jsonld",
@@ -106,21 +106,21 @@
     "notes": [],
     "workingUrl": "https://www.thecameron.com/shows",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "the-rivoli": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://www.rivolitoronto.com/shows",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "drake-underground": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://thedrake.ca/thedrakehotel/drake-underground/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "great-hall": {
     "consecutiveFailures": 0,
@@ -129,28 +129,28 @@
     ],
     "workingUrl": "https://thegreathall.ca/calendar/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "grossmans-tavern": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "http://www.grossmanstavern.com",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "castros-lounge": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "https://castroslounge.com/events/",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "baby-g": {
-    "consecutiveFailures": 80,
+    "consecutiveFailures": 81,
     "notes": []
   },
   "monarch-tavern": {
-    "consecutiveFailures": 82,
+    "consecutiveFailures": 83,
     "notes": []
   },
   "hughs-room-live": {
@@ -158,14 +158,14 @@
     "notes": [],
     "workingUrl": "https://hughsroomlive.com/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "jazz-bistro": {
     "consecutiveFailures": 0,
     "notes": [],
     "workingUrl": "http://jazzbistro.ca/",
     "strategy": "model",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "rose-theatre-brampton": {
     "consecutiveFailures": 0,
@@ -178,10 +178,10 @@
     "notes": [],
     "workingUrl": "https://www.ticketmaster.ca/meridian-hall-tickets-toronto/venue/131106",
     "strategy": "jsonld",
-    "lastSuccess": "2026-10-29"
+    "lastSuccess": "2026-10-30"
   },
   "living-arts-centre": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "notes": [],
     "strategy": "camofox",
     "lastSuccess": "2026-10-27"
@@ -1296,6 +1296,13 @@
     "mad tsai": "other",
     "mike daley &#038; eric schenkman": "other",
     "matinee the irish descendants: our tribute to stan rogers": "other",
-    "bendelacreme presents the jinkx & dela holiday show": "other"
+    "bendelacreme presents the jinkx & dela holiday show": "other",
+    "daniel sloss: bitter (brand new tour!)": "other",
+    "blackie and the rodeo kings": "other",
+    "gryffin": "other",
+    "around the corner presents: man is five, mad iris, mellow casualty and hockey academy": "other",
+    "thehonestguy": "other",
+    "gary lee hill featuring sean leahy": "other",
+    "jim jefferies: son of a carpenter": "other"
   }
 }
